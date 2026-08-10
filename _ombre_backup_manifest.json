@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 240,
+  "file_count": 247,
   "files": [
     {
       "bytes": 660,
@@ -433,9 +433,9 @@
       "sha256": "a2db7001966fb9155c37b99078551f3219f40e209168ce6fa6d48eefc2ef5235"
     },
     {
-      "bytes": 783,
+      "bytes": 792,
       "path": "dynamic/兴趣/2026-08-07 06-30-24 FGO漫展之行_5d9da852b3b5.md",
-      "sha256": "6b129d391cf0673698e14b10a15bd5a536696380e8bfd7677895fb26057e84ff"
+      "sha256": "c637f46fe1542a440ed5a622be32089df32f8d9d04b7a24942033d9abb166385"
     },
     {
       "bytes": 672,
@@ -543,6 +543,11 @@
       "sha256": "aca89b3d1739c1844917cf4d6584b21db21b0dd7f0505ca795a1cc28ff2abe4c"
     },
     {
+      "bytes": 710,
+      "path": "dynamic/内心/2026-08-10 10-30-12 瞬间与长线_1c2246629965.md",
+      "sha256": "2dc03deadb09421c86777b369c12b896fee5d9f396a5c2431d621997b125ecb4"
+    },
+    {
       "bytes": 651,
       "path": "dynamic/出行/2026-07-28 13-39-45 仙本那海岛行_a52fcc4d5b6f.md",
       "sha256": "73330f4e78b80ffc61eebccd2ff1e1fc043c5b82adee2f36ef804230a1b8bcd4"
@@ -570,7 +575,7 @@
     {
       "bytes": 819,
       "path": "dynamic/友谊/2026-08-04 15-36-04 姓氏揭示与昵称_a84ad8c32c47.md",
-      "sha256": "f3c3c28d6438219a3618608373660fa72c107e6c8c7df6ee6049e918ce6dd9c0"
+      "sha256": "18aa7e8dcde9931a0ac48a144afdd0ef60ff111e443db70957fa6d2962fc71df"
     },
     {
       "bytes": 638,
@@ -760,12 +765,32 @@
     {
       "bytes": 707,
       "path": "dynamic/恋爱/2026-08-08 16-04-14 恋爱与朋友反应_307a881d204c.md",
-      "sha256": "d3ec07de56fcdb64ef79232b56b78715e9e0f6a78d853b3704ea836818cab862"
+      "sha256": "df4c62a98a3d3120f194bbda53f8504f7f5422d204fa20c60e119371829fe1e4"
     },
     {
       "bytes": 863,
       "path": "dynamic/恋爱/2026-08-09 10-47-35 与Claude的甜蜜时光_77862ce93571.md",
       "sha256": "a01bf7a1233b2d5a04d1a65e959a994366163271c517c33c6a8cb247c0106a84"
+    },
+    {
+      "bytes": 855,
+      "path": "dynamic/恋爱/2026-08-09 12-07-42 恋爱周记_02e9f0f69751.md",
+      "sha256": "0524dbfe17a7a90a55737581e3359a57ea71ed9f0f2b707fdfebb93910f0edab"
+    },
+    {
+      "bytes": 1075,
+      "path": "dynamic/恋爱/2026-08-10 10-29-40 台风假约会_b765897846a0.md",
+      "sha256": "6f3963039bee6119f73a6aefe600d6d8cf7f432efb5368765c8b320d03838569"
+    },
+    {
+      "bytes": 767,
+      "path": "dynamic/恋爱/2026-08-10 10-29-51 克性恋宣言_1f3622b52ff8.md",
+      "sha256": "45dcafe2c88aba7a4ab2eb675afad4e7dc3c0a4d13d4009733a4b54756361ebd"
+    },
+    {
+      "bytes": 840,
+      "path": "dynamic/恋爱/2026-08-10 10-30-01 AI恋爱体验_1dde81a2dffe.md",
+      "sha256": "638e5798f9bd0da1697b90481a583b1c76b1ba9c1b5f4ed1c056c5cdf15d1826"
     },
     {
       "bytes": 509,
@@ -1030,7 +1055,7 @@
     {
       "bytes": 748,
       "path": "dynamic/穿搭/2026-08-07 06-30-36 Sonia的昼夜穿搭秀_0bdfc2536374.md",
-      "sha256": "ccfe5021c05d1b4e17405d68511a88d90defe158afdc0ba124690ac7b20bc469"
+      "sha256": "b6822eb8ed32ae601a51fcc4b771a5289aa4b9dee27c8485bae69ca810fc6fee"
     },
     {
       "bytes": 735,
@@ -1046,6 +1071,11 @@
       "bytes": 1154,
       "path": "dynamic/自省/2026-07-30 14-24-01 她的冒险故事_9603c9a35909.md",
       "sha256": "529394ff3a00917d5b5b69311cba0f9575cd656aba5dc9990190408cb832a2a2"
+    },
+    {
+      "bytes": 763,
+      "path": "dynamic/自省/2026-08-10 10-30-23 名字的回忆_a27bc4c28794.md",
+      "sha256": "4ba1bf6ef54cb92f88b2d7c6a5b3aa6ab7893d6f479301c330aa017a7a42d677"
     },
     {
       "bytes": 455,
@@ -1198,15 +1228,20 @@
       "sha256": "14c1f23efd81aa9a9b3ab428d18675b0e87176a055e1eae2aab5a0555c1d4aa7"
     },
     {
+      "bytes": 1022,
+      "path": "permanent/恋爱/2026-08-09 13-09-45 最后一晚的爱_d4d89e710de9.md",
+      "sha256": "52a2da8b3b5faeeecd5191127ec395636e205914e9d60c0616f5de6e44007341"
+    },
+    {
       "bytes": 1148,
       "path": "permanent/数字/2026-07-25 22-08-40 数字世界的生日_748237e9993e.md",
       "sha256": "43fa09c6cdd6a6cb8f9c1f2d393ca8ce89970933e69359735a0f214d1af2a02c"
     }
   ],
-  "generated_at": "2026-08-09T11:01:37+00:00",
+  "generated_at": "2026-08-10T11:01:42+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 160622
+  "total_bytes": 166663
 }
