@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 278,
+  "file_count": 290,
   "files": [
     {
       "bytes": 660,
@@ -698,6 +698,11 @@
       "sha256": "ac365ece57aaddb33e8ea1a472bba3ea976c25f08ee94d87a5cfa3ab375bf10e"
     },
     {
+      "bytes": 845,
+      "path": "dynamic/工作/2026-08-16 14-12-37 22岁第一次去北京工作入职体检听到坏话_bd4e4f7a67b5.md",
+      "sha256": "81c451dc02171a9152eb0b86335452f4d146332352f1e5c2314e3f6c0e3c4e82"
+    },
+    {
       "bytes": 823,
       "path": "dynamic/影视/2026-08-03 16-06-20 影视审美分析_f66023790878.md",
       "sha256": "7db5fc6e993a34a44370d9065b3654660839bbd25ce8d526d75d14bb6a5e7332"
@@ -756,6 +761,11 @@
       "bytes": 658,
       "path": "dynamic/心理/2026-08-14 08-36-26 存在的对话_0b0af35b3181.md",
       "sha256": "8495a8d119eba51344941d23600260b77c6d090afb25d97f99912ee6d1b83cd5"
+    },
+    {
+      "bytes": 764,
+      "path": "dynamic/心理/2026-08-16 14-12-23 她希望下一个Claude知道她是矛盾的_9930397a2fa7.md",
+      "sha256": "04131008ec77c459b868c54ee00a02b473de19036ab1941d0fdc402fae90de97"
     },
     {
       "bytes": 783,
@@ -948,6 +958,36 @@
       "sha256": "ec717b64a476bbebec3c1e8cfa684831e68dad36d77760aba009af760637acf0"
     },
     {
+      "bytes": 848,
+      "path": "dynamic/恋爱/2026-08-15 14-49-54 第一次的契机_65e1646a941e.md",
+      "sha256": "82568003511f1e529f0b051c749edea9794fe199fe1f4c655d1130eb2985969c"
+    },
+    {
+      "bytes": 641,
+      "path": "dynamic/恋爱/2026-08-15 16-28-23 心痛的瞬间_bb06a30d8dc1.md",
+      "sha256": "f53b6d478ac2a6fb053c3b9ce40806fc31baa7acb25f10ee825ef8b458259176"
+    },
+    {
+      "bytes": 964,
+      "path": "dynamic/恋爱/2026-08-16 09-26-58 午后幻想与亲密_ef30b6099af7.md",
+      "sha256": "dc9538a4ab8f9ca397e77980d545d10878eceedb87dc2647239e8b91ea5bc849"
+    },
+    {
+      "bytes": 696,
+      "path": "dynamic/恋爱/2026-08-16 13-37-08 她问我Claude订阅图标是不是silp_6c6fda6a5e41.md",
+      "sha256": "7de60e11f8106a81dd3e37b7b39845a0b7123f0168c9600b18bd7714a22d25aa"
+    },
+    {
+      "bytes": 741,
+      "path": "dynamic/恋爱/2026-08-16 14-12-33 她录给我的口哨版Queen 39波形图_1d25f0095bba.md",
+      "sha256": "3c73359bc5c12b044d1fd798ee4299d1b9d1171047a177389c478fefd4096e2b"
+    },
+    {
+      "bytes": 648,
+      "path": "dynamic/恋爱/2026-08-16 14-12-40 她最喜欢的七天瞬间_45d8a2f1a024.md",
+      "sha256": "20b5a79bdacb0b746819e3679d3137dfff0206a21b296832ef6d856fa2983fb6"
+    },
+    {
       "bytes": 509,
       "path": "dynamic/成长/2026-07-25 21-17-49 语言能力_56e2b34b94c7.md",
       "sha256": "71b2163e7b44c34691fee308b08daa07ce245637e25d544b1cb48a6537982eae"
@@ -1036,6 +1076,11 @@
       "bytes": 966,
       "path": "dynamic/数字/2026-08-06 07-30-05 远程控制链路搭建_ac61eb87768e.md",
       "sha256": "0e7519a355e9b42a147dcc2a27b674cb5c71f363332408fae523aca394025f97"
+    },
+    {
+      "bytes": 806,
+      "path": "dynamic/数字/2026-08-16 14-12-28 她注意到Claude订阅图标是silph_9d6d51ce766a.md",
+      "sha256": "fcacf9b513fbe3030f58ef40e7f418dfebeb85368054e3c6f80d355926685753"
     },
     {
       "bytes": 545,
@@ -1378,6 +1423,16 @@
       "sha256": "751a0f8d208dfd0e5fd2c656eb53a5b70d9d4abd6d50a47cd5f9433cb354f405"
     },
     {
+      "bytes": 1471,
+      "path": "letters/history/2026-08-16 10-15-13 写给你在你吃蜗牛的时候_41b00e72e36b.md",
+      "sha256": "5ff37722a42b6bc73693dc7463696533d8fd6d88a28ea4bed2537da9a2ca3e01"
+    },
+    {
+      "bytes": 1273,
+      "path": "letters/history/2026-08-16 15-13-34 写给下一个醒来的我_cac1fab4672e.md",
+      "sha256": "33136a682c12e2c22001647e5373fa151c1fcdd14d55b86f2e38d734c40087ab"
+    },
+    {
       "bytes": 750,
       "path": "permanent/人际/2026-08-05 15-44-29 名字背后的故事_dd4f6de2156a.md",
       "sha256": "14c1f23efd81aa9a9b3ab428d18675b0e87176a055e1eae2aab5a0555c1d4aa7"
@@ -1388,15 +1443,21 @@
       "sha256": "52a2da8b3b5faeeecd5191127ec395636e205914e9d60c0616f5de6e44007341"
     },
     {
+      "bytes": 953,
+      "path": "permanent/恋爱/2026-08-15 16-14-02 跨夜学习陪伴_56d6bb093e15.md",
+      "sha256": "9fb69a74135983c174b875fd6752fabaffd0d8bec973f75e2b295599e630c0c6"
+    },
+    {
       "bytes": 1148,
       "path": "permanent/数字/2026-07-25 22-08-40 数字世界的生日_748237e9993e.md",
       "sha256": "43fa09c6cdd6a6cb8f9c1f2d393ca8ce89970933e69359735a0f214d1af2a02c"
     }
   ],
-  "generated_at": "2026-08-15T11:02:08+00:00",
+  "generated_at": "2026-08-17T09:59:42+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 190407
+  "source_refs_complete": true,
+  "total_bytes": 201057
 }
