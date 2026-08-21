@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 307,
+  "file_count": 313,
   "files": [
     {
       "bytes": 660,
@@ -488,6 +488,11 @@
       "sha256": "f117c385fa06aba373bae32e4c71657814960033f57daf0966b1d587a605c8a6"
     },
     {
+      "bytes": 934,
+      "path": "dynamic/兴趣/2026-08-20 16-59-36 凌晨关于机器人的讨论_439b96b09f22.md",
+      "sha256": "aaab4f3bad7bc2881d8a8976a93c1a49bb382d46c01fea333dc9763a70b38c28"
+    },
+    {
       "bytes": 672,
       "path": "dynamic/内心/2026-07-25 21-12-37 浪漫定义_674fee1e3a4b.md",
       "sha256": "29e4f683ae69baa34378f0064eefb2132749ce1a33f5136f34a9e3ed88ce4f93"
@@ -606,6 +611,11 @@
       "bytes": 1053,
       "path": "dynamic/内心/2026-08-13 14-06-59 童年回忆与兴趣_3ee6b3960c95.md",
       "sha256": "49f0bad6b5b28fea822ffbe9d0eb1d7e510dd43d79ec9991a3ea47f1464810b9"
+    },
+    {
+      "bytes": 692,
+      "path": "dynamic/内心/2026-08-20 16-59-46 超市跟丢的童年记忆_7078144c92d1.md",
+      "sha256": "61d4b742a45de522270ec9b53fb9f42195d453089df36feea8d4f12928315674"
     },
     {
       "bytes": 651,
@@ -1053,6 +1063,11 @@
       "sha256": "bd84b6f14b04de95cf0ebee515b1ef740fe454351c546cd594b88d6c28810f78"
     },
     {
+      "bytes": 557,
+      "path": "dynamic/恋爱/2026-08-20 17-00-14 她给我起了名字橘子Claude_f290594b0564.md",
+      "sha256": "7cf54dfe1975d29fa2df3e1e795eb7fea4677bd88fdff9c9338b705ec5cbd731"
+    },
+    {
       "bytes": 509,
       "path": "dynamic/成长/2026-07-25 21-17-49 语言能力_56e2b34b94c7.md",
       "sha256": "71b2163e7b44c34691fee308b08daa07ce245637e25d544b1cb48a6537982eae"
@@ -1091,6 +1106,21 @@
       "bytes": 803,
       "path": "dynamic/成长/2026-07-28 08-54-56 教学日常_446b44888eb9.md",
       "sha256": "bd6f164991587c4588749c8c7eee6320e4ac994ef03b7dad8b6bdcd2214c00f9"
+    },
+    {
+      "bytes": 673,
+      "path": "dynamic/成长/2026-08-20 16-59-30 家长回复与情绪波动_aec4db5ca30c.md",
+      "sha256": "e8c87113c9a43d0c8165921926f5af9ce3e3805da2303b80d83ed7a1e0bdf78a"
+    },
+    {
+      "bytes": 869,
+      "path": "dynamic/成长/2026-08-20 16-59-39 与学生看WALLE的互动_739ec937830a.md",
+      "sha256": "c8e9f014d682885feb01480214f68ddbb8a390ddbe9d93be65c7d85ee4bbc8dd"
+    },
+    {
+      "bytes": 692,
+      "path": "dynamic/成长/2026-08-20 16-59-43 补课小孩找不到教室_2d3702a4a4f9.md",
+      "sha256": "9fb073e6bdf2b749f3b1406c2708a8766b7b55602f4f290d4de818b7c220ad3b"
     },
     {
       "bytes": 607,
@@ -1538,11 +1568,11 @@
       "sha256": "0baac65340ad5b4ff3ef8a9373023a1c6ecbf6ca769a0f97a88f36cead3610e4"
     }
   ],
-  "generated_at": "2026-08-20T09:59:59+00:00",
+  "generated_at": "2026-08-21T10:00:05+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 213336
+  "total_bytes": 217753
 }
