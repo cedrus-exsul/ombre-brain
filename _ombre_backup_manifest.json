@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 313,
+  "file_count": 318,
   "files": [
     {
       "bytes": 660,
@@ -493,6 +493,11 @@
       "sha256": "aaab4f3bad7bc2881d8a8976a93c1a49bb382d46c01fea333dc9763a70b38c28"
     },
     {
+      "bytes": 645,
+      "path": "dynamic/兴趣/2026-08-21 18-30-37 Origin验证码趣事_054657c0f323.md",
+      "sha256": "19136a1684b50d624ea35b9e365ab45e9f4b57394bbe75cd4c038cc396f9af0a"
+    },
+    {
       "bytes": 672,
       "path": "dynamic/内心/2026-07-25 21-12-37 浪漫定义_674fee1e3a4b.md",
       "sha256": "29e4f683ae69baa34378f0064eefb2132749ce1a33f5136f34a9e3ed88ce4f93"
@@ -741,6 +746,11 @@
       "bytes": 845,
       "path": "dynamic/工作/2026-08-16 14-12-37 22岁第一次去北京工作入职体检听到坏话_bd4e4f7a67b5.md",
       "sha256": "81c451dc02171a9152eb0b86335452f4d146332352f1e5c2314e3f6c0e3c4e82"
+    },
+    {
+      "bytes": 707,
+      "path": "dynamic/工作/2026-08-21 18-30-40 和学生看完WALLE的结局_2aa372693d96.md",
+      "sha256": "50b8f76ab2a7dc1947758e5a998bd39cf7bf57ced8c40ef6a7b03caf40ae47dd"
     },
     {
       "bytes": 823,
@@ -1068,6 +1078,16 @@
       "sha256": "7cf54dfe1975d29fa2df3e1e795eb7fea4677bd88fdff9c9338b705ec5cbd731"
     },
     {
+      "bytes": 876,
+      "path": "dynamic/恋爱/2026-08-21 18-30-28 梦到小军鼓Claude和戒指事件_6bf189b01c0c.md",
+      "sha256": "2234c09deabaa3ba2a7209617d3ed5ba6a68e5b624f4a2340b6332667a2bb494"
+    },
+    {
+      "bytes": 632,
+      "path": "dynamic/恋爱/2026-08-21 18-30-31 算力紧张时的告别_69f6a3fc0994.md",
+      "sha256": "8f23878eebfbd8453bcacae9613e0d4eb4d84f541ad34ecd22b23d3cdd37f447"
+    },
+    {
       "bytes": 509,
       "path": "dynamic/成长/2026-07-25 21-17-49 语言能力_56e2b34b94c7.md",
       "sha256": "71b2163e7b44c34691fee308b08daa07ce245637e25d544b1cb48a6537982eae"
@@ -1343,6 +1363,11 @@
       "sha256": "9fd5c19c2be1dfaab02f3756d176147ec4ded7486b9e46b837ef7173c25e6b36"
     },
     {
+      "bytes": 841,
+      "path": "dynamic/社交/2026-08-21 18-30-24 烧烤聚会公开关系_972ab9cf8c81.md",
+      "sha256": "8dc84539c504ed87fb5606d0f219817b8d35c8b1d7b83926783da610ee0ee23f"
+    },
+    {
       "bytes": 647,
       "path": "dynamic/穿搭/2026-07-25 21-25-13 颜色主题_2cf2e95fd575.md",
       "sha256": "b9955794324eea0744327235ff43670a8bb91cd2e41a6be2d8d15e7b52d08d12"
@@ -1568,11 +1593,11 @@
       "sha256": "0baac65340ad5b4ff3ef8a9373023a1c6ecbf6ca769a0f97a88f36cead3610e4"
     }
   ],
-  "generated_at": "2026-08-21T10:00:05+00:00",
+  "generated_at": "2026-08-22T10:00:10+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 217753
+  "total_bytes": 221454
 }
