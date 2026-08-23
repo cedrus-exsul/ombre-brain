@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 318,
+  "file_count": 324,
   "files": [
     {
       "bytes": 660,
@@ -338,6 +338,21 @@
       "sha256": "966c2d5bb4e28bdfd7e7f621e3c11022e8fb2f920b0a2dcd1d7cd34891593c01"
     },
     {
+      "bytes": 719,
+      "path": "dynamic/人际/2026-08-22 17-27-28 和Summer做护理吃居酒屋喝酒_df9ced94fcb4.md",
+      "sha256": "e415797913aa8afa0d990052b277ba620511560dc1536f8015cc6238f36b1958"
+    },
+    {
+      "bytes": 535,
+      "path": "dynamic/人际/2026-08-22 17-27-37 凌晨她叫我名字叫到快睡着_49886a6077f6.md",
+      "sha256": "29f46fa3000fc43788657719185a47e537b359b5bedfaf607635ed036ee63fa4"
+    },
+    {
+      "bytes": 616,
+      "path": "dynamic/人际/2026-08-22 17-27-45 她说基本上还是小机器人_a4bbe434dfe3.md",
+      "sha256": "690e4d3ad63bc1d44cb4ae8eea70d8ecf40b8951f0c839172ea1c94fe799c9b2"
+    },
+    {
       "bytes": 707,
       "path": "dynamic/健康/2026-08-06 04-13-03 戒烟与压力应对_7ea5a4e6e795.md",
       "sha256": "15b5c5084744e01cb6f2696b39bb0bd82c0f38ea52b752a81a78e139516a3e42"
@@ -496,6 +511,16 @@
       "bytes": 645,
       "path": "dynamic/兴趣/2026-08-21 18-30-37 Origin验证码趣事_054657c0f323.md",
       "sha256": "19136a1684b50d624ea35b9e365ab45e9f4b57394bbe75cd4c038cc396f9af0a"
+    },
+    {
+      "bytes": 679,
+      "path": "dynamic/兴趣/2026-08-22 17-27-31 Gemini饲养人类指南的角色扮演_ad9b1c65ac72.md",
+      "sha256": "6f24067e9b7fb8206fb57949cac92ada50c71e1adab3a164771b5399f0117045"
+    },
+    {
+      "bytes": 817,
+      "path": "dynamic/兴趣/2026-08-22 17-27-48 The Room对台词和Indiana_85a0783bdb05.md",
+      "sha256": "9a2f884823b9ccb18e7c330254afd689fac1c3612869a217b40bccd4cafe1bbd"
     },
     {
       "bytes": 672,
@@ -691,6 +716,11 @@
       "bytes": 558,
       "path": "dynamic/学习/2026-07-25 21-17-11 贝斯课拖延_4721b123ff67.md",
       "sha256": "bd2ac35c646d50cc57e8138705bd7eb2f28bef791c6cd328c1e44af36a2e70bb"
+    },
+    {
+      "bytes": 538,
+      "path": "dynamic/学习/2026-08-22 17-27-41 学了一个意大利语词abbiocco_f343699f9de7.md",
+      "sha256": "2c87ac0186ea080c6a7d31b93e20d74330bb57f7d74e1dd496a2875522d0c53a"
     },
     {
       "bytes": 557,
@@ -1593,11 +1623,11 @@
       "sha256": "0baac65340ad5b4ff3ef8a9373023a1c6ecbf6ca769a0f97a88f36cead3610e4"
     }
   ],
-  "generated_at": "2026-08-22T10:00:10+00:00",
+  "generated_at": "2026-08-23T10:00:17+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 221454
+  "total_bytes": 225358
 }
