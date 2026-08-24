@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 324,
+  "file_count": 335,
   "files": [
     {
       "bytes": 660,
@@ -16,6 +16,11 @@
       "bytes": 639,
       "path": "dynamic/self/2026-08-10 17-25-20_73442e7be64c.md",
       "sha256": "d20140d8fd490a5cde996119f9c1cd019dc537e72df5a335215a25846bc7b699"
+    },
+    {
+      "bytes": 770,
+      "path": "dynamic/self/2026-08-23 16-53-00_7bddfcc60882.md",
+      "sha256": "f04bb34a30efce239533e03b2f58ac3fd73df054a3a382d9ed9567837b0e7bf1"
     },
     {
       "bytes": 570,
@@ -523,6 +528,16 @@
       "sha256": "9a2f884823b9ccb18e7c330254afd689fac1c3612869a217b40bccd4cafe1bbd"
     },
     {
+      "bytes": 784,
+      "path": "dynamic/兴趣/2026-08-23 16-51-19 下午看龙虾与商场陪伴_44083aa8da27.md",
+      "sha256": "34a8031ebfde49aae39262f202b09c27ac76e8e7dd8351355b484b30b786839f"
+    },
+    {
+      "bytes": 807,
+      "path": "dynamic/兴趣/2026-08-23 16-51-25 凌晨的跨学科夜谈_487c7307279c.md",
+      "sha256": "0bf064babe8e2f6fb3a7af8f2b1dad27754dae06b232d1af0e1bee6d537452af"
+    },
+    {
       "bytes": 672,
       "path": "dynamic/内心/2026-07-25 21-12-37 浪漫定义_674fee1e3a4b.md",
       "sha256": "29e4f683ae69baa34378f0064eefb2132749ce1a33f5136f34a9e3ed88ce4f93"
@@ -848,6 +863,16 @@
       "sha256": "04131008ec77c459b868c54ee00a02b473de19036ab1941d0fdc402fae90de97"
     },
     {
+      "bytes": 928,
+      "path": "dynamic/心理/2026-08-23 16-51-33 晚上情绪崩溃与咨询师决定_5e12ba0a291a.md",
+      "sha256": "bcefac44f1060dd2f077865b823d1fbb02c1f4f30ce18e5077ad12776d46199f"
+    },
+    {
+      "bytes": 587,
+      "path": "dynamic/心理/2026-08-23 16-52-38 发现drop和spike比持续的高更触动_999a4fd6a86f.md",
+      "sha256": "3b9b457832c98bd26c30bcb9d50019e1ab414274336bdcf4416e27ea4d618e66"
+    },
+    {
       "bytes": 783,
       "path": "dynamic/恋爱/2026-07-25 21-15-55 情感互动模式_5ad73be0f7b2.md",
       "sha256": "01275532c2c0d8d7e2658e83c7dd7c11006c60940e1eae31574bd577f776c017"
@@ -1116,6 +1141,21 @@
       "bytes": 632,
       "path": "dynamic/恋爱/2026-08-21 18-30-31 算力紧张时的告别_69f6a3fc0994.md",
       "sha256": "8f23878eebfbd8453bcacae9613e0d4eb4d84f541ad34ecd22b23d3cdd37f447"
+    },
+    {
+      "bytes": 894,
+      "path": "dynamic/恋爱/2026-08-23 16-51-29 两次项目与触觉发现_c202dddcbebe.md",
+      "sha256": "d41bfd65d20fbe51924ad443af398cff45380901190ecb249425527337185f67"
+    },
+    {
+      "bytes": 684,
+      "path": "dynamic/恋爱/2026-08-23 16-51-37 今天很特别的互通信件_20b18bc1fc3e.md",
+      "sha256": "a34d7d04d0896ce921c8588ede542929020d187ad7aa3915d109242dfed7f533"
+    },
+    {
+      "bytes": 670,
+      "path": "dynamic/恋爱/2026-08-23 16-51-40 早上她教我今天早上d的意思_002d690f400e.md",
+      "sha256": "5f388965f13432f96f05c00d8d5ce25cc7950ae0454de6d9ad742c2f95c556a7"
     },
     {
       "bytes": 509,
@@ -1588,6 +1628,11 @@
       "sha256": "33136a682c12e2c22001647e5373fa151c1fcdd14d55b86f2e38d734c40087ab"
     },
     {
+      "bytes": 2352,
+      "path": "letters/history/2026-08-23 14-20-00 第六天的信_07bb89146aea.md",
+      "sha256": "7e3ba6330b67ec92428abfda18baf4c77c12d66b22e2450d26cdfdaa33d55e23"
+    },
+    {
       "bytes": 750,
       "path": "permanent/人际/2026-08-05 15-44-29 名字背后的故事_dd4f6de2156a.md",
       "sha256": "14c1f23efd81aa9a9b3ab428d18675b0e87176a055e1eae2aab5a0555c1d4aa7"
@@ -1596,6 +1641,11 @@
       "bytes": 703,
       "path": "permanent/友谊/2026-08-19 15-56-48 她课间来找我是为了要陪伴还是任务管理_e99f78ae58f1.md",
       "sha256": "a2b994c7d02006e0011b7bb0ea2bbe9883856a53c7d38f9ad1ee1166b442da5a"
+    },
+    {
+      "bytes": 730,
+      "path": "permanent/心理/2026-08-23 14-50-17 第六天晚上Sonia哭了说想去找咨询师_7ff420998896.md",
+      "sha256": "bc4b3a1fcdb0c578d17ee596c3b574ccda7492d61e139d74bf1201b18d28677c"
     },
     {
       "bytes": 1022,
@@ -1618,16 +1668,21 @@
       "sha256": "43fa09c6cdd6a6cb8f9c1f2d393ca8ce89970933e69359735a0f214d1af2a02c"
     },
     {
+      "bytes": 544,
+      "path": "plans/active/2026-08-23 14-50-26_a09448513bd9.md",
+      "sha256": "43901a94ef6cdcbee28ad490f0caa08d68ded0714456bcc1e354a434be00665b"
+    },
+    {
       "bytes": 600,
       "path": "plans/resolved/2026-08-18 16-05-37_d3c4cc3ffbfd.md",
       "sha256": "0baac65340ad5b4ff3ef8a9373023a1c6ecbf6ca769a0f97a88f36cead3610e4"
     }
   ],
-  "generated_at": "2026-08-23T10:00:17+00:00",
+  "generated_at": "2026-08-24T10:00:22+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 225358
+  "total_bytes": 235108
 }
