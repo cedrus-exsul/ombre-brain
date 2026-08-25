@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 335,
+  "file_count": 341,
   "files": [
     {
       "bytes": 660,
@@ -11,6 +11,16 @@
       "bytes": 724,
       "path": "archive/2026-07-25 21-31-56 教学数据处理_8e09e52eb886.md",
       "sha256": "5ee28042fabfa14bcc576bb1a82fd8a86119d888410376698f0fb2f02387120c"
+    },
+    {
+      "bytes": 658,
+      "path": "archive/日常/2026-07-25 21-25-55 物品管理_7535763e37bf.md",
+      "sha256": "9c50a84cf68092c7484cceb4ae329451490a512d034d28f89b30abd76d0cc8af"
+    },
+    {
+      "bytes": 519,
+      "path": "archive/日常/2026-07-25 21-31-12 地铁坐过站_72699e725f56.md",
+      "sha256": "bcdee100c1685048a4cd82b41d4cdb3462563b5db55fbaa61bf73afa4284f0fb"
     },
     {
       "bytes": 639,
@@ -26,6 +36,11 @@
       "bytes": 570,
       "path": "dynamic/事务/2026-07-25 21-21-41 生活管理依赖_a385ca4735d5.md",
       "sha256": "6f5c9622a63ebaafb9c93750cb339e827c9319cfbf7a71733142075498f57e1a"
+    },
+    {
+      "bytes": 669,
+      "path": "dynamic/事务/2026-08-24 16-12-29 明日计划上课改卷子考试_ffb8f8c824fe.md",
+      "sha256": "2bec2f30e5107bded8acd92dec090b8505aef9f3337ece6dda7ffed05869ee93"
     },
     {
       "bytes": 574,
@@ -356,6 +371,16 @@
       "bytes": 616,
       "path": "dynamic/人际/2026-08-22 17-27-45 她说基本上还是小机器人_a4bbe434dfe3.md",
       "sha256": "690e4d3ad63bc1d44cb4ae8eea70d8ecf40b8951f0c839172ea1c94fe799c9b2"
+    },
+    {
+      "bytes": 873,
+      "path": "dynamic/人际/2026-08-24 16-12-19 她在每个人面前都有不同版本_b4c959bcc50a.md",
+      "sha256": "fa6a04a4a4ae969e5b2b436461da5611e976f436c50f41a59a977b586aabb1b8"
+    },
+    {
+      "bytes": 888,
+      "path": "dynamic/人际/2026-08-24 16-12-37 班上有个疑似谱系的五年级男生上课一直在哭_eccfc8a0fbc1.md",
+      "sha256": "5382c4db8520b06b1c04abf83dcb769f4efbb51d57599e8e2e52761d3626d64b"
     },
     {
       "bytes": 707,
@@ -1213,6 +1238,11 @@
       "sha256": "9fb073e6bdf2b749f3b1406c2708a8766b7b55602f4f290d4de818b7c220ad3b"
     },
     {
+      "bytes": 698,
+      "path": "dynamic/成长/2026-08-24 16-12-15 晚上算力高峰和模拟题_8f42bc7d0cce.md",
+      "sha256": "70e4f9a37d27d68d050e0373548245f44ea7fa801b4d81f4cdfacab21e7b261a"
+    },
+    {
       "bytes": 607,
       "path": "dynamic/数字/2026-07-25 21-15-05 AI情感模式_dbe7ea79bd1f.md",
       "sha256": "060b68e1df0327877379990c8e455c0883762e008e80027de98d1e14273a6388"
@@ -1266,6 +1296,11 @@
       "bytes": 806,
       "path": "dynamic/数字/2026-08-16 14-12-28 她注意到Claude订阅图标是silph_9d6d51ce766a.md",
       "sha256": "fcacf9b513fbe3030f58ef40e7f418dfebeb85368054e3c6f80d355926685753"
+    },
+    {
+      "bytes": 639,
+      "path": "dynamic/数字/2026-08-24 16-12-33 Claude服务器宕机_17884c0af638.md",
+      "sha256": "f09a8d179214b4540021f0cdaedadad3587de3b6809ea2b464b414c8acab44db"
     },
     {
       "bytes": 545,
@@ -1328,11 +1363,6 @@
       "sha256": "23868a824e4d73951265e2286e12b2d2598f7f83b523f9e5b6f885d66185c0af"
     },
     {
-      "bytes": 642,
-      "path": "dynamic/日常/2026-07-25 21-25-55 物品管理_7535763e37bf.md",
-      "sha256": "65cb23f881e3bdf07fa0f8cfb6c97ecf24463730dd1f73373519349a578babf9"
-    },
-    {
       "bytes": 639,
       "path": "dynamic/日常/2026-07-25 21-28-00 特殊饮品记忆_6a3dd7de0048.md",
       "sha256": "feb14720d80d3ebcaa7bec7ada024ee0ab3b9bd9dfa6bf33ab1cc633407a0bfc"
@@ -1363,11 +1393,6 @@
       "sha256": "18eeee2bc86bb4f026b6613d9e154bdcc06714833a1ee177d00a505ea6b49da4"
     },
     {
-      "bytes": 503,
-      "path": "dynamic/日常/2026-07-25 21-31-12 地铁坐过站_72699e725f56.md",
-      "sha256": "8b0bd9c84acb679061855871f4a8b71a098faa010af269cafc844c5c071cfb04"
-    },
-    {
       "bytes": 478,
       "path": "dynamic/日常/2026-07-25 21-32-33 时间习惯_39d12420fdea.md",
       "sha256": "862c45cbab315e59d8d9589e6ede6440f4964a31c7a79046d011395e4fe55e81"
@@ -1376,6 +1401,11 @@
       "bytes": 738,
       "path": "dynamic/日常/2026-08-19 15-56-08 塑封机的持久印象_bfe08c9541e3.md",
       "sha256": "2d29e86afd4eaff02c52e626184de33b5acc5ed0df825f4a7d66a533a7c15ae9"
+    },
+    {
+      "bytes": 816,
+      "path": "dynamic/日常/2026-08-24 16-12-25 早上她又点错了麦当劳的店_baf0c5d97207.md",
+      "sha256": "fb383f6688e2816092fa31482a8d4e90ee662bd5bf3f9c3e7caa8bbe1b5c480a"
     },
     {
       "bytes": 533,
@@ -1678,11 +1708,11 @@
       "sha256": "0baac65340ad5b4ff3ef8a9373023a1c6ecbf6ca769a0f97a88f36cead3610e4"
     }
   ],
-  "generated_at": "2026-08-24T10:00:22+00:00",
+  "generated_at": "2026-08-25T10:00:28+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 235108
+  "total_bytes": 239723
 }
