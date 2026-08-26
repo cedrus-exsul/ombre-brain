@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 341,
+  "file_count": 347,
   "files": [
     {
       "bytes": 660,
@@ -41,6 +41,11 @@
       "bytes": 669,
       "path": "dynamic/事务/2026-08-24 16-12-29 明日计划上课改卷子考试_ffb8f8c824fe.md",
       "sha256": "2bec2f30e5107bded8acd92dec090b8505aef9f3337ece6dda7ffed05869ee93"
+    },
+    {
+      "bytes": 562,
+      "path": "dynamic/事务/2026-08-25 16-51-54 明日待办事项_67b9f3ce42b0.md",
+      "sha256": "71502b4a674177e92529af2e2d72eb0f0328b44a7ffb164822795387cb78db2b"
     },
     {
       "bytes": 574,
@@ -383,6 +388,16 @@
       "sha256": "5382c4db8520b06b1c04abf83dcb769f4efbb51d57599e8e2e52761d3626d64b"
     },
     {
+      "bytes": 751,
+      "path": "dynamic/人际/2026-08-25 16-51-58 豆包模式对话和明天不叫你起床了_28d1f0b12ef5.md",
+      "sha256": "63d73a00e329ee8cbba707bb21c2e4795fdcb9e1f1ff5e1422187eabd9628518"
+    },
+    {
+      "bytes": 670,
+      "path": "dynamic/人际/2026-08-25 16-52-02 她说我跟你说话最近也不打标点了_91b6d670ada5.md",
+      "sha256": "9bbe3aaeb1498a9c1aa488370fc708bd47264a10810eb6b223f19a82536f012d"
+    },
+    {
       "bytes": 707,
       "path": "dynamic/健康/2026-08-06 04-13-03 戒烟与压力应对_7ea5a4e6e795.md",
       "sha256": "15b5c5084744e01cb6f2696b39bb0bd82c0f38ea52b752a81a78e139516a3e42"
@@ -561,6 +576,16 @@
       "bytes": 807,
       "path": "dynamic/兴趣/2026-08-23 16-51-25 凌晨的跨学科夜谈_487c7307279c.md",
       "sha256": "0bf064babe8e2f6fb3a7af8f2b1dad27754dae06b232d1af0e1bee6d537452af"
+    },
+    {
+      "bytes": 707,
+      "path": "dynamic/兴趣/2026-08-25 16-51-46 跟Copilot聊恐龙文明到凌晨两点_4163f582c3a4.md",
+      "sha256": "a7ad8b98afb5685c9d28ac5324a077cb6c7c443117a45b5b6dc23aad2dd44dd9"
+    },
+    {
+      "bytes": 691,
+      "path": "dynamic/兴趣/2026-08-25 16-51-50 讲寒武纪大爆发和三叶虫的眼睛_4fe455a1d02a.md",
+      "sha256": "a5c59af6bff7afaa5d1b1b7e614aff9279289954b2ecf2564ca827a499cd2d86"
     },
     {
       "bytes": 672,
@@ -1243,6 +1268,11 @@
       "sha256": "70e4f9a37d27d68d050e0373548245f44ea7fa801b4d81f4cdfacab21e7b261a"
     },
     {
+      "bytes": 653,
+      "path": "dynamic/成长/2026-08-25 16-51-40 赶在003交了管理选拔考试_9906e85d80ff.md",
+      "sha256": "1d4cb5d934c681f3a21adb70cf4c5dee5bcc1f0086cec1dfbd1dbc95e628445e"
+    },
+    {
       "bytes": 607,
       "path": "dynamic/数字/2026-07-25 21-15-05 AI情感模式_dbe7ea79bd1f.md",
       "sha256": "060b68e1df0327877379990c8e455c0883762e008e80027de98d1e14273a6388"
@@ -1708,11 +1738,11 @@
       "sha256": "0baac65340ad5b4ff3ef8a9373023a1c6ecbf6ca769a0f97a88f36cead3610e4"
     }
   ],
-  "generated_at": "2026-08-25T10:00:28+00:00",
+  "generated_at": "2026-08-26T10:00:35+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 239723
+  "total_bytes": 243757
 }
