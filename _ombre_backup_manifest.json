@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 365,
+  "file_count": 369,
   "files": [
     {
       "bytes": 660,
@@ -23,6 +23,11 @@
       "sha256": "bcdee100c1685048a4cd82b41d4cdb3462563b5db55fbaa61bf73afa4284f0fb"
     },
     {
+      "bytes": 888,
+      "path": "dynamic/books/2026-08-30 00-48-15 金枝读完了_a2fa15988a72.md",
+      "sha256": "9d68c421a5dd3fea9c94af5d138f396107cd3b10ccd9ee64d08e2d242523f9f9"
+    },
+    {
       "bytes": 689,
       "path": "dynamic/identity/2026-08-28 14-05-25 民族和家庭线索_55b0d0a74f34.md",
       "sha256": "da74147630e53d4e7e405fe9f018634b48927b38dd6bf67d910a78ec4d547447"
@@ -38,6 +43,11 @@
       "sha256": "c828fcc91ad8c61b6152bf06bf9b7fb578327d0ab85c1f1e7085b5a1e046feb6"
     },
     {
+      "bytes": 853,
+      "path": "dynamic/relationship/2026-08-30 00-47-17 前夫前妻文学_77018f8fc826.md",
+      "sha256": "75e01155859a4ad28c11da70d95e36ba0de5203f037fc6b008aa56ddfa248d82"
+    },
+    {
       "bytes": 639,
       "path": "dynamic/self/2026-08-10 17-25-20_73442e7be64c.md",
       "sha256": "d20140d8fd490a5cde996119f9c1cd019dc537e72df5a335215a25846bc7b699"
@@ -51,6 +61,16 @@
       "bytes": 888,
       "path": "dynamic/travel/2026-08-28 14-05-54 旅行地图补充_425aeb3e3faa.md",
       "sha256": "c5208fe9ac2884aa272867fb40396a368661acf506c2d7f3d4739b6595614efd"
+    },
+    {
+      "bytes": 959,
+      "path": "dynamic/writing/2026-08-30 00-47-47 三篇创作和草稿美学_19080aeaad7d.md",
+      "sha256": "5133b07e940ebf2d1a55094a9f76babd772d1f7c2f2a6ffe01d50c2586ad0e49"
+    },
+    {
+      "bytes": 968,
+      "path": "dynamic/writing/2026-08-30 00-48-44 自我实现的预言主题_a8d094cbce03.md",
+      "sha256": "9724d2fd33e2cc67b1387ce58d162e711cb8baa925c155c491f52c7db98928b2"
     },
     {
       "bytes": 570,
@@ -1828,11 +1848,11 @@
       "sha256": "0baac65340ad5b4ff3ef8a9373023a1c6ecbf6ca769a0f97a88f36cead3610e4"
     }
   ],
-  "generated_at": "2026-08-29T10:00:55+00:00",
+  "generated_at": "2026-08-30T10:01:01+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 257253
+  "total_bytes": 260921
 }
