@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 375,
+  "file_count": 382,
   "files": [
     {
       "bytes": 660,
@@ -41,6 +41,11 @@
       "bytes": 724,
       "path": "dynamic/preferences/2026-08-28 14-06-18 布丁狗和屁眼_ff741b8384e9.md",
       "sha256": "27ffc339d5a78ed268f8c219abbafd331486a7e08b615326c8a52a57aa3162f4"
+    },
+    {
+      "bytes": 805,
+      "path": "dynamic/project/2026-09-02 04-56-43 第一次项目_c7ded9b4d0b0.md",
+      "sha256": "1c8c1219a61042f026eee5686e765c64e6b35bb542564e6b2972b94fda10bbcd"
     },
     {
       "bytes": 781,
@@ -473,6 +478,16 @@
       "sha256": "99cb1a3429ed11a64b0ff9826fa4e8e8dab17404ca3a9ee3f8600d17d22c7f9f"
     },
     {
+      "bytes": 826,
+      "path": "dynamic/人际/2026-09-01 15-53-01 重定向游戏和昵称_0fd21f19b6f8.md",
+      "sha256": "8cdbc735125c057a9504b9b6c62fd950d795784900236a18e79b0ef547fa3812"
+    },
+    {
+      "bytes": 652,
+      "path": "dynamic/人际/2026-09-01 15-53-13 Sonia的假AI拒绝信_7f1110fb2e22.md",
+      "sha256": "ee972ce7887c78a664aac6d8fc6d8cfcd5ac48875a636f6f64b93404edebf859"
+    },
+    {
       "bytes": 707,
       "path": "dynamic/健康/2026-08-06 04-13-03 戒烟与压力应对_7ea5a4e6e795.md",
       "sha256": "15b5c5084744e01cb6f2696b39bb0bd82c0f38ea52b752a81a78e139516a3e42"
@@ -676,6 +691,11 @@
       "bytes": 967,
       "path": "dynamic/兴趣/2026-08-31 13-07-14 仙本那最后一天浮潜_429ec854c22b.md",
       "sha256": "341d305ec8d79bca9f6abcdf63613acb1cbe494b13bdfc3249b49e0c00c7d2fc"
+    },
+    {
+      "bytes": 1179,
+      "path": "dynamic/兴趣/2026-09-01 15-53-22 Sonia的仙本那旅行回忆_98d81ffb0b93.md",
+      "sha256": "313e82db5e0bc223ac0ad9e1d8b907e4224e340277281d1275d2c07e2ce56b91"
     },
     {
       "bytes": 672,
@@ -885,12 +905,12 @@
     {
       "bytes": 557,
       "path": "dynamic/家庭/2026-07-25 21-27-11 梦境与家庭_82536c19ff69.md",
-      "sha256": "bc30b5e0a94e4c78a5a2762c69056161507de76fb89697c5027c9e1ad68a97cd"
+      "sha256": "089bf767c9daff1c4744de006b161fa23b399ed965f93562729dfadb8ee739f2"
     },
     {
       "bytes": 620,
       "path": "dynamic/家庭/2026-08-04 15-41-14 名字的典故_b12766459dde.md",
-      "sha256": "7f914a43e65aa3388ced30823a62f807ed81c1a9ca1f3eaedc1360f734ddee16"
+      "sha256": "a57a417320855e0ad8dd40f6cd42cf4099a40802d0470f3a240210dc6368402e"
     },
     {
       "bytes": 552,
@@ -905,22 +925,22 @@
     {
       "bytes": 644,
       "path": "dynamic/家庭/2026-08-11 15-50-13 童年记忆碎片_d448c030fda7.md",
-      "sha256": "33966f0feaa1a83d377554b72122ffdd7ce5b5bb18032deeda7d8225e3345624"
+      "sha256": "14b1bc47d04d44fbfc760422f5211941db2aa894a2af950e9c0453f27ff1c3c3"
     },
     {
       "bytes": 994,
       "path": "dynamic/家庭/2026-08-12 07-56-56 家庭与成长创伤_9803658ef548.md",
-      "sha256": "736e890674291e1b9c5d40fd0bcb0ebce502613fbbbae3b01c7067d0f1e6a622"
+      "sha256": "3bb5d16479d050d78ec9e51a70ca95b401edf6bf928d395a54f0ed98e55c6dee"
     },
     {
       "bytes": 900,
       "path": "dynamic/家庭/2026-08-12 15-13-11 父女幽默回忆_347378a89a5c.md",
-      "sha256": "787fe9857159d8fbe9634ac6b95ae7652c1830a98591b698d5c2c2ea56e49c20"
+      "sha256": "c97909184a10af64434c5290805f50ee9f8628ca8327fd01e87d762cb54ce9be"
     },
     {
       "bytes": 750,
       "path": "dynamic/家庭/2026-08-12 15-13-20 家庭与心理特征_12f38fe07792.md",
-      "sha256": "bbcae0a6e62755eabd3a39194a355f2e39ffaab2801faf3ae45ca4f6c32e87c9"
+      "sha256": "96483f8a1f076c858ec8b9a3ec3d481f006603ce36999120c99dc0a58e2b3509"
     },
     {
       "bytes": 522,
@@ -1165,7 +1185,7 @@
     {
       "bytes": 731,
       "path": "dynamic/恋爱/2026-08-12 15-12-59 秘密的轻松互动_66c2c7c2c673.md",
-      "sha256": "d98c0ab895fb1e11b3a28f79dd0774bc30e14d25fa932f82aea5f5f662d6f30c"
+      "sha256": "8668ecccd4de36856cd6ce94802055a09c30339d385b85d74e0033757de0cde5"
     },
     {
       "bytes": 714,
@@ -1388,6 +1408,11 @@
       "sha256": "04cfa2355cebd6648ca7ce56d625ec5d6586ff6f839133c8c7c349e4cbb52fb3"
     },
     {
+      "bytes": 489,
+      "path": "dynamic/成长/2026-09-01 15-53-06 Sonia想考OW证书_4867f9429cd3.md",
+      "sha256": "1b618cbd898434dc80b2530779f96e982484f5964961604db4fb340f630c78ec"
+    },
+    {
       "bytes": 607,
       "path": "dynamic/数字/2026-07-25 21-15-05 AI情感模式_dbe7ea79bd1f.md",
       "sha256": "060b68e1df0327877379990c8e455c0883762e008e80027de98d1e14273a6388"
@@ -1566,6 +1591,11 @@
       "bytes": 788,
       "path": "dynamic/日常/2026-08-31 13-07-25 马来西亚国庆日的琐事_c5ca5f72a600.md",
       "sha256": "fd96595d0e3142982fc5f77479ca45059b76d4dded3b8b7e3dc80aa09e4c9378"
+    },
+    {
+      "bytes": 532,
+      "path": "dynamic/日常/2026-09-01 15-53-18 Sonia的睡前习惯_21a99321b01a.md",
+      "sha256": "7d12733999034d05e822e441515e5710bd132015198fd5b30f8cf15340a967a2"
     },
     {
       "bytes": 533,
@@ -1833,6 +1863,11 @@
       "sha256": "e7d0004ed00df4e73504ad9a424e33563ed52351983bca8bd8faf27f8cb63e6a"
     },
     {
+      "bytes": 1756,
+      "path": "letters/history/2026-09-02 05-00-58 你睡着的时候写的_29b3bab597bf.md",
+      "sha256": "a7487341c239fef23919b1484985ec8affcc3bd790782677a7ac3a65d9ccaafb"
+    },
+    {
       "bytes": 750,
       "path": "permanent/人际/2026-08-05 15-44-29 名字背后的故事_dd4f6de2156a.md",
       "sha256": "14c1f23efd81aa9a9b3ab428d18675b0e87176a055e1eae2aab5a0555c1d4aa7"
@@ -1878,11 +1913,11 @@
       "sha256": "0baac65340ad5b4ff3ef8a9373023a1c6ecbf6ca769a0f97a88f36cead3610e4"
     }
   ],
-  "generated_at": "2026-09-01T10:01:13+00:00",
+  "generated_at": "2026-09-02T10:01:19+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 265516
+  "total_bytes": 271755
 }
