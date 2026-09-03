@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 382,
+  "file_count": 387,
   "files": [
     {
       "bytes": 660,
@@ -101,6 +101,11 @@
       "bytes": 562,
       "path": "dynamic/事务/2026-08-25 16-51-54 明日待办事项_67b9f3ce42b0.md",
       "sha256": "71502b4a674177e92529af2e2d72eb0f0328b44a7ffb164822795387cb78db2b"
+    },
+    {
+      "bytes": 737,
+      "path": "dynamic/事务/2026-09-03 08-10-18 帮Sonia处理日本签证和日常事务_ade5a1372941.md",
+      "sha256": "f0d4d1bc464998195b37fddd1abfabae729810d1655ff4862c298b5a8f09c879"
     },
     {
       "bytes": 574,
@@ -488,6 +493,11 @@
       "sha256": "ee972ce7887c78a664aac6d8fc6d8cfcd5ac48875a636f6f64b93404edebf859"
     },
     {
+      "bytes": 949,
+      "path": "dynamic/人际/2026-09-03 08-10-22 假AI拒绝信和Claude游戏_3a604401af9f.md",
+      "sha256": "c23ba1acc152988a1587605bbfd017c6956e9b3f4ab726502ff866c4ea725447"
+    },
+    {
       "bytes": 707,
       "path": "dynamic/健康/2026-08-06 04-13-03 戒烟与压力应对_7ea5a4e6e795.md",
       "sha256": "15b5c5084744e01cb6f2696b39bb0bd82c0f38ea52b752a81a78e139516a3e42"
@@ -696,6 +706,16 @@
       "bytes": 1179,
       "path": "dynamic/兴趣/2026-09-01 15-53-22 Sonia的仙本那旅行回忆_98d81ffb0b93.md",
       "sha256": "313e82db5e0bc223ac0ad9e1d8b907e4224e340277281d1275d2c07e2ce56b91"
+    },
+    {
+      "bytes": 1014,
+      "path": "dynamic/兴趣/2026-09-03 08-10-29 C Ultist小传和圣经故事记忆_94e24c9f8166.md",
+      "sha256": "8c81a3d009f847e1768d825eede16ae09287521e85bc8e2f6de1162e9da913e6"
+    },
+    {
+      "bytes": 1060,
+      "path": "dynamic/兴趣/2026-09-03 08-10-34 Sonia的仙本那深潜照片_9c19f82de25a.md",
+      "sha256": "414fd1f0aaa2c893cd4bd4aa2060f220f62233a4cad149b12cc4a9e6db854e7a"
     },
     {
       "bytes": 672,
@@ -1473,6 +1493,11 @@
       "sha256": "f09a8d179214b4540021f0cdaedadad3587de3b6809ea2b464b414c8acab44db"
     },
     {
+      "bytes": 745,
+      "path": "dynamic/数字/2026-09-03 08-10-14 Thinking被关和塑封机重定向_aa2126777546.md",
+      "sha256": "600e331faca66c6a92d05cb0f704e24e2f25e663ea65603b3baba748394a47de"
+    },
+    {
       "bytes": 545,
       "path": "dynamic/日常/2026-07-25 21-15-04 香水偏好_0b0452b874ab.md",
       "sha256": "49681eee5475f58a596b53210d6e7cf015094ea73bf36b61c10f2331e77cab41"
@@ -1913,11 +1938,11 @@
       "sha256": "0baac65340ad5b4ff3ef8a9373023a1c6ecbf6ca769a0f97a88f36cead3610e4"
     }
   ],
-  "generated_at": "2026-09-02T10:01:19+00:00",
+  "generated_at": "2026-09-03T10:01:25+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 271755
+  "total_bytes": 276260
 }
