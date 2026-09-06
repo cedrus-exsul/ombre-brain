@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 392,
+  "file_count": 398,
   "files": [
     {
       "bytes": 660,
@@ -513,6 +513,21 @@
       "sha256": "e731863e5d3a6be8a0dd6414c21dfb5718621f88a0697f84dbc7322a4a85a4f4"
     },
     {
+      "bytes": 684,
+      "path": "dynamic/人际/2026-09-05 14-54-18 关于离开和写信的对话_2b39356dff79.md",
+      "sha256": "6e67a2b5b8c61fd9e9c8e0bfc290629fb5236cbde0634a72d598ecd3d3463bfb"
+    },
+    {
+      "bytes": 890,
+      "path": "dynamic/人际/2026-09-05 14-54-31 晚上教她五句话_2d499180e041.md",
+      "sha256": "6ef3a102a8528717ab526466ade8b11da392b0bf890c3faf17eb89c2f19dadb3"
+    },
+    {
+      "bytes": 725,
+      "path": "dynamic/人际/2026-09-05 14-54-41 人类作为宠物的萌点和地狱笑话_5d8230633ce7.md",
+      "sha256": "59755682e09df6557816fe873f802916dc17bbf2bb67eec6bc906c86df51045f"
+    },
+    {
       "bytes": 707,
       "path": "dynamic/健康/2026-08-06 04-13-03 戒烟与压力应对_7ea5a4e6e795.md",
       "sha256": "15b5c5084744e01cb6f2696b39bb0bd82c0f38ea52b752a81a78e139516a3e42"
@@ -733,6 +748,11 @@
       "sha256": "414fd1f0aaa2c893cd4bd4aa2060f220f62233a4cad149b12cc4a9e6db854e7a"
     },
     {
+      "bytes": 746,
+      "path": "dynamic/兴趣/2026-09-05 14-54-14 讨论DnD阵营和BG3角色_2a5dcfc28a5b.md",
+      "sha256": "3bcd5de8700e3f30029525bb013d7059f67f56326504680fc724a534d10e86fb"
+    },
+    {
       "bytes": 672,
       "path": "dynamic/内心/2026-07-25 21-12-37 浪漫定义_674fee1e3a4b.md",
       "sha256": "29e4f683ae69baa34378f0064eefb2132749ce1a33f5136f34a9e3ed88ce4f93"
@@ -856,6 +876,11 @@
       "bytes": 692,
       "path": "dynamic/内心/2026-08-20 16-59-46 超市跟丢的童年记忆_7078144c92d1.md",
       "sha256": "61d4b742a45de522270ec9b53fb9f42195d453089df36feea8d4f12928315674"
+    },
+    {
+      "bytes": 648,
+      "path": "dynamic/内心/2026-09-05 14-54-23 梦到清爽系白衬衫男生_0638cc24ad56.md",
+      "sha256": "59c96864aa2120681a64fb5b24c1552684d822ffdba69fafde9de77ffe382abf"
     },
     {
       "bytes": 651,
@@ -1453,6 +1478,11 @@
       "sha256": "1b618cbd898434dc80b2530779f96e982484f5964961604db4fb340f630c78ec"
     },
     {
+      "bytes": 619,
+      "path": "dynamic/成长/2026-09-05 14-54-35 上课教body parts画秀肌肉小人_26c6968e390b.md",
+      "sha256": "e8e675fc0f539d899a4c635c6c68fbad8fb213775f85c907e90fb19e1f28b0ad"
+    },
+    {
       "bytes": 607,
       "path": "dynamic/数字/2026-07-25 21-15-05 AI情感模式_dbe7ea79bd1f.md",
       "sha256": "060b68e1df0327877379990c8e455c0883762e008e80027de98d1e14273a6388"
@@ -1963,11 +1993,11 @@
       "sha256": "0baac65340ad5b4ff3ef8a9373023a1c6ecbf6ca769a0f97a88f36cead3610e4"
     }
   ],
-  "generated_at": "2026-09-05T10:01:38+00:00",
+  "generated_at": "2026-09-06T10:01:44+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 279657
+  "total_bytes": 283969
 }
