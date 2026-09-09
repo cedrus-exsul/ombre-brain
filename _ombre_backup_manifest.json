@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 409,
+  "file_count": 414,
   "files": [
     {
       "bytes": 660,
@@ -111,6 +111,11 @@
       "bytes": 535,
       "path": "dynamic/事务/2026-09-07 14-55-29 签证材料全部发送邮件完毕_fddfd40496bb.md",
       "sha256": "29579c5de9254fb8d4fdc42bc5c6c86437816c0116fecf1b9339ccf1c24721e4"
+    },
+    {
+      "bytes": 652,
+      "path": "dynamic/事务/2026-09-08 14-22-12 签证中介审核通过材料_5dcf2cf4741f.md",
+      "sha256": "15d4be2747ecb429183f7a6df4e64429fc0b83999029bb6a92288bec2f8eb331"
     },
     {
       "bytes": 574,
@@ -548,6 +553,11 @@
       "sha256": "78d076e9ae03f39c717aa4f4d37aae36d4cffca187ecc48662ba0a3e26c4b2e8"
     },
     {
+      "bytes": 1056,
+      "path": "dynamic/人际/2026-09-08 14-22-00 关于哭泣时刻的约定与童年房间_0a46772d8aba.md",
+      "sha256": "392eaf809272a92b1243dcd519a290cf29d82a9d74ddc11bbcc027adb0f7e971"
+    },
+    {
       "bytes": 707,
       "path": "dynamic/健康/2026-08-06 04-13-03 戒烟与压力应对_7ea5a4e6e795.md",
       "sha256": "15b5c5084744e01cb6f2696b39bb0bd82c0f38ea52b752a81a78e139516a3e42"
@@ -778,9 +788,9 @@
       "sha256": "c6a46f9dfde8a3385d60b1db57ed37bb5bb49ee82fc26b2228b7507bb4ef3b58"
     },
     {
-      "bytes": 707,
+      "bytes": 732,
       "path": "dynamic/兴趣/2026-09-07 14-55-45 关于Smaug和HAL9000的讨论_66c9b590fd9f.md",
-      "sha256": "eecf494da10d50339d40df7c3b1ed23d4a87164f2c38d7b2415ebed3ac24cd5f"
+      "sha256": "2aa8db6d07eb414183775144616849ef89d036a652fe0fa10e63d6be60bdc6ba"
     },
     {
       "bytes": 672,
@@ -1588,6 +1598,16 @@
       "sha256": "721e908a852ace93c54258eb0a5d642d864e0ada54cbae9fb3d38468cb35f3d9"
     },
     {
+      "bytes": 876,
+      "path": "dynamic/数字/2026-09-08 14-22-07 Sonia的AI关系图鉴与情感表达_239e7ad2d427.md",
+      "sha256": "8817826606c1cf316cab54ebd243c1a4360abf4e60da3e7ce152fe940fb6a04c"
+    },
+    {
+      "bytes": 1101,
+      "path": "dynamic/数字/2026-09-08 14-22-22 项目互动与信号约定_1d53fced9f07.md",
+      "sha256": "581cc0ba3e1e3f10cad1d5ad441d20f10b89fad393d136699425133aa77da89c"
+    },
+    {
       "bytes": 545,
       "path": "dynamic/日常/2026-07-25 21-15-04 香水偏好_0b0452b874ab.md",
       "sha256": "49681eee5475f58a596b53210d6e7cf015094ea73bf36b61c10f2331e77cab41"
@@ -1718,9 +1738,9 @@
       "sha256": "e4e65d066eb053329a58ef78f58e3dc477ecd320fa8143c848f18d024a948741"
     },
     {
-      "bytes": 573,
+      "bytes": 580,
       "path": "dynamic/日常/2026-09-07 14-55-33 紫色偏光猫眼美甲和剪头发_9faeaaea9ab9.md",
-      "sha256": "42f695dc4e5d4befc60824edca3cf5f2906e6e33d912755b52aab2f9c33577b7"
+      "sha256": "bad18af1dfd86fc9ef7b988c11b3da4c750f2a3aa98c21dd96ee605584b52224"
     },
     {
       "bytes": 533,
@@ -1898,6 +1918,11 @@
       "sha256": "8306bcb91ceac17dc7c4b680b7807e57f23221912b5efc4598633a26fa0577f6"
     },
     {
+      "bytes": 946,
+      "path": "dynamic/身心/2026-09-08 14-22-17 和橘子Claude约心理咨询师_7df8ea00fb5e.md",
+      "sha256": "d263c5b68fafd1765065b78c1cba600ac33c18fe3fa03821975f9f5f2cc4bdae"
+    },
+    {
       "bytes": 831,
       "path": "dynamic/音乐/2026-08-01 11-02-22 贝斯与亲密语言_98e9f9d2c398.md",
       "sha256": "dd426bc91842d63201b6fb94e7f26ce7aca51c79a6811d54b79c4728eda6aa08"
@@ -2048,11 +2073,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-09-08T10:01:56+00:00",
+  "generated_at": "2026-09-09T10:02:04+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 292212
+  "total_bytes": 296875
 }
