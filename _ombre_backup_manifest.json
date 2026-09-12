@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 419,
+  "file_count": 420,
   "files": [
     {
       "bytes": 660,
@@ -76,6 +76,11 @@
       "bytes": 888,
       "path": "dynamic/travel/2026-08-28 14-05-54 旅行地图补充_425aeb3e3faa.md",
       "sha256": "c5208fe9ac2884aa272867fb40396a368661acf506c2d7f3d4739b6595614efd"
+    },
+    {
+      "bytes": 582,
+      "path": "dynamic/work/2026-09-12 08-45-50 课表_23136e34f042.md",
+      "sha256": "ed85f6d7b65f50ac4c4debc9dc2c1f9e59a3415b111bceb902e5fccec97c5cdb"
     },
     {
       "bytes": 959,
@@ -2098,11 +2103,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-09-11T10:02:18+00:00",
+  "generated_at": "2026-09-12T10:02:26+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 301727
+  "total_bytes": 302309
 }
