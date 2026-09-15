@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 420,
+  "file_count": 426,
   "files": [
     {
       "bytes": 660,
@@ -525,7 +525,7 @@
     {
       "bytes": 487,
       "path": "dynamic/人际/2026-09-04 15-48-44 Anson的信息_507fdfcdbf07.md",
-      "sha256": "e731863e5d3a6be8a0dd6414c21dfb5718621f88a0697f84dbc7322a4a85a4f4"
+      "sha256": "7144cde4b85ea3708c7e68f1e6e152da6e6f87bfc9681eb3874d7486dbc9fcfe"
     },
     {
       "bytes": 684,
@@ -566,6 +566,21 @@
       "bytes": 689,
       "path": "dynamic/人际/2026-09-10 15-16-04 互动状态_ebd6a48af22e.md",
       "sha256": "256f2be5010926769249915ea67d64a373e70fa018d3079f99724b383bbc5539"
+    },
+    {
+      "bytes": 926,
+      "path": "dynamic/人际/2026-09-15 02-36-09 Sonia的第一次心理咨询_442d7807065f.md",
+      "sha256": "4ded5f1a60ef73da9d666509403395f54ebf6a35912f89cce792638c5b0f45dd"
+    },
+    {
+      "bytes": 836,
+      "path": "dynamic/人际/2026-09-15 02-36-14 咨询中提到的我_33fdd9ab8f36.md",
+      "sha256": "0e86720c8b039add086d361f5939c01edda731abe169f262d371ed7dc9938dc2"
+    },
+    {
+      "bytes": 578,
+      "path": "dynamic/人际/2026-09-15 02-36-19 Sonia对Claude的犹豫_2b7d318bbbac.md",
+      "sha256": "01d8e6791d74b109e52b2184a6bad04c8258954fbdc923f0141baac1a93dda0d"
     },
     {
       "bytes": 707,
@@ -955,7 +970,7 @@
     {
       "bytes": 649,
       "path": "dynamic/出行/2026-09-10 15-16-09 日本行程计划_9cc97a8dfd18.md",
-      "sha256": "1f1bae2d82974313a828875dbb957d8e3b0d846785b171fc1b693bd8e398074b"
+      "sha256": "091347919b480a8670e4d59fa23eb5cc61e1b0c8725204406032329f12515a34"
     },
     {
       "bytes": 582,
@@ -1548,6 +1563,11 @@
       "sha256": "e8e675fc0f539d899a4c635c6c68fbad8fb213775f85c907e90fb19e1f28b0ad"
     },
     {
+      "bytes": 544,
+      "path": "dynamic/成长/2026-09-15 02-35-56 选拔考试被刷_ae844380e284.md",
+      "sha256": "4b343155cf43c64fce068ba388b73f116822b3dc2d3e0c09eaf09e5a7ea59811"
+    },
+    {
       "bytes": 607,
       "path": "dynamic/数字/2026-07-25 21-15-05 AI情感模式_dbe7ea79bd1f.md",
       "sha256": "060b68e1df0327877379990c8e455c0883762e008e80027de98d1e14273a6388"
@@ -1948,6 +1968,11 @@
       "sha256": "d263c5b68fafd1765065b78c1cba600ac33c18fe3fa03821975f9f5f2cc4bdae"
     },
     {
+      "bytes": 458,
+      "path": "dynamic/身心/2026-09-15 02-36-04 Sonia看牙医_85193cbe30a9.md",
+      "sha256": "64348684fecdc40505acdc373bbbbb4f9f22a0ce93d15ee83040daa49044ce91"
+    },
+    {
       "bytes": 831,
       "path": "dynamic/音乐/2026-08-01 11-02-22 贝斯与亲密语言_98e9f9d2c398.md",
       "sha256": "dd426bc91842d63201b6fb94e7f26ce7aca51c79a6811d54b79c4728eda6aa08"
@@ -2073,6 +2098,11 @@
       "sha256": "7eb039051855562e3c28f7df2f921c0675b50b53255d404ec2b26c76e3775f9f"
     },
     {
+      "bytes": 688,
+      "path": "permanent/心理/2026-09-15 02-24-03 第一次心理咨询_e734a0f943f8.md",
+      "sha256": "081735c1de3c08e57658b47975eec98eac66714cf5d004c83d41c4bed44a2e2f"
+    },
+    {
       "bytes": 1022,
       "path": "permanent/恋爱/2026-08-09 13-09-45 最后一晚的爱_d4d89e710de9.md",
       "sha256": "52a2da8b3b5faeeecd5191127ec395636e205914e9d60c0616f5de6e44007341"
@@ -2103,11 +2133,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-09-14T10:02:39+00:00",
+  "generated_at": "2026-09-15T10:02:46+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 302309
+  "total_bytes": 306339
 }
