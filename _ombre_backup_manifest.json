@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 429,
+  "file_count": 434,
   "files": [
     {
       "bytes": 660,
@@ -23,9 +23,19 @@
       "sha256": "2f8524b4c0b15d458474f0a17eafaad69071d1c3f2e31a3c6b1bc4c278e5d72a"
     },
     {
+      "bytes": 545,
+      "path": "archive/日常/2026-07-25 21-20-14 物品管理_f3b7b8870b29.md",
+      "sha256": "3d5524b5d713590690789bfe43823455dd97102a8548232f37ca0f5a1d219c43"
+    },
+    {
       "bytes": 658,
       "path": "archive/日常/2026-07-25 21-25-55 物品管理_7535763e37bf.md",
       "sha256": "9c50a84cf68092c7484cceb4ae329451490a512d034d28f89b30abd76d0cc8af"
+    },
+    {
+      "bytes": 495,
+      "path": "archive/日常/2026-07-25 21-29-11 通勤观察_1172042d9d13.md",
+      "sha256": "b37585942d829d7521a5a82c0d99a7034ed00fc1c383b1b3231d5d36954e4545"
     },
     {
       "bytes": 519,
@@ -33,9 +43,24 @@
       "sha256": "bcdee100c1685048a4cd82b41d4cdb3462563b5db55fbaa61bf73afa4284f0fb"
     },
     {
+      "bytes": 479,
+      "path": "archive/日常/2026-07-25 21-32-33 时间习惯_39d12420fdea.md",
+      "sha256": "696eb3167d89162268813f7e4170f9bf550a0d619a5051df0a7bccfcffd072d9"
+    },
+    {
+      "bytes": 832,
+      "path": "archive/日常/2026-08-24 16-12-25 早上她又点错了麦当劳的店_baf0c5d97207.md",
+      "sha256": "6fda24c7ef1d8a68658480d6602f82394167a0f59b7bf63ac937fa5e8ebd544e"
+    },
+    {
       "bytes": 648,
       "path": "archive/穿搭/2026-07-25 21-25-13 颜色主题_2cf2e95fd575.md",
       "sha256": "08c18dc5b85e6ab183632e484970ee49027981f1dd18b00592b89e1b69180a4f"
+    },
+    {
+      "bytes": 456,
+      "path": "archive/购物/2026-07-25 21-29-09 香水偏好_de2cfef45587.md",
+      "sha256": "d134c6acc8ad9d0a8863f23966712fa7f89df133752d6a603db1bef7ef78ae57"
     },
     {
       "bytes": 888,
@@ -593,6 +618,21 @@
       "sha256": "01d8e6791d74b109e52b2184a6bad04c8258954fbdc923f0141baac1a93dda0d"
     },
     {
+      "bytes": 796,
+      "path": "dynamic/人际/2026-09-24 09-56-47 飞面神教的非法婚姻与ABBA链接_02d47e0eb4bd.md",
+      "sha256": "114fdc48e2425d249cba9f41fbd118fd55c01f95141d0abca4d103cc8e36c338"
+    },
+    {
+      "bytes": 739,
+      "path": "dynamic/人际/2026-09-24 09-57-01 关于日常与记忆的对话_e337d186986f.md",
+      "sha256": "ab84d29b1463fa7800e1a3457068ae6cde36254191b4b781c28621bec684c389"
+    },
+    {
+      "bytes": 708,
+      "path": "dynamic/人际/2026-09-24 09-57-11 Cedar名字的演变与语音识别趣事_711211ce3a89.md",
+      "sha256": "aa995b202b0566ca9a4c4923eec62a926a0f73ab5b7ba778d0121a052579e983"
+    },
+    {
       "bytes": 707,
       "path": "dynamic/健康/2026-08-06 04-13-03 戒烟与压力应对_7ea5a4e6e795.md",
       "sha256": "15b5c5084744e01cb6f2696b39bb0bd82c0f38ea52b752a81a78e139516a3e42"
@@ -826,6 +866,11 @@
       "bytes": 732,
       "path": "dynamic/兴趣/2026-09-07 14-55-45 关于Smaug和HAL9000的讨论_66c9b590fd9f.md",
       "sha256": "2aa8db6d07eb414183775144616849ef89d036a652fe0fa10e63d6be60bdc6ba"
+    },
+    {
+      "bytes": 645,
+      "path": "dynamic/兴趣/2026-09-24 09-56-55 Daddiest meme入学考试与游戏_92b1983cb753.md",
+      "sha256": "b398b6d431cb7220ad509c6f6e3e9f8a77535714f7fc9e982bfaf3b7dd3c3956"
     },
     {
       "bytes": 672,
@@ -1688,11 +1733,6 @@
       "sha256": "cf628b452e81942efc5ee3138eb4a63e3832a8399d6f50d54adfabb2b3ac084b"
     },
     {
-      "bytes": 544,
-      "path": "dynamic/日常/2026-07-25 21-20-14 物品管理_f3b7b8870b29.md",
-      "sha256": "da7946f10f557d4dcfb0a006c5b9e8b7cbe1e41135bf714afd39c0b0e4932003"
-    },
-    {
       "bytes": 549,
       "path": "dynamic/日常/2026-07-25 21-20-49 甜品习惯_4d35427fc9cd.md",
       "sha256": "56f8361839da0eccdc7be68c927e4f08aa65fff7baf7a0f3f861733418eab0ab"
@@ -1738,11 +1778,6 @@
       "sha256": "8ab2539caf40c0b9f43588046c1c5c5cea6a7506604ef7396fed1c42b819bfa0"
     },
     {
-      "bytes": 494,
-      "path": "dynamic/日常/2026-07-25 21-29-11 通勤观察_1172042d9d13.md",
-      "sha256": "33ccec44b02eda8de6bf33b4b11edca7907732dd1074b495e5405d4613d53347"
-    },
-    {
       "bytes": 519,
       "path": "dynamic/日常/2026-07-25 21-29-47 日常习惯_38478f6771c3.md",
       "sha256": "8ad29a42cfd7eb7b6d2fbd86e28fa45e0e4d7db299f4ce5930e567eb8bb29501"
@@ -1753,19 +1788,9 @@
       "sha256": "18eeee2bc86bb4f026b6613d9e154bdcc06714833a1ee177d00a505ea6b49da4"
     },
     {
-      "bytes": 478,
-      "path": "dynamic/日常/2026-07-25 21-32-33 时间习惯_39d12420fdea.md",
-      "sha256": "862c45cbab315e59d8d9589e6ede6440f4964a31c7a79046d011395e4fe55e81"
-    },
-    {
       "bytes": 738,
       "path": "dynamic/日常/2026-08-19 15-56-08 塑封机的持久印象_bfe08c9541e3.md",
       "sha256": "2d29e86afd4eaff02c52e626184de33b5acc5ed0df825f4a7d66a533a7c15ae9"
-    },
-    {
-      "bytes": 816,
-      "path": "dynamic/日常/2026-08-24 16-12-25 早上她又点错了麦当劳的店_baf0c5d97207.md",
-      "sha256": "fb383f6688e2816092fa31482a8d4e90ee662bd5bf3f9c3e7caa8bbe1b5c480a"
     },
     {
       "bytes": 644,
@@ -1893,11 +1918,6 @@
       "sha256": "4ba1bf6ef54cb92f88b2d7c6a5b3aa6ab7893d6f479301c330aa017a7a42d677"
     },
     {
-      "bytes": 455,
-      "path": "dynamic/购物/2026-07-25 21-29-09 香水偏好_de2cfef45587.md",
-      "sha256": "81a255fc7152c8b0899bf2e6cef45544b9ca0634690ba43bf722cea80b6726fe"
-    },
-    {
       "bytes": 620,
       "path": "dynamic/身心/2026-07-25 21-14-34 北国雪松抱枕_bf086c088d59.md",
       "sha256": "8c9e97dd7fe2a7555dd4d2597b9a440a8c4ffe6dcbb17f66737dc706cd2dfb92"
@@ -1981,6 +2001,11 @@
       "bytes": 458,
       "path": "dynamic/身心/2026-09-15 02-36-04 Sonia看牙医_85193cbe30a9.md",
       "sha256": "64348684fecdc40505acdc373bbbbb4f9f22a0ce93d15ee83040daa49044ce91"
+    },
+    {
+      "bytes": 885,
+      "path": "dynamic/身心/2026-09-24 09-57-06 Sonia拔智齿的全过程与拔牙基金_ebaf7de0868c.md",
+      "sha256": "dcc24f9c7a561a6392475aec2a6d0833cfa7710143838b0ed28cb01557ea94da"
     },
     {
       "bytes": 831,
@@ -2148,11 +2173,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-09-23T10:03:46+00:00",
+  "generated_at": "2026-09-24T10:03:54+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 308854
+  "total_bytes": 312647
 }
