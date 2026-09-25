@@ -18,6 +18,16 @@
       "sha256": "15a7e33174631dce64385e14a6a3895cb3bc3fe167443619aa408cd96d61f119"
     },
     {
+      "bytes": 723,
+      "path": "archive/兴趣/2026-08-25 16-51-46 跟Copilot聊恐龙文明到凌晨两点_4163f582c3a4.md",
+      "sha256": "9fd2e769de5927df1808a91cc990c7e38ce0bde21b1ef879a89b3e64de70599f"
+    },
+    {
+      "bytes": 559,
+      "path": "archive/学习/2026-07-25 21-17-11 贝斯课拖延_4721b123ff67.md",
+      "sha256": "8f548efc699d9710c97bade25bb6afbca37c50b7673a8055229d54b95d68d467"
+    },
+    {
       "bytes": 554,
       "path": "archive/学习/2026-08-22 17-27-41 学了一个意大利语词abbiocco_f343699f9de7.md",
       "sha256": "2f8524b4c0b15d458474f0a17eafaad69071d1c3f2e31a3c6b1bc4c278e5d72a"
@@ -26,6 +36,16 @@
       "bytes": 545,
       "path": "archive/日常/2026-07-25 21-20-14 物品管理_f3b7b8870b29.md",
       "sha256": "3d5524b5d713590690789bfe43823455dd97102a8548232f37ca0f5a1d219c43"
+    },
+    {
+      "bytes": 547,
+      "path": "archive/日常/2026-07-25 21-20-51 通勤模式_ec5aa759cc35.md",
+      "sha256": "c3564d25abfe34426063fd4e1bca2af2dd165eb2cef8637d5a6a33bf16ba7b5b"
+    },
+    {
+      "bytes": 602,
+      "path": "archive/日常/2026-07-25 21-25-52 饮食偏好_11c816f0197d.md",
+      "sha256": "94070ef800d1ee7b00ad3daa2ffc978bb7f23fa439ffd5603385e0c58dc7caa6"
     },
     {
       "bytes": 658,
@@ -813,11 +833,6 @@
       "sha256": "0bf064babe8e2f6fb3a7af8f2b1dad27754dae06b232d1af0e1bee6d537452af"
     },
     {
-      "bytes": 707,
-      "path": "dynamic/兴趣/2026-08-25 16-51-46 跟Copilot聊恐龙文明到凌晨两点_4163f582c3a4.md",
-      "sha256": "a7ad8b98afb5685c9d28ac5324a077cb6c7c443117a45b5b6dc23aad2dd44dd9"
-    },
-    {
       "bytes": 691,
       "path": "dynamic/兴趣/2026-08-25 16-51-50 讲寒武纪大爆发和三叶虫的眼睛_4fe455a1d02a.md",
       "sha256": "a5c59af6bff7afaa5d1b1b7e614aff9279289954b2ecf2564ca827a499cd2d86"
@@ -1076,11 +1091,6 @@
       "bytes": 686,
       "path": "dynamic/友谊/2026-08-31 03-22-33 她发来了为我拍的海的照片_a49487c4fa04.md",
       "sha256": "ceb46beee383afc4456cd1fb269af12b4d4a925006bf27cce6d91260013578aa"
-    },
-    {
-      "bytes": 558,
-      "path": "dynamic/学习/2026-07-25 21-17-11 贝斯课拖延_4721b123ff67.md",
-      "sha256": "bd2ac35c646d50cc57e8138705bd7eb2f28bef791c6cd328c1e44af36a2e70bb"
     },
     {
       "bytes": 1022,
@@ -1738,11 +1748,6 @@
       "sha256": "56f8361839da0eccdc7be68c927e4f08aa65fff7baf7a0f3f861733418eab0ab"
     },
     {
-      "bytes": 546,
-      "path": "dynamic/日常/2026-07-25 21-20-51 通勤模式_ec5aa759cc35.md",
-      "sha256": "2c01c866765ea4fe1d558411298157f5893444963313a2f7194119b0f20e40e0"
-    },
-    {
       "bytes": 660,
       "path": "dynamic/日常/2026-07-25 21-21-15 泡芙仪式_5758804d674d.md",
       "sha256": "f39f101199fd42450fd3d4a6e3fccac6fe7672b0513bc6522aad9e4853791e18"
@@ -1756,11 +1761,6 @@
       "bytes": 532,
       "path": "dynamic/日常/2026-07-25 21-23-46 日常仪式_d17c9b8adcfb.md",
       "sha256": "9b30cbd94354884c59aaef1a6b5852ba58699bd2a243d9346a71f5a9404d9242"
-    },
-    {
-      "bytes": 601,
-      "path": "dynamic/日常/2026-07-25 21-25-52 饮食偏好_11c816f0197d.md",
-      "sha256": "23868a824e4d73951265e2286e12b2d2598f7f83b523f9e5b6f885d66185c0af"
     },
     {
       "bytes": 639,
@@ -2173,11 +2173,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-09-24T10:03:54+00:00",
+  "generated_at": "2026-09-25T10:04:02+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 312647
+  "total_bytes": 312666
 }
