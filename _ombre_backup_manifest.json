@@ -13,6 +13,11 @@
       "sha256": "5ee28042fabfa14bcc576bb1a82fd8a86119d888410376698f0fb2f02387120c"
     },
     {
+      "bytes": 740,
+      "path": "archive/preferences/2026-08-28 14-06-18 布丁狗和屁眼_ff741b8384e9.md",
+      "sha256": "06de8388ed2a183a213109f1e3147a59dc1ca7f35d0f0d5554051a8428127bd3"
+    },
+    {
       "bytes": 613,
       "path": "archive/人际/2026-07-25 21-21-43 戒指社交符号_7f4536168948.md",
       "sha256": "f88d2f372e4c6733cb6d5f0fc120684ab4f474ee5c7f644e85677a2d877e0e91"
@@ -31,6 +36,16 @@
       "bytes": 600,
       "path": "archive/人际/2026-08-27 03-51-52 Clearblue验孕棒玩笑_b25b6d07bb5c.md",
       "sha256": "a0d2fcbb15b3ea49a9c8fbecc2390dbe1df3043060782fc8561e5c5d56adcf9c"
+    },
+    {
+      "bytes": 627,
+      "path": "archive/兴趣/2026-07-25 21-18-23 Tomodachi企划_84d13de864a6.md",
+      "sha256": "c8e329f02ebbce3b6fe8042dac1507357ee97a233b90aa5a777fe594d9af75c1"
+    },
+    {
+      "bytes": 582,
+      "path": "archive/兴趣/2026-07-25 21-27-17 凡尔赛情结_f6e669b32008.md",
+      "sha256": "ed98d61a7d31c66fd54bd3909c798bebfd2d9f104c8d72994c252f29e12e717c"
     },
     {
       "bytes": 723,
@@ -53,9 +68,19 @@
       "sha256": "814b2d0c4c4afe324ea2024a9302328f9ec8aff8329bfb2b84d029dff25220ff"
     },
     {
+      "bytes": 645,
+      "path": "archive/心理/2026-07-29 13-04-24 情感交流与支持_b672dc17485d.md",
+      "sha256": "24757cdd739bcf53bc19785bbb8855987a7abc10aa1a6af855058fc079295ecf"
+    },
+    {
       "bytes": 649,
       "path": "archive/日常/2026-07-25 21-16-51 抱枕象征_e1476c00bed7.md",
       "sha256": "a0657c7419dc7f98464e2ee9bd2ce723052a9f13cdad8164a85917dd5457cb76"
+    },
+    {
+      "bytes": 580,
+      "path": "archive/日常/2026-07-25 21-19-36 香水仪式_e4d23951f90f.md",
+      "sha256": "54ff0c7702026b5b4d54c2a9543b4020fc10545280c56c737b3bbcba0ef300d3"
     },
     {
       "bytes": 580,
@@ -171,11 +196,6 @@
       "bytes": 586,
       "path": "dynamic/identity/2026-08-30 11-20-30 生日她627Claude 726_3df045058c5a.md",
       "sha256": "ff8bfeb97b4f0582425bf220aba0734f343f8d699f23cba0c19d0f98ea51be6b"
-    },
-    {
-      "bytes": 724,
-      "path": "dynamic/preferences/2026-08-28 14-06-18 布丁狗和屁眼_ff741b8384e9.md",
-      "sha256": "27ffc339d5a78ed268f8c219abbafd331486a7e08b615326c8a52a57aa3162f4"
     },
     {
       "bytes": 805,
@@ -758,11 +778,6 @@
       "sha256": "5bfa028fcecff2c5cf5d41bef1a13daac19231d632aca0d9c7658659b4c9a05f"
     },
     {
-      "bytes": 626,
-      "path": "dynamic/兴趣/2026-07-25 21-18-23 Tomodachi企划_84d13de864a6.md",
-      "sha256": "a0a3f58b4a513a70505a5a873692bfbc85faa15151267e4a6b8449527e710e75"
-    },
-    {
       "bytes": 655,
       "path": "dynamic/兴趣/2026-07-25 21-20-12 联想游戏_ff8b4e6cb924.md",
       "sha256": "15cd7406a5c33285d476d0fbb2fab92afd07411c09953595dd6f6ae9266d0d11"
@@ -791,11 +806,6 @@
       "bytes": 846,
       "path": "dynamic/兴趣/2026-07-25 21-25-51 机器人审美观_6b5250bca8f3.md",
       "sha256": "3b2640313707fc495438d0d5f93c75a8bb657cedeb41315a93cbfa2ed74d37b9"
-    },
-    {
-      "bytes": 581,
-      "path": "dynamic/兴趣/2026-07-25 21-27-17 凡尔赛情结_f6e669b32008.md",
-      "sha256": "147f75af30126334e8b39002648addbe47787f2449496e154aa03716d2d06903"
     },
     {
       "bytes": 551,
@@ -1246,11 +1256,6 @@
       "bytes": 627,
       "path": "dynamic/心理/2026-07-25 21-29-45 情感依赖_98a2a7c61155.md",
       "sha256": "18c1cd256df43a6e0f19b721f2c209e8f370949f6c2c15b529556bc0257f81b6"
-    },
-    {
-      "bytes": 644,
-      "path": "dynamic/心理/2026-07-29 13-04-24 情感交流与支持_b672dc17485d.md",
-      "sha256": "6cb9ba1658e09fb43830d88ec67b81bfae1240209274f400e0debbc6b11e6e26"
     },
     {
       "bytes": 807,
@@ -1788,11 +1793,6 @@
       "sha256": "2d28387c6ef8426add23a83e06fd6f565734920892451571672ec54f4a6e59d9"
     },
     {
-      "bytes": 579,
-      "path": "dynamic/日常/2026-07-25 21-19-36 香水仪式_e4d23951f90f.md",
-      "sha256": "25857018380afd41ef29d95039626b4daee48c8cee8f9b570348edec78191442"
-    },
-    {
       "bytes": 660,
       "path": "dynamic/日常/2026-07-25 21-21-15 泡芙仪式_5758804d674d.md",
       "sha256": "f39f101199fd42450fd3d4a6e3fccac6fe7672b0513bc6522aad9e4853791e18"
@@ -2178,11 +2178,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-09-27T10:04:18+00:00",
+  "generated_at": "2026-09-28T10:04:24+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 313314
+  "total_bytes": 313334
 }
