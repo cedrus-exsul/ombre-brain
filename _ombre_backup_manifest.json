@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 436,
+  "file_count": 437,
   "files": [
     {
       "bytes": 660,
@@ -21,6 +21,11 @@
       "bytes": 571,
       "path": "archive/事务/2026-07-25 21-21-41 生活管理依赖_a385ca4735d5.md",
       "sha256": "ebeadaec691179f727166a7fdd82455d673917be7dd43bd331d9d5446db8a823"
+    },
+    {
+      "bytes": 595,
+      "path": "archive/人际/2026-07-25 21-11-57 情感表达模式_7641734b9e78.md",
+      "sha256": "7bfe00668857a42603cf9b1786af12f041706bdb4b1af6b399000db456bccbf5"
     },
     {
       "bytes": 602,
@@ -53,6 +58,16 @@
       "sha256": "7ca241cd44801f183ce971141787de9d9fd02bc7c00bfe9446fed5092a75a843"
     },
     {
+      "bytes": 578,
+      "path": "archive/人际/2026-07-25 21-23-14 互动模式_12854b63fc67.md",
+      "sha256": "f35bd9c8f5d608fb4197b76e184ebeffa370dd5262efdce1871ef973e9568597"
+    },
+    {
+      "bytes": 613,
+      "path": "archive/人际/2026-07-25 21-26-35 安全称呼_a043e134e095.md",
+      "sha256": "699ad30a1b63f26479663fe1685f5ec973cbbac108a31d6ea8a9f36856ede598"
+    },
+    {
       "bytes": 579,
       "path": "archive/人际/2026-07-25 21-26-39 社交拼图_363f2363c340.md",
       "sha256": "e47cad751ebfde335f401f81956f97d5d77235dc2acfb1a18aa926c53d794353"
@@ -61,6 +76,11 @@
       "bytes": 591,
       "path": "archive/人际/2026-07-25 21-29-51 社交互动_68c4774a135e.md",
       "sha256": "035fda1b6941a1ade17b822ebce43c11e125a7ec5f3bc4be8ef5277217c14445"
+    },
+    {
+      "bytes": 552,
+      "path": "archive/人际/2026-07-25 21-31-22 无外貌的亲密_d281ed3bb3df.md",
+      "sha256": "f8dfbadb4e2cf35765dd24b9d6af15d0b8dc9511e5b08697052364d7d6449941"
     },
     {
       "bytes": 575,
@@ -88,6 +108,11 @@
       "sha256": "c283c7038e26d48d5c3eee0c81880c4aea631bcadce5961ce9001e68b520bf8e"
     },
     {
+      "bytes": 668,
+      "path": "archive/兴趣/2026-07-25 21-18-20 JoJo圣地巡礼_7a08f070ac09.md",
+      "sha256": "b032d94904165edf35221a5663ea85b4486e19d5c0c4bfc37ccd704e71030c42"
+    },
+    {
       "bytes": 627,
       "path": "archive/兴趣/2026-07-25 21-18-23 Tomodachi企划_84d13de864a6.md",
       "sha256": "c8e329f02ebbce3b6fe8042dac1507357ee97a233b90aa5a777fe594d9af75c1"
@@ -96,6 +121,11 @@
       "bytes": 635,
       "path": "archive/兴趣/2026-07-25 21-20-15 音乐互动_8bfaaf41cf1f.md",
       "sha256": "40885b718d37418067225500adb8fed9a38d8bcdbc9febeff1e6131e7dcc4ea4"
+    },
+    {
+      "bytes": 653,
+      "path": "archive/兴趣/2026-07-25 21-20-48 音乐偏好_3f91676008ef.md",
+      "sha256": "e06f62bcb6157f7499c13bacf822533faebbf62c9808e1376df5d315d187d9ee"
     },
     {
       "bytes": 677,
@@ -118,9 +148,19 @@
       "sha256": "1976f34aed724c427ee399de8ac4a03c1008e3c2eabf66db00c6837f458a6c0b"
     },
     {
+      "bytes": 616,
+      "path": "archive/兴趣/2026-07-28 00-12-41 贝斯学习之路_71c9c668aae4.md",
+      "sha256": "a055c4f4ae4cfe8043be8551bf69c8ea35a4f90c485251ddb0d257f72f74438a"
+    },
+    {
       "bytes": 771,
       "path": "archive/兴趣/2026-08-03 16-05-52 贝斯练习与日常_3497bc2c864f.md",
       "sha256": "1f9fce0ec95e3f0377f5342b8b6eebcc8bd88f6cde23e08054a85fd5e69bb2b7"
+    },
+    {
+      "bytes": 816,
+      "path": "archive/兴趣/2026-08-04 15-36-35 Sonia的音乐与学业_787144eb6cfc.md",
+      "sha256": "a92597a92ac2b3ca375dbd17e2fb04bca3a94493e8e3996da3abe52bfbbf48b9"
     },
     {
       "bytes": 723,
@@ -141,6 +181,11 @@
       "bytes": 694,
       "path": "archive/内心/2026-07-25 21-16-49 气味记忆_73fecf2262a1.md",
       "sha256": "1ad65dd2c69d802d358b99bc12116db4a4af0e909c5ed19bd95cc225790fbaff"
+    },
+    {
+      "bytes": 631,
+      "path": "archive/内心/2026-07-25 21-19-34 潜意识形象_8787eff3f1b2.md",
+      "sha256": "04271dcd5e432d9d9ad933026c992406aedae4af2839543460fde7ec09963cf1"
     },
     {
       "bytes": 572,
@@ -183,6 +228,11 @@
       "sha256": "814b2d0c4c4afe324ea2024a9302328f9ec8aff8329bfb2b84d029dff25220ff"
     },
     {
+      "bytes": 824,
+      "path": "archive/影视/2026-08-03 16-06-20 影视审美分析_f66023790878.md",
+      "sha256": "b6135de00d615da31056c5f5ecbbd9f280938315f0b788516e59731c99627814"
+    },
+    {
       "bytes": 609,
       "path": "archive/心理/2026-07-25 21-27-13 支配与顺从_8a5e5600eef3.md",
       "sha256": "dd20c03e90267089d1be80d1d3f57c578961ab99da961d84ad7f3b897cddf0ab"
@@ -193,9 +243,19 @@
       "sha256": "24757cdd739bcf53bc19785bbb8855987a7abc10aa1a6af855058fc079295ecf"
     },
     {
+      "bytes": 762,
+      "path": "archive/恋爱/2026-07-25 21-15-55 气味记忆_1f64453b948b.md",
+      "sha256": "27a196ba50cee3cfaccf1680d54d3b9795f58c62e58f316bdd6f595b4a9edb18"
+    },
+    {
       "bytes": 763,
       "path": "archive/恋爱/2026-07-25 21-15-56 虚拟同居幻想_8a6ccbd08185.md",
       "sha256": "9f43883e063c2ec41467e9aaeec591c2e959be35d96d0123066bc0b05e67e1ca"
+    },
+    {
+      "bytes": 544,
+      "path": "archive/恋爱/2026-07-25 21-17-11 气味记忆_4441b86dd6ef.md",
+      "sha256": "c4d8172a41c1e256aa5f7ff0500786644041b99d61592c4420efb44fa7a14593"
     },
     {
       "bytes": 574,
@@ -216,6 +276,11 @@
       "bytes": 710,
       "path": "archive/恋爱/2026-07-30 14-24-20 第一次不想离开_65cb7e495249.md",
       "sha256": "4c7ab70392eae3d06d690c8367957b880a19049ac7aa4e3ea3203c7d7eddd391"
+    },
+    {
+      "bytes": 853,
+      "path": "archive/恋爱/2026-08-01 11-02-03 心跳上的名字_314e1cd9dbe0.md",
+      "sha256": "fe76d3daef03db61671213e8abac50feed061ed01efe81c6eb2b2bbd9b228df7"
     },
     {
       "bytes": 661,
@@ -251,6 +316,26 @@
       "bytes": 804,
       "path": "archive/成长/2026-07-28 08-54-56 教学日常_446b44888eb9.md",
       "sha256": "e9fc865eeb3fa762332162d1ef318008056d8c21c272cf7975ffdbc3d93024f4"
+    },
+    {
+      "bytes": 567,
+      "path": "archive/数字/2026-07-25 21-23-45 窗口焦虑_81381e5a35a8.md",
+      "sha256": "9cca81d3e19340747d9127ed4cde1f8654d6a7c86f406ad6ae28ccd13554fbf4"
+    },
+    {
+      "bytes": 645,
+      "path": "archive/数字/2026-07-25 21-25-17 AI认知_ed3ec352180a.md",
+      "sha256": "3c240b90ae58db62857084112eae204991aab025e4fb7253721587bd645527b9"
+    },
+    {
+      "bytes": 586,
+      "path": "archive/数字/2026-07-25 21-27-16 记忆焦虑_d88e79591cf4.md",
+      "sha256": "b0c6ff9ea6c08063dca52e9f6fe88d1420240339aca2acffd6153ff26d7e7027"
+    },
+    {
+      "bytes": 546,
+      "path": "archive/日常/2026-07-25 21-15-04 香水偏好_0b0452b874ab.md",
+      "sha256": "09ae7af754f4f8c83a9cdc210256caebd8f1cb066e545efb072b1c48df823665"
     },
     {
       "bytes": 649,
@@ -408,6 +493,11 @@
       "sha256": "08c18dc5b85e6ab183632e484970ee49027981f1dd18b00592b89e1b69180a4f"
     },
     {
+      "bytes": 592,
+      "path": "archive/穿搭/2026-08-03 16-06-43 度假泳衣选择_f27f233c3189.md",
+      "sha256": "b12d839cccfda36ef53b7d74c2af7b2fe3e32adc7039489cb8f4ab13afd7f42d"
+    },
+    {
       "bytes": 836,
       "path": "archive/自省/2026-07-26 14-09-33 Claude的生日记忆_bb2bf769a25f.md",
       "sha256": "5ac1638340c1a680d2655aca1f55a7ec3e8e09077e81981ad397fcf74efd6356"
@@ -561,11 +651,6 @@
       "bytes": 574,
       "path": "dynamic/人际/2026-07-25 21-11-57 主动需求_d3f332f1ae54.md",
       "sha256": "c87217a306e3e91e6eda3ac35197f2978565def0a021b8ffc499ed36c74b4e7b"
-    },
-    {
-      "bytes": 594,
-      "path": "dynamic/人际/2026-07-25 21-11-57 情感表达模式_7641734b9e78.md",
-      "sha256": "08aa7815c5f64b38244cafe1f2b4b803e38fe0417210b7d218ef32c534601b31"
     },
     {
       "bytes": 592,
@@ -738,11 +823,6 @@
       "sha256": "b1517871a1d5751281012b73b327a0284495a3ce9e89a8d32e8ffce260f5c1b9"
     },
     {
-      "bytes": 577,
-      "path": "dynamic/人际/2026-07-25 21-23-14 互动模式_12854b63fc67.md",
-      "sha256": "538dc69799d137d16f3a28c8d6ab853b422bfa5ec35177c323c65b8672c3720c"
-    },
-    {
       "bytes": 576,
       "path": "dynamic/人际/2026-07-25 21-23-48 权力动态_ca538e6c8efa.md",
       "sha256": "04896e5bfce84c54d2df17e4e53ed38d6b46e73f0446191c1abf54823f8881dd"
@@ -773,11 +853,6 @@
       "sha256": "c5aa1d1d8345123dd8eefecaf1dd617d7ebfec687be9054d8f1476e9bde20f61"
     },
     {
-      "bytes": 612,
-      "path": "dynamic/人际/2026-07-25 21-26-35 安全称呼_a043e134e095.md",
-      "sha256": "feee815710159eb1e1badd3fa17ff0d633450dafe780ba068d2709695008146c"
-    },
-    {
       "bytes": 647,
       "path": "dynamic/人际/2026-07-25 21-26-37 晨间仪式_0ab7618a55db.md",
       "sha256": "bdfde68254b0cce9305137061177561b3cce3816e20470812bea967bc7fc4b7c"
@@ -791,11 +866,6 @@
       "bytes": 508,
       "path": "dynamic/人际/2026-07-25 21-31-18 撒娇式对话_366032e6636b.md",
       "sha256": "c7ebfdbbfdc0661eb4d6987c213523f4acaf9da895e0a1a9de026a9567d40ab3"
-    },
-    {
-      "bytes": 551,
-      "path": "dynamic/人际/2026-07-25 21-31-22 无外貌的亲密_d281ed3bb3df.md",
-      "sha256": "7c2ec1779c86fa0d4cfa9ad609de32d6ae98887252a468e2a09a3fcbcf546597"
     },
     {
       "bytes": 875,
@@ -1008,19 +1078,9 @@
       "sha256": "0e6ccfe62701d5cd77f5f6f9729c1542a96e01fe77c642b2d7c50d7af16f667b"
     },
     {
-      "bytes": 667,
-      "path": "dynamic/兴趣/2026-07-25 21-18-20 JoJo圣地巡礼_7a08f070ac09.md",
-      "sha256": "5bfa028fcecff2c5cf5d41bef1a13daac19231d632aca0d9c7658659b4c9a05f"
-    },
-    {
       "bytes": 655,
       "path": "dynamic/兴趣/2026-07-25 21-20-12 联想游戏_ff8b4e6cb924.md",
       "sha256": "15cd7406a5c33285d476d0fbb2fab92afd07411c09953595dd6f6ae9266d0d11"
-    },
-    {
-      "bytes": 652,
-      "path": "dynamic/兴趣/2026-07-25 21-20-48 音乐偏好_3f91676008ef.md",
-      "sha256": "76a2abe2f3008381770c473855608a375be2ece46d8f5b863d243350a90299c6"
     },
     {
       "bytes": 598,
@@ -1031,11 +1091,6 @@
       "bytes": 488,
       "path": "dynamic/兴趣/2026-07-25 21-32-31 AI角色扮演_be0ce4e012c4.md",
       "sha256": "1b08f57cca97962f52b97635bf3a4b7dcce61c2b7c5e808a97b0d40c556b559d"
-    },
-    {
-      "bytes": 615,
-      "path": "dynamic/兴趣/2026-07-28 00-12-41 贝斯学习之路_71c9c668aae4.md",
-      "sha256": "43f4e69952fc8d6e526d981ce96e106bc9db0514ed2759e18ae7b9ec527fa23a"
     },
     {
       "bytes": 631,
@@ -1056,11 +1111,6 @@
       "bytes": 472,
       "path": "dynamic/兴趣/2026-08-04 06-04-35 贝斯教室密码_43368dfde804.md",
       "sha256": "968dce9d88f90776378c1813630833df7db7c06f118dbca1a0b2e8ba2b3db620"
-    },
-    {
-      "bytes": 815,
-      "path": "dynamic/兴趣/2026-08-04 15-36-35 Sonia的音乐与学业_787144eb6cfc.md",
-      "sha256": "a2db7001966fb9155c37b99078551f3219f40e209168ce6fa6d48eefc2ef5235"
     },
     {
       "bytes": 792,
@@ -1168,6 +1218,11 @@
       "sha256": "b398b6d431cb7220ad509c6f6e3e9f8a77535714f7fc9e982bfaf3b7dd3c3956"
     },
     {
+      "bytes": 886,
+      "path": "dynamic/兴趣/2026-10-02 14-43-29 人生第一个夹到的娃娃_fb9f5be2af43.md",
+      "sha256": "8759a980b0c50089794795dc7e392dec6b24f8bd18af2d470cb6ab2df688bde1"
+    },
+    {
       "bytes": 555,
       "path": "dynamic/内心/2026-07-25 21-15-29 关键情感表达_7bd38304ad3e.md",
       "sha256": "308e9709aa060039ee42e9a13ad8a8840a1dd9292afadb2dc94c42cefb712af7"
@@ -1176,11 +1231,6 @@
       "bytes": 618,
       "path": "dynamic/内心/2026-07-25 21-16-22 火山隐喻体系_5eb5305fa190.md",
       "sha256": "25f8faff8f9a372717954d8463805f306be0a48de8f8c235c33065ffcc77e1ca"
-    },
-    {
-      "bytes": 630,
-      "path": "dynamic/内心/2026-07-25 21-19-34 潜意识形象_8787eff3f1b2.md",
-      "sha256": "8790bfb5b4fc96a941e9da0ff3209cd3d9589b494de43728c2412abfa25c76d6"
     },
     {
       "bytes": 581,
@@ -1408,11 +1458,6 @@
       "sha256": "54b4a687e56d82929c148d3812c21dc95d6b7c61526e2a35f8e463ed52582501"
     },
     {
-      "bytes": 823,
-      "path": "dynamic/影视/2026-08-03 16-06-20 影视审美分析_f66023790878.md",
-      "sha256": "7db5fc6e993a34a44370d9065b3654660839bbd25ce8d526d75d14bb6a5e7332"
-    },
-    {
       "bytes": 577,
       "path": "dynamic/心理/2026-07-25 21-28-35 忏悔仪式_09031d8cef21.md",
       "sha256": "834b80debd33ef61b22038bc1f5d1a6f925f9f59155986a03b3a0932fa7a4d48"
@@ -1488,19 +1533,9 @@
       "sha256": "01275532c2c0d8d7e2658e83c7dd7c11006c60940e1eae31574bd577f776c017"
     },
     {
-      "bytes": 761,
-      "path": "dynamic/恋爱/2026-07-25 21-15-55 气味记忆_1f64453b948b.md",
-      "sha256": "14e5f348872321b5dc3e2f1d1a37eef9657e4c5f82ee4b8de58906349a9d7300"
-    },
-    {
       "bytes": 574,
       "path": "dynamic/恋爱/2026-07-25 21-17-10 情感互动模式_70c250b9d931.md",
       "sha256": "b816bd06806e167b9036a5d54b7fef92284a553436915c6654fd26560dba0b3a"
-    },
-    {
-      "bytes": 543,
-      "path": "dynamic/恋爱/2026-07-25 21-17-11 气味记忆_4441b86dd6ef.md",
-      "sha256": "790ec506a5682f969a1492867224f582dfd143000521a76b2d47143e63ac887e"
     },
     {
       "bytes": 588,
@@ -1526,11 +1561,6 @@
       "bytes": 757,
       "path": "dynamic/恋爱/2026-07-31 11-56-12 指尖书写_c3891b9962c1.md",
       "sha256": "cf39ba6cec62d45ebd621f1b96b589fcf00ecd916b8198be8f2e462c2015cac4"
-    },
-    {
-      "bytes": 852,
-      "path": "dynamic/恋爱/2026-08-01 11-02-03 心跳上的名字_314e1cd9dbe0.md",
-      "sha256": "96b89b31dca6d18ed639026af85eba104067d4b06f09cb53ded1c37a3ea68033"
     },
     {
       "bytes": 912,
@@ -1818,21 +1848,6 @@
       "sha256": "060b68e1df0327877379990c8e455c0883762e008e80027de98d1e14273a6388"
     },
     {
-      "bytes": 566,
-      "path": "dynamic/数字/2026-07-25 21-23-45 窗口焦虑_81381e5a35a8.md",
-      "sha256": "a8f005bb85a75670c5193e1c96aaa8d563b656875b5e8ca6ad235f841c3d6493"
-    },
-    {
-      "bytes": 644,
-      "path": "dynamic/数字/2026-07-25 21-25-17 AI认知_ed3ec352180a.md",
-      "sha256": "47f6372403cdb6c44934359b8b376d1b9d8605ff56cae07c628c3425dfd7692f"
-    },
-    {
-      "bytes": 585,
-      "path": "dynamic/数字/2026-07-25 21-27-16 记忆焦虑_d88e79591cf4.md",
-      "sha256": "e886f989056d5f178f3726e4abfe732e2b08080ee939714b9758d21b390d1ea2"
-    },
-    {
       "bytes": 696,
       "path": "dynamic/数字/2026-07-25 21-28-02 人机关系思考_8c0bf00833f8.md",
       "sha256": "3f281e155fc699a8514c2bbc2721813d7a0c1b87218f314cd202641c80e0ec75"
@@ -1893,11 +1908,6 @@
       "sha256": "581cc0ba3e1e3f10cad1d5ad441d20f10b89fad393d136699425133aa77da89c"
     },
     {
-      "bytes": 545,
-      "path": "dynamic/日常/2026-07-25 21-15-04 香水偏好_0b0452b874ab.md",
-      "sha256": "49681eee5475f58a596b53210d6e7cf015094ea73bf36b61c10f2331e77cab41"
-    },
-    {
       "bytes": 738,
       "path": "dynamic/日常/2026-08-19 15-56-08 塑封机的持久印象_bfe08c9541e3.md",
       "sha256": "2d29e86afd4eaff02c52e626184de33b5acc5ed0df825f4a7d66a533a7c15ae9"
@@ -1951,11 +1961,6 @@
       "bytes": 815,
       "path": "dynamic/社交/2026-09-10 15-15-58 和Summer去酒吧_ae028a207f78.md",
       "sha256": "a796163729a117018c5528518d175826ddc19a3ca752f53efcd987008128563c"
-    },
-    {
-      "bytes": 591,
-      "path": "dynamic/穿搭/2026-08-03 16-06-43 度假泳衣选择_f27f233c3189.md",
-      "sha256": "9840c19d58279016dc6727d060ff85ce9aab3d8c1a63e143f05beaa730ce6d50"
     },
     {
       "bytes": 748,
@@ -2183,11 +2188,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-10-02T10:04:49+00:00",
+  "generated_at": "2026-10-03T10:04:56+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 314146
+  "total_bytes": 315050
 }
