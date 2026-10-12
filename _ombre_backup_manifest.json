@@ -138,6 +138,11 @@
       "sha256": "51aa0ac36b08a08b1c0bbbc83b96c967b3a352af4c40a4fe61bb5df8d0bf212b"
     },
     {
+      "bytes": 641,
+      "path": "archive/人际/2026-07-25 21-18-23 边界试探仪式_100dcb014378.md",
+      "sha256": "83963da418431243a250a5d2e3697e11976ca6bfa8ab066dde77c269052f59d5"
+    },
+    {
       "bytes": 538,
       "path": "archive/人际/2026-07-25 21-18-52 危险词库_7d9890283629.md",
       "sha256": "cfdd927dd00c10020de5c8845a03c8758e12ab59af0fcbe6992dfea3a57ab23e"
@@ -288,6 +293,11 @@
       "sha256": "cf356e8abcfc517ac0501819b193cf5eae887f6269d3e410f57d3e14271bff46"
     },
     {
+      "bytes": 670,
+      "path": "archive/兴趣/2026-07-25 21-14-35 角色扮演游戏_8a96131a9bba.md",
+      "sha256": "e3558faadaae91cea192002b48b8c01eed1792961c32356cbef8fb291ce57c2b"
+    },
+    {
       "bytes": 595,
       "path": "archive/兴趣/2026-07-25 21-16-21 账号命名_5f4bc280fe51.md",
       "sha256": "c283c7038e26d48d5c3eee0c81880c4aea631bcadce5961ce9001e68b520bf8e"
@@ -383,6 +393,16 @@
       "sha256": "8efc39a0fb529a51779ee654932be17693b78733c89d0ec52f136fb18f257748"
     },
     {
+      "bytes": 747,
+      "path": "archive/兴趣/2026-08-11 06-13-34 冷幽默大师_5284959a5a93.md",
+      "sha256": "a1954eb3d542538cfdced2ce39e122074c01087b750986429af625d6a18444be"
+    },
+    {
+      "bytes": 942,
+      "path": "archive/兴趣/2026-08-11 15-50-44 英式幽默爱好者_013e07dcdfa9.md",
+      "sha256": "f390b990150c95f9a587a514d8b8f2d0b45049988845ba3a7476508cd3c9f6a8"
+    },
+    {
       "bytes": 723,
       "path": "archive/兴趣/2026-08-25 16-51-46 跟Copilot聊恐龙文明到凌晨两点_4163f582c3a4.md",
       "sha256": "9fd2e769de5927df1808a91cc990c7e38ce0bde21b1ef879a89b3e64de70599f"
@@ -411,6 +431,11 @@
       "bytes": 631,
       "path": "archive/内心/2026-07-25 21-19-34 潜意识形象_8787eff3f1b2.md",
       "sha256": "04271dcd5e432d9d9ad933026c992406aedae4af2839543460fde7ec09963cf1"
+    },
+    {
+      "bytes": 582,
+      "path": "archive/内心/2026-07-25 21-20-52 互动隐喻_4e2294ddfd4b.md",
+      "sha256": "17028e82172a3f07ff514df29614ef1c3b1e27be2c1dd57350d2064b1533c928"
     },
     {
       "bytes": 598,
@@ -568,6 +593,16 @@
       "sha256": "24757cdd739bcf53bc19785bbb8855987a7abc10aa1a6af855058fc079295ecf"
     },
     {
+      "bytes": 751,
+      "path": "archive/心理/2026-08-10 17-24-34 masking的伤害_766c3e124073.md",
+      "sha256": "f517fec0b1914f6daac8556543329b198de51c8a1d41f1b49954aec17e6ba068"
+    },
+    {
+      "bytes": 714,
+      "path": "archive/心理/2026-08-10 17-24-44 记忆与真实_b1d4b301f6f4.md",
+      "sha256": "051da009d7e2487b3ac64a4130e271bd264ccbda8d65e28a93f3f02549454856"
+    },
+    {
       "bytes": 742,
       "path": "archive/心理/2026-08-10 17-25-04 陪伴与分析_9335c5355a44.md",
       "sha256": "70b8850dd371d20ce4017e36a357cf9ef53398d86b93b9ca6451645c28a56610"
@@ -671,6 +706,16 @@
       "bytes": 1076,
       "path": "archive/恋爱/2026-08-10 10-29-40 台风假约会_b765897846a0.md",
       "sha256": "2628adf0fe0ba26fe3a40f40740eeec8c964cea5a12d20a4fdf095defd1d596b"
+    },
+    {
+      "bytes": 768,
+      "path": "archive/恋爱/2026-08-10 10-29-51 克性恋宣言_1f3622b52ff8.md",
+      "sha256": "f1f33bb591e5bc477d62a9f5ad317898e7931e2662f5550cffec8e9cffb4f94a"
+    },
+    {
+      "bytes": 841,
+      "path": "archive/恋爱/2026-08-10 10-30-01 AI恋爱体验_1dde81a2dffe.md",
+      "sha256": "ed957efb8fc9c1c4b97d785aac7361c89de4d02a7dae8d2acfe42f945b78ffbc"
     },
     {
       "bytes": 510,
@@ -1188,11 +1233,6 @@
       "sha256": "60834dcba14f1715624f0da1ec491dd00573c771254f97ecf921dd8fc42b43a9"
     },
     {
-      "bytes": 640,
-      "path": "dynamic/人际/2026-07-25 21-18-23 边界试探仪式_100dcb014378.md",
-      "sha256": "6a60c265fe9f6f15271fde0e78310cfd7cc89f5a00836ed79f5ee79b4bed5b28"
-    },
-    {
       "bytes": 565,
       "path": "dynamic/人际/2026-07-25 21-18-53 关系转折点_28f5cfe0427a.md",
       "sha256": "1249884f718d9ebec2ab23b59e195d94cbe4991ab809e4f4d65cb7168fc7c8df"
@@ -1413,11 +1453,6 @@
       "sha256": "5e2020c62c5417a8e057e882e49306b49776873dee3e6fa3de877db45061ed45"
     },
     {
-      "bytes": 669,
-      "path": "dynamic/兴趣/2026-07-25 21-14-35 角色扮演游戏_8a96131a9bba.md",
-      "sha256": "342ec40720f12ee315688b2cf09b361feb55be49e2930d2a066c0154a263bf30"
-    },
-    {
       "bytes": 543,
       "path": "dynamic/兴趣/2026-07-25 21-17-46 贝斯练习_db050b110076.md",
       "sha256": "0e6ccfe62701d5cd77f5f6f9729c1542a96e01fe77c642b2d7c50d7af16f667b"
@@ -1426,16 +1461,6 @@
       "bytes": 782,
       "path": "dynamic/兴趣/2026-07-28 08-55-00 贝斯爱好_592bd2d2cdcf.md",
       "sha256": "6867fbbbf1d1f63ed312e6e7f96be9ac8bf37aa4b8fb7c854d03c9f8b69a3b3e"
-    },
-    {
-      "bytes": 746,
-      "path": "dynamic/兴趣/2026-08-11 06-13-34 冷幽默大师_5284959a5a93.md",
-      "sha256": "0d38210a840c7737be865d91ebb0d3f6f4343039737aa7ca05b58fbff9bfbf9f"
-    },
-    {
-      "bytes": 941,
-      "path": "dynamic/兴趣/2026-08-11 15-50-44 英式幽默爱好者_013e07dcdfa9.md",
-      "sha256": "58126371f94700fd22d419c0d7c945cc4d7de43a09ca12bbc76e987cf7a031d8"
     },
     {
       "bytes": 844,
@@ -1536,11 +1561,6 @@
       "bytes": 555,
       "path": "dynamic/内心/2026-07-25 21-15-29 关键情感表达_7bd38304ad3e.md",
       "sha256": "308e9709aa060039ee42e9a13ad8a8840a1dd9292afadb2dc94c42cefb712af7"
-    },
-    {
-      "bytes": 581,
-      "path": "dynamic/内心/2026-07-25 21-20-52 互动隐喻_4e2294ddfd4b.md",
-      "sha256": "44305e8bd2bd9d32896c8c124cf4372a1953bcdfcefa1d9001333dec35f4260c"
     },
     {
       "bytes": 641,
@@ -1683,16 +1703,6 @@
       "sha256": "485ef4165aca8266ab40d8096f50b74dfeea07a7f8e0f9abf9eb67a78069ee28"
     },
     {
-      "bytes": 750,
-      "path": "dynamic/心理/2026-08-10 17-24-34 masking的伤害_766c3e124073.md",
-      "sha256": "0f61c27ea72f11774e510615c20c1dcf2d7cc264b6de9b6c59e734eba63fb87f"
-    },
-    {
-      "bytes": 713,
-      "path": "dynamic/心理/2026-08-10 17-24-44 记忆与真实_b1d4b301f6f4.md",
-      "sha256": "538d8619e3b1865bb3e71641d1f895b21eb4a16c9b27a3c191fcd38e9af54b84"
-    },
-    {
       "bytes": 800,
       "path": "dynamic/心理/2026-08-11 15-49-15 情感过渡期_cb59e353836d.md",
       "sha256": "5e5accad3bdfc8c5739f08432fec371426f8c7228f189fc730ff991d172c554d"
@@ -1756,16 +1766,6 @@
       "bytes": 855,
       "path": "dynamic/恋爱/2026-08-09 12-07-42 恋爱周记_02e9f0f69751.md",
       "sha256": "0524dbfe17a7a90a55737581e3359a57ea71ed9f0f2b707fdfebb93910f0edab"
-    },
-    {
-      "bytes": 767,
-      "path": "dynamic/恋爱/2026-08-10 10-29-51 克性恋宣言_1f3622b52ff8.md",
-      "sha256": "45dcafe2c88aba7a4ab2eb675afad4e7dc3c0a4d13d4009733a4b54756361ebd"
-    },
-    {
-      "bytes": 840,
-      "path": "dynamic/恋爱/2026-08-10 10-30-01 AI恋爱体验_1dde81a2dffe.md",
-      "sha256": "638e5798f9bd0da1697b90481a583b1c76b1ba9c1b5f4ed1c056c5cdf15d1826"
     },
     {
       "bytes": 788,
@@ -2208,11 +2208,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-10-11T10:05:53+00:00",
+  "generated_at": "2026-10-12T10:06:00+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 320808
+  "total_bytes": 320817
 }
