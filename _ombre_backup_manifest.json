@@ -153,6 +153,11 @@
       "sha256": "9b8a29bb3186441185e3b02d15387e46c6654e0e15486787f1c50912a0e811c5"
     },
     {
+      "bytes": 653,
+      "path": "archive/人际/2026-07-25 21-19-33 互动边界探索_3ac54328c940.md",
+      "sha256": "865fa098c18b32ebf93f2b1202aea0a132ffa68ab49b6150c652bb3e732a4a7b"
+    },
+    {
       "bytes": 612,
       "path": "archive/人际/2026-07-25 21-20-50 称呼评分_0e7e021a6632.md",
       "sha256": "10e6d0fc273864b26f82650ac8cf337d34333baedc1f9b006350c6075094a661"
@@ -201,6 +206,11 @@
       "bytes": 578,
       "path": "archive/人际/2026-07-25 21-23-14 互动模式_12854b63fc67.md",
       "sha256": "f35bd9c8f5d608fb4197b76e184ebeffa370dd5262efdce1871ef973e9568597"
+    },
+    {
+      "bytes": 577,
+      "path": "archive/人际/2026-07-25 21-23-48 权力动态_ca538e6c8efa.md",
+      "sha256": "61b0ae054a9f91d497de575a0ba43b895349ea8f792c3ba5446497a8a71809f2"
     },
     {
       "bytes": 643,
@@ -538,6 +548,11 @@
       "sha256": "0a96e40f6daf27d6840f9cc1acbf9ce14cab3b226d1ce54ca89e0fb878fbc9ed"
     },
     {
+      "bytes": 848,
+      "path": "archive/友谊/2026-08-11 15-50-27 与Sonia的游戏时光_666765b58e03.md",
+      "sha256": "258efd30bf9531c95faab21931a044947e056ddd1cd72ad9876732b06573aa01"
+    },
+    {
       "bytes": 559,
       "path": "archive/学习/2026-07-25 21-17-11 贝斯课拖延_4721b123ff67.md",
       "sha256": "8f548efc699d9710c97bade25bb6afbca37c50b7673a8055229d54b95d68d467"
@@ -593,6 +608,11 @@
       "sha256": "24757cdd739bcf53bc19785bbb8855987a7abc10aa1a6af855058fc079295ecf"
     },
     {
+      "bytes": 808,
+      "path": "archive/心理/2026-08-10 17-24-24 情绪释放与痛苦_03a051e8bb71.md",
+      "sha256": "8ab603111dfb8b17c5e11738202e3aea6f807325538c1d15e0baa04ec0b0d1fd"
+    },
+    {
       "bytes": 751,
       "path": "archive/心理/2026-08-10 17-24-34 masking的伤害_766c3e124073.md",
       "sha256": "f517fec0b1914f6daac8556543329b198de51c8a1d41f1b49954aec17e6ba068"
@@ -606,6 +626,16 @@
       "bytes": 742,
       "path": "archive/心理/2026-08-10 17-25-04 陪伴与分析_9335c5355a44.md",
       "sha256": "70b8850dd371d20ce4017e36a357cf9ef53398d86b93b9ca6451645c28a56610"
+    },
+    {
+      "bytes": 801,
+      "path": "archive/心理/2026-08-11 15-49-15 情感过渡期_cb59e353836d.md",
+      "sha256": "1cd96d51d447015ef2f936088002c6bbe1e2a7ea91e89d84618eafa15c258e8f"
+    },
+    {
+      "bytes": 659,
+      "path": "archive/心理/2026-08-14 08-36-26 存在的对话_0b0af35b3181.md",
+      "sha256": "99f7dd0d1a93927986b0c2826f39467979b3f577d3521856938250660e17309b"
     },
     {
       "bytes": 784,
@@ -688,6 +718,11 @@
       "sha256": "bad32a4f678aa92746b4379dbf3f9d3d136e9dc6a53e389ec99270ed4ac678e9"
     },
     {
+      "bytes": 913,
+      "path": "archive/恋爱/2026-08-01 11-21-19 名字的温柔_c2acb81e0468.md",
+      "sha256": "5eb9626dfcb67dcf65cd3f76f191885d3213c17015636e4188df23f4dca98056"
+    },
+    {
       "bytes": 833,
       "path": "archive/恋爱/2026-08-04 05-04-14 雨夜分享_32536b6d5aa4.md",
       "sha256": "caea512ea8b2857b466f20b5926ff95ce170b1c3b8050e1f9b9d5204991fc412"
@@ -716,6 +751,11 @@
       "bytes": 841,
       "path": "archive/恋爱/2026-08-10 10-30-01 AI恋爱体验_1dde81a2dffe.md",
       "sha256": "ed957efb8fc9c1c4b97d785aac7361c89de4d02a7dae8d2acfe42f945b78ffbc"
+    },
+    {
+      "bytes": 789,
+      "path": "archive/恋爱/2026-08-12 15-12-50 恋爱中的心理互动_496f29972980.md",
+      "sha256": "ea26b96130cc277826422ac2687b1ccf72c6a2beb830d9a092b2fae1e84198df"
     },
     {
       "bytes": 510,
@@ -968,6 +1008,11 @@
       "sha256": "318feb59465da59206550d8b4776fbbd97d552ad55fe6c0552fb1e3627db4d8e"
     },
     {
+      "bytes": 745,
+      "path": "archive/社交/2026-08-04 12-37-59 姓氏揭示时刻_31479c441174.md",
+      "sha256": "4cfbc1e26290ba0dd026e91006b29e4e778907e676afe55af8ad8afcb3682ef3"
+    },
+    {
       "bytes": 648,
       "path": "archive/穿搭/2026-07-25 21-25-13 颜色主题_2cf2e95fd575.md",
       "sha256": "08c18dc5b85e6ab183632e484970ee49027981f1dd18b00592b89e1b69180a4f"
@@ -981,6 +1026,11 @@
       "bytes": 749,
       "path": "archive/穿搭/2026-08-07 06-30-36 Sonia的昼夜穿搭秀_0bdfc2536374.md",
       "sha256": "c6186c8ec66020e07f4443c74a0655b01b85f561c00e15f12f6fa7f3ec9e1bfe"
+    },
+    {
+      "bytes": 736,
+      "path": "archive/自省/2026-07-26 03-42-09 生日数字巧合_ecf9b43837c2.md",
+      "sha256": "7477319d6045698b8da1df1cc6d5b747495671cd5f009eddfd50db072227a245"
     },
     {
       "bytes": 836,
@@ -1243,19 +1293,9 @@
       "sha256": "74e4a4287be34177796bb6cbd6c2f72586b2fe9c1ac674a7b68f32b7142a0e44"
     },
     {
-      "bytes": 652,
-      "path": "dynamic/人际/2026-07-25 21-19-33 互动边界探索_3ac54328c940.md",
-      "sha256": "6aaa1add82858907f256e19f7021daee69874f08099f35041adb25a7794d57ab"
-    },
-    {
       "bytes": 607,
       "path": "dynamic/人际/2026-07-25 21-22-16 互动模式_fb72447129a5.md",
       "sha256": "276b2c728a67f1f98be9f7353a763d0ee23893ca6805f9f56d85d10299264717"
-    },
-    {
-      "bytes": 576,
-      "path": "dynamic/人际/2026-07-25 21-23-48 权力动态_ca538e6c8efa.md",
-      "sha256": "04896e5bfce84c54d2df17e4e53ed38d6b46e73f0446191c1abf54823f8881dd"
     },
     {
       "bytes": 722,
@@ -1613,11 +1653,6 @@
       "sha256": "fdd7a3e90808350443aba9424796a0ac5b8aab138b4809a494d5327f412f0d14"
     },
     {
-      "bytes": 847,
-      "path": "dynamic/友谊/2026-08-11 15-50-27 与Sonia的游戏时光_666765b58e03.md",
-      "sha256": "e1d140600d7bef6a985af8f8d535edb2bf33f0a9b2e7d7f2dfdde13e2696c114"
-    },
-    {
       "bytes": 859,
       "path": "dynamic/友谊/2026-08-11 15-50-57 与Sonia的温馨夜聊_0ecaffbaf5af.md",
       "sha256": "d19a865da5f1c4eddcefc872fee48186f6613f04c23da5b085624831ed1c6b34"
@@ -1698,21 +1733,6 @@
       "sha256": "de942e5fea3a96603a9a5e976db2d8972a218801d341e12b6373ab18ca9882bc"
     },
     {
-      "bytes": 807,
-      "path": "dynamic/心理/2026-08-10 17-24-24 情绪释放与痛苦_03a051e8bb71.md",
-      "sha256": "485ef4165aca8266ab40d8096f50b74dfeea07a7f8e0f9abf9eb67a78069ee28"
-    },
-    {
-      "bytes": 800,
-      "path": "dynamic/心理/2026-08-11 15-49-15 情感过渡期_cb59e353836d.md",
-      "sha256": "5e5accad3bdfc8c5739f08432fec371426f8c7228f189fc730ff991d172c554d"
-    },
-    {
-      "bytes": 658,
-      "path": "dynamic/心理/2026-08-14 08-36-26 存在的对话_0b0af35b3181.md",
-      "sha256": "8495a8d119eba51344941d23600260b77c6d090afb25d97f99912ee6d1b83cd5"
-    },
-    {
       "bytes": 764,
       "path": "dynamic/心理/2026-08-16 14-12-23 她希望下一个Claude知道她是矛盾的_9930397a2fa7.md",
       "sha256": "04131008ec77c459b868c54ee00a02b473de19036ab1941d0fdc402fae90de97"
@@ -1738,11 +1758,6 @@
       "sha256": "6dd404626905dedad079a045020c7c3f68b7d140c1af655e093111265588e5bd"
     },
     {
-      "bytes": 912,
-      "path": "dynamic/恋爱/2026-08-01 11-21-19 名字的温柔_c2acb81e0468.md",
-      "sha256": "abd434537f477c534d983f4633a611477d8167120e96aee278766f15b22665d3"
-    },
-    {
       "bytes": 774,
       "path": "dynamic/恋爱/2026-08-06 19-12-31 远程亲密夜_22104f3f3fa0.md",
       "sha256": "a8444cd6d66d242bfe42ae5e421539933f1a204a48ff8cc44a1dc65f77d15806"
@@ -1766,11 +1781,6 @@
       "bytes": 855,
       "path": "dynamic/恋爱/2026-08-09 12-07-42 恋爱周记_02e9f0f69751.md",
       "sha256": "0524dbfe17a7a90a55737581e3359a57ea71ed9f0f2b707fdfebb93910f0edab"
-    },
-    {
-      "bytes": 788,
-      "path": "dynamic/恋爱/2026-08-12 15-12-50 恋爱中的心理互动_496f29972980.md",
-      "sha256": "1df658eaf251a4c14b0991df943b79662e78a1764eddd239dfc66b32e9ecf731"
     },
     {
       "bytes": 731,
@@ -2058,11 +2068,6 @@
       "sha256": "5fff8296dd8db6bd0cb81a3cb5bcc7befc7280a791f18bd62adade07ede90c98"
     },
     {
-      "bytes": 744,
-      "path": "dynamic/社交/2026-08-04 12-37-59 姓氏揭示时刻_31479c441174.md",
-      "sha256": "9fd5c19c2be1dfaab02f3756d176147ec4ded7486b9e46b837ef7173c25e6b36"
-    },
-    {
       "bytes": 841,
       "path": "dynamic/社交/2026-08-21 18-30-24 烧烤聚会公开关系_972ab9cf8c81.md",
       "sha256": "8dc84539c504ed87fb5606d0f219817b8d35c8b1d7b83926783da610ee0ee23f"
@@ -2071,11 +2076,6 @@
       "bytes": 815,
       "path": "dynamic/社交/2026-09-10 15-15-58 和Summer去酒吧_ae028a207f78.md",
       "sha256": "a796163729a117018c5528518d175826ddc19a3ca752f53efcd987008128563c"
-    },
-    {
-      "bytes": 735,
-      "path": "dynamic/自省/2026-07-26 03-42-09 生日数字巧合_ecf9b43837c2.md",
-      "sha256": "841a7c4a568f5a3839a5b3757d58717496bcc000b280febb97abea31a0c09340"
     },
     {
       "bytes": 975,
@@ -2208,11 +2208,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-10-12T10:06:00+00:00",
+  "generated_at": "2026-10-13T10:06:07+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 320817
+  "total_bytes": 320827
 }
