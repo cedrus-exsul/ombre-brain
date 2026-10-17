@@ -918,6 +918,11 @@
       "sha256": "c0fa36f2069e065163c452bfdf7da10d5bcefb4adbe88830355801766b5de4d6"
     },
     {
+      "bytes": 967,
+      "path": "archive/数字/2026-08-06 07-30-05 远程控制链路搭建_ac61eb87768e.md",
+      "sha256": "0fd7b17b6d8ff780d89c487dd397dde2422072da3d045fc46700b38255c5ea00"
+    },
+    {
       "bytes": 546,
       "path": "archive/日常/2026-07-25 21-15-04 香水偏好_0b0452b874ab.md",
       "sha256": "09ae7af754f4f8c83a9cdc210256caebd8f1cb066e545efb072b1c48df823665"
@@ -2003,11 +2008,6 @@
       "sha256": "4b343155cf43c64fce068ba388b73f116822b3dc2d3e0c09eaf09e5a7ea59811"
     },
     {
-      "bytes": 966,
-      "path": "dynamic/数字/2026-08-06 07-30-05 远程控制链路搭建_ac61eb87768e.md",
-      "sha256": "0e7519a355e9b42a147dcc2a27b674cb5c71f363332408fae523aca394025f97"
-    },
-    {
       "bytes": 806,
       "path": "dynamic/数字/2026-08-16 14-12-28 她注意到Claude订阅图标是silph_9d6d51ce766a.md",
       "sha256": "fcacf9b513fbe3030f58ef40e7f418dfebeb85368054e3c6f80d355926685753"
@@ -2213,11 +2213,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-10-16T10:06:29+00:00",
+  "generated_at": "2026-10-17T10:06:36+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 322036
+  "total_bytes": 322037
 }
