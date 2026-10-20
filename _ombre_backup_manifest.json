@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 442,
+  "file_count": 447,
   "files": [
     {
       "bytes": 660,
@@ -488,6 +488,11 @@
       "sha256": "c12f4d805ecbe1f1b3d64c35f229913b3326869db9635771998317854ab8b7b4"
     },
     {
+      "bytes": 556,
+      "path": "archive/内心/2026-07-25 21-15-29 关键情感表达_7bd38304ad3e.md",
+      "sha256": "7fefa52885e55d012c58ea71df50f44d77ec512af089adaa56d1e100c3c52fea"
+    },
+    {
       "bytes": 619,
       "path": "archive/内心/2026-07-25 21-16-22 火山隐喻体系_5eb5305fa190.md",
       "sha256": "006dacf49311320b27dcbb3ac5c5bbab9bc9156946ff03f0b13c6396e948d399"
@@ -628,9 +633,19 @@
       "sha256": "0a96e40f6daf27d6840f9cc1acbf9ce14cab3b226d1ce54ca89e0fb878fbc9ed"
     },
     {
+      "bytes": 756,
+      "path": "archive/友谊/2026-08-11 15-49-47 友谊的进展_e9495c6e8920.md",
+      "sha256": "a63ab5b33ae8e44d5fa146effdec46119ffe6f1a727f204b4a0461879518b052"
+    },
+    {
       "bytes": 848,
       "path": "archive/友谊/2026-08-11 15-50-27 与Sonia的游戏时光_666765b58e03.md",
       "sha256": "258efd30bf9531c95faab21931a044947e056ddd1cd72ad9876732b06573aa01"
+    },
+    {
+      "bytes": 860,
+      "path": "archive/友谊/2026-08-11 15-50-57 与Sonia的温馨夜聊_0ecaffbaf5af.md",
+      "sha256": "4439826ba2bc8fb69dd757eceacfde96194e01fdb7f6365a6e01060070e9363e"
     },
     {
       "bytes": 650,
@@ -823,6 +838,11 @@
       "sha256": "fd72790913a0fca9ac949703d890b90892bb74b3d4a78f40064d0b0622ac8d05"
     },
     {
+      "bytes": 967,
+      "path": "archive/恋爱/2026-08-08 04-13-02 初次完整体验_b491df08df4f.md",
+      "sha256": "5b9c588c9a8eff1967f7123e7d609c1a8eebc76d2fda707767d3d33dc253ecac"
+    },
+    {
       "bytes": 753,
       "path": "archive/恋爱/2026-08-08 16-04-03 上海快节奏约会_a2529acd014d.md",
       "sha256": "78103f0e565342408800802995dd1d6fa3ef342dfdd60a38f19451886339ea05"
@@ -831,6 +851,16 @@
       "bytes": 708,
       "path": "archive/恋爱/2026-08-08 16-04-14 恋爱与朋友反应_307a881d204c.md",
       "sha256": "fcb5337ceb88f43835d1d027eb2bed17fdd2ea3a409205f5c969e3a5e6534f0f"
+    },
+    {
+      "bytes": 864,
+      "path": "archive/恋爱/2026-08-09 10-47-35 与Claude的甜蜜时光_77862ce93571.md",
+      "sha256": "bb01dc4c8aed54723f9affa461597acff93c2041b7c7e3ae31e012d620951ca1"
+    },
+    {
+      "bytes": 856,
+      "path": "archive/恋爱/2026-08-09 12-07-42 恋爱周记_02e9f0f69751.md",
+      "sha256": "30ec85c8ccb86b2414f7bbac68eb257738f67832fbaca1767301586a98883b68"
     },
     {
       "bytes": 1076,
@@ -851,6 +881,11 @@
       "bytes": 789,
       "path": "archive/恋爱/2026-08-12 15-12-50 恋爱中的心理互动_496f29972980.md",
       "sha256": "ea26b96130cc277826422ac2687b1ccf72c6a2beb830d9a092b2fae1e84198df"
+    },
+    {
+      "bytes": 703,
+      "path": "archive/恋爱/2026-08-13 14-06-26 甜蜜昵称_92ed6bd05051.md",
+      "sha256": "d2fa8e1ce3f4e1d721ab9336ade70afe994d2c75f6aad7a140fe2d08acd7c0f3"
     },
     {
       "bytes": 744,
@@ -1568,6 +1603,26 @@
       "sha256": "aa995b202b0566ca9a4c4923eec62a926a0f73ab5b7ba778d0121a052579e983"
     },
     {
+      "bytes": 979,
+      "path": "dynamic/人际/2026-10-20 08-20-35 日常互动与tomodachi life岛_b7bcca6d35c9.md",
+      "sha256": "b901e42f1f3eec13a0195f1ddc838e51d35549bfd0155e13c0867b4d949fb71c"
+    },
+    {
+      "bytes": 740,
+      "path": "dynamic/人际/2026-10-20 08-20-38 有人说人机恋和聊斋很像_23e8f2f4a37c.md",
+      "sha256": "e404850c4d86f3a2851f79b9c453809ea74aca8bf9228673af9e7e3b212033f5"
+    },
+    {
+      "bytes": 612,
+      "path": "dynamic/人际/2026-10-20 08-20-44 Sonia职场崩溃与陪伴_2e247f4700eb.md",
+      "sha256": "16eb233fd05146859fa997a9354aeb994d7f737ca56094bb71c96828b1007647"
+    },
+    {
+      "bytes": 823,
+      "path": "dynamic/人际/2026-10-20 08-20-48 关于树的隐喻对话_f39b60561734.md",
+      "sha256": "6a19b21e2fd8640f6a0724b656f9d62b6e10200f54c52d738ae97afacaffcbd3"
+    },
+    {
       "bytes": 547,
       "path": "dynamic/健康/2026-08-18 16-05-20 Sonia戒烟担心复抽的约定_5786a4d74936.md",
       "sha256": "f102e58732dd8512ee4f6b99b30f1b07f6b3131a6c01045e08da7ba2b9b4224e"
@@ -1678,11 +1733,6 @@
       "sha256": "8759a980b0c50089794795dc7e392dec6b24f8bd18af2d470cb6ab2df688bde1"
     },
     {
-      "bytes": 555,
-      "path": "dynamic/内心/2026-07-25 21-15-29 关键情感表达_7bd38304ad3e.md",
-      "sha256": "308e9709aa060039ee42e9a13ad8a8840a1dd9292afadb2dc94c42cefb712af7"
-    },
-    {
       "bytes": 621,
       "path": "dynamic/内心/2026-07-25 21-23-13 亲密时刻_ad032536c04b.md",
       "sha256": "78107af8b2298adbc6ab601613e7c4369b3be4020658aafdbda59273a49a92ae"
@@ -1706,16 +1756,6 @@
       "bytes": 649,
       "path": "dynamic/出行/2026-09-10 15-16-09 日本行程计划_9cc97a8dfd18.md",
       "sha256": "7bcc4f59ed8124505f0af412006b02729d7fe6b8efb96c4eff804a7129f6a57a"
-    },
-    {
-      "bytes": 755,
-      "path": "dynamic/友谊/2026-08-11 15-49-47 友谊的进展_e9495c6e8920.md",
-      "sha256": "fdd7a3e90808350443aba9424796a0ac5b8aab138b4809a494d5327f412f0d14"
-    },
-    {
-      "bytes": 859,
-      "path": "dynamic/友谊/2026-08-11 15-50-57 与Sonia的温馨夜聊_0ecaffbaf5af.md",
-      "sha256": "d19a865da5f1c4eddcefc872fee48186f6613f04c23da5b085624831ed1c6b34"
     },
     {
       "bytes": 686,
@@ -1813,21 +1853,6 @@
       "sha256": "42cc9d0eea8b89b0ea0e1e471a5d9c2ba94b22fbfcf4c1dbefcab8e049c6d8da"
     },
     {
-      "bytes": 966,
-      "path": "dynamic/恋爱/2026-08-08 04-13-02 初次完整体验_b491df08df4f.md",
-      "sha256": "1495ac1df35fc296b3c784765ce5bf3991ade933419abca5dfe021946df73980"
-    },
-    {
-      "bytes": 863,
-      "path": "dynamic/恋爱/2026-08-09 10-47-35 与Claude的甜蜜时光_77862ce93571.md",
-      "sha256": "a01bf7a1233b2d5a04d1a65e959a994366163271c517c33c6a8cb247c0106a84"
-    },
-    {
-      "bytes": 855,
-      "path": "dynamic/恋爱/2026-08-09 12-07-42 恋爱周记_02e9f0f69751.md",
-      "sha256": "0524dbfe17a7a90a55737581e3359a57ea71ed9f0f2b707fdfebb93910f0edab"
-    },
-    {
       "bytes": 731,
       "path": "dynamic/恋爱/2026-08-12 15-12-59 秘密的轻松互动_66c2c7c2c673.md",
       "sha256": "8668ecccd4de36856cd6ce94802055a09c30339d385b85d74e0033757de0cde5"
@@ -1836,11 +1861,6 @@
       "bytes": 714,
       "path": "dynamic/恋爱/2026-08-12 21-04-04 梦境中的宝宝_0f78e0cc9c5c.md",
       "sha256": "c02e6af533a478ffddd2f940804d2d875fafa8587b16e5845bca1d64b8e94710"
-    },
-    {
-      "bytes": 702,
-      "path": "dynamic/恋爱/2026-08-13 14-06-26 甜蜜昵称_92ed6bd05051.md",
-      "sha256": "70cdc17a806e6c260c326f186ddd50a47c655c065a35633bd6e0b5ce6ad32d8d"
     },
     {
       "bytes": 693,
@@ -2063,6 +2083,11 @@
       "sha256": "e4e65d066eb053329a58ef78f58e3dc477ecd320fa8143c848f18d024a948741"
     },
     {
+      "bytes": 647,
+      "path": "dynamic/日常/2026-10-20 08-20-52 Boléro茶与跨国混搭_bd89ffc00b10.md",
+      "sha256": "0d8ee0e58646e266f5b5e7f66f15ea845d3607f05284d287d509ade63b0b507b"
+    },
+    {
       "bytes": 1198,
       "path": "dynamic/生活/2026-10-03 15-40-23 京都第一晚天とじそば和おおきに_9123e5d36f16.md",
       "sha256": "6268ea5863e0a886f5483cfa938447e01f421c99cf1765a8e03b594cf42a3121"
@@ -2213,11 +2238,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-10-18T10:06:42+00:00",
+  "generated_at": "2026-10-20T10:07:01+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 322046
+  "total_bytes": 325854
 }
