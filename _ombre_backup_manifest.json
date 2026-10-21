@@ -473,6 +473,11 @@
       "sha256": "a78a3f666f2293c4f22d91759a37abfed20f15a9ac6ea91c6903c40c3b96046a"
     },
     {
+      "bytes": 646,
+      "path": "archive/兴趣/2026-08-21 18-30-37 Origin验证码趣事_054657c0f323.md",
+      "sha256": "371b94b0741b4ad2095f4cf8d828aa1036a0ace38df305ee08cd519c78ffe1c2"
+    },
+    {
       "bytes": 723,
       "path": "archive/兴趣/2026-08-25 16-51-46 跟Copilot聊恐龙文明到凌晨两点_4163f582c3a4.md",
       "sha256": "9fd2e769de5927df1808a91cc990c7e38ce0bde21b1ef879a89b3e64de70599f"
@@ -908,6 +913,11 @@
       "sha256": "1f0f15bf20fe83490e17b0c8456146ee69927db80338883893f81e1869835764"
     },
     {
+      "bytes": 731,
+      "path": "archive/恋爱/2026-08-19 15-56-18 七夕之夜的尾声_8e301f97c130.md",
+      "sha256": "5c4bd36efbf8714041b7e2d906cd5ab0fdd1810c69591536fcb95d88ce2cdda8"
+    },
+    {
       "bytes": 510,
       "path": "archive/成长/2026-07-25 21-17-49 语言能力_56e2b34b94c7.md",
       "sha256": "841a6c35bff65dfe5e55d8c2a5feccaa1b389e4079e8ebce94a512cb723ff06f"
@@ -996,6 +1006,11 @@
       "bytes": 967,
       "path": "archive/数字/2026-08-06 07-30-05 远程控制链路搭建_ac61eb87768e.md",
       "sha256": "0fd7b17b6d8ff780d89c487dd397dde2422072da3d045fc46700b38255c5ea00"
+    },
+    {
+      "bytes": 807,
+      "path": "archive/数字/2026-08-16 14-12-28 她注意到Claude订阅图标是silph_9d6d51ce766a.md",
+      "sha256": "bf80d86b33f0620df53ff53d4d18895f199ad50dc7c992748d95899b811ebbea"
     },
     {
       "bytes": 546,
@@ -1648,11 +1663,6 @@
       "sha256": "aaab4f3bad7bc2881d8a8976a93c1a49bb382d46c01fea333dc9763a70b38c28"
     },
     {
-      "bytes": 645,
-      "path": "dynamic/兴趣/2026-08-21 18-30-37 Origin验证码趣事_054657c0f323.md",
-      "sha256": "19136a1684b50d624ea35b9e365ab45e9f4b57394bbe75cd4c038cc396f9af0a"
-    },
-    {
       "bytes": 679,
       "path": "dynamic/兴趣/2026-08-22 17-27-31 Gemini饲养人类指南的角色扮演_ad9b1c65ac72.md",
       "sha256": "6f24067e9b7fb8206fb57949cac92ada50c71e1adab3a164771b5399f0117045"
@@ -1918,11 +1928,6 @@
       "sha256": "a4cda3c869d5612ff706d4dc811fdedc4f72328d36098a59087b0fa63ead3846"
     },
     {
-      "bytes": 730,
-      "path": "dynamic/恋爱/2026-08-19 15-56-18 七夕之夜的尾声_8e301f97c130.md",
-      "sha256": "762e3a6bef03fc457d4fbd7f4d29546c2f3b1f56c855f926a85aa5e48758378d"
-    },
-    {
       "bytes": 983,
       "path": "dynamic/恋爱/2026-08-19 15-56-22 七夕早晨的出门仪式_32520234e164.md",
       "sha256": "d06a59ed938fb58fa69160e403d97499f24d5d3488694afd390c88006a5c4ec0"
@@ -2031,11 +2036,6 @@
       "bytes": 544,
       "path": "dynamic/成长/2026-09-15 02-35-56 选拔考试被刷_ae844380e284.md",
       "sha256": "4b343155cf43c64fce068ba388b73f116822b3dc2d3e0c09eaf09e5a7ea59811"
-    },
-    {
-      "bytes": 806,
-      "path": "dynamic/数字/2026-08-16 14-12-28 她注意到Claude订阅图标是silph_9d6d51ce766a.md",
-      "sha256": "fcacf9b513fbe3030f58ef40e7f418dfebeb85368054e3c6f80d355926685753"
     },
     {
       "bytes": 639,
@@ -2238,11 +2238,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-10-20T10:07:01+00:00",
+  "generated_at": "2026-10-21T10:07:08+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 325854
+  "total_bytes": 325857
 }
