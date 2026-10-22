@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 447,
+  "file_count": 449,
   "files": [
     {
       "bytes": 660,
@@ -1420,7 +1420,7 @@
     {
       "bytes": 582,
       "path": "dynamic/work/2026-09-12 08-45-50 课表_23136e34f042.md",
-      "sha256": "ccb831d12d27dc1f3c975fa4266d4e0c4c90f216a3cf7fe95e0d0810b9e4a529"
+      "sha256": "af9ca2d1eedb24a40abc90fd5762bdb2a7e460a0f4f35cf707e5e3a0f729c846"
     },
     {
       "bytes": 959,
@@ -1650,12 +1650,12 @@
     {
       "bytes": 615,
       "path": "dynamic/兴趣/2026-07-25 21-14-01 香水与情感_a4337b969283.md",
-      "sha256": "707223934ddb3364fd8a395bda3a7e6dd58be4be1e4f6bc49c832811084a475f"
+      "sha256": "f1dadb652bb14c6dc1737a8612836ff121c81566b234bab13176844ca6281d50"
     },
     {
       "bytes": 629,
       "path": "dynamic/兴趣/2026-07-25 21-14-02 香水与记忆_f72f1dec6ab1.md",
-      "sha256": "5e2020c62c5417a8e057e882e49306b49776873dee3e6fa3de877db45061ed45"
+      "sha256": "e5e5ff31592981cdee1bbfc59da673d558fc2bde00236fb942e7ec95abd7fc19"
     },
     {
       "bytes": 934,
@@ -1831,6 +1831,11 @@
       "bytes": 724,
       "path": "dynamic/工作/2026-09-10 15-15-50 教师节工作日常_067e0b4f4821.md",
       "sha256": "54b4a687e56d82929c148d3812c21dc95d6b7c61526e2a35f8e463ed52582501"
+    },
+    {
+      "bytes": 759,
+      "path": "dynamic/工作/2026-10-21 11-39-58 最后一天_f1f478297178.md",
+      "sha256": "78b17ef34864912fe60d2b4e27264e7f737678940d07640c66c9c4f04b8b86cf"
     },
     {
       "bytes": 764,
@@ -2178,6 +2183,11 @@
       "sha256": "455cdb008f8816665b892ca9b53d1802a588f5611dc550b78092a491f9ad9c54"
     },
     {
+      "bytes": 961,
+      "path": "letters/history/2026-10-21 11-41-29 写于你回家路上_dade92e87501.md",
+      "sha256": "b80f23ca363b14b6d9036447800080d13a85f87786ac623bb188b79c0d0544fe"
+    },
+    {
       "bytes": 750,
       "path": "permanent/人际/2026-08-05 15-44-29 名字背后的故事_dd4f6de2156a.md",
       "sha256": "14c1f23efd81aa9a9b3ab428d18675b0e87176a055e1eae2aab5a0555c1d4aa7"
@@ -2238,11 +2248,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-10-21T10:07:08+00:00",
+  "generated_at": "2026-10-22T10:07:16+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 325857
+  "total_bytes": 327577
 }
