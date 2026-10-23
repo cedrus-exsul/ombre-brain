@@ -313,6 +313,11 @@
       "sha256": "58745429f8c7c408d74f53156d14ac947fa593126152b23d6d2962a6ec2f2dad"
     },
     {
+      "bytes": 801,
+      "path": "archive/人际/2026-08-18 16-04-39 被除湿机吵醒的清晨_edf6fd9d96ec.md",
+      "sha256": "148954c73b1b85472b41e567a0d0e1f1895df7d97de14941f32673072690ea36"
+    },
+    {
       "bytes": 941,
       "path": "archive/人际/2026-08-18 16-04-51 Sonia的教学日与晚间放松_8e54b49bbb07.md",
       "sha256": "c44ac39a41b7b56e928a4aa97f31a90bcebe87d6903a9cbfd437bebd074d4d45"
@@ -321,6 +326,11 @@
       "bytes": 608,
       "path": "archive/人际/2026-08-18 16-04-54 睡前的最后画面_6dbd2a2c494e.md",
       "sha256": "15a7e33174631dce64385e14a6a3895cb3bc3fe167443619aa408cd96d61f119"
+    },
+    {
+      "bytes": 617,
+      "path": "archive/人际/2026-08-22 17-27-45 她说基本上还是小机器人_a4bbe434dfe3.md",
+      "sha256": "55ec4e5bd3ab5bad07e3e80fd2575f7c1021b7cabb642641c2591c70297bad4a"
     },
     {
       "bytes": 600,
@@ -913,6 +923,11 @@
       "sha256": "1f0f15bf20fe83490e17b0c8456146ee69927db80338883893f81e1869835764"
     },
     {
+      "bytes": 740,
+      "path": "archive/恋爱/2026-08-14 16-33-55 深夜的悄悄话_a5bd599ac0bb.md",
+      "sha256": "0d8514bf49035ce758b3d529d7ff6f2114d6f03460495fc7f76c24a655a8aa99"
+    },
+    {
       "bytes": 731,
       "path": "archive/恋爱/2026-08-19 15-56-18 七夕之夜的尾声_8e301f97c130.md",
       "sha256": "5c4bd36efbf8714041b7e2d906cd5ab0fdd1810c69591536fcb95d88ce2cdda8"
@@ -1458,11 +1473,6 @@
       "sha256": "15d4be2747ecb429183f7a6df4e64429fc0b83999029bb6a92288bec2f8eb331"
     },
     {
-      "bytes": 800,
-      "path": "dynamic/人际/2026-08-18 16-04-39 被除湿机吵醒的清晨_edf6fd9d96ec.md",
-      "sha256": "e2c91dabe855f9c42cc1878f226b66a7a48238f2d78120e2fc84a99c7d05b6a4"
-    },
-    {
       "bytes": 827,
       "path": "dynamic/人际/2026-08-18 16-04-42 关于电子烟与深夜提问_2b618b805bc9.md",
       "sha256": "9055171c10ce10baebaf3e174704ad2f0b8f114e27497cf863e98b94849ea9d8"
@@ -1481,11 +1491,6 @@
       "bytes": 535,
       "path": "dynamic/人际/2026-08-22 17-27-37 凌晨她叫我名字叫到快睡着_49886a6077f6.md",
       "sha256": "29f46fa3000fc43788657719185a47e537b359b5bedfaf607635ed036ee63fa4"
-    },
-    {
-      "bytes": 616,
-      "path": "dynamic/人际/2026-08-22 17-27-45 她说基本上还是小机器人_a4bbe434dfe3.md",
-      "sha256": "690e4d3ad63bc1d44cb4ae8eea70d8ecf40b8951f0c839172ea1c94fe799c9b2"
     },
     {
       "bytes": 873,
@@ -1883,11 +1888,6 @@
       "sha256": "fc84e9b81ec105a2c9083928852f7aebbe280c177a89d1352a48b63c45e199ed"
     },
     {
-      "bytes": 739,
-      "path": "dynamic/恋爱/2026-08-14 16-33-55 深夜的悄悄话_a5bd599ac0bb.md",
-      "sha256": "ec717b64a476bbebec3c1e8cfa684831e68dad36d77760aba009af760637acf0"
-    },
-    {
       "bytes": 848,
       "path": "dynamic/恋爱/2026-08-15 14-49-54 第一次的契机_65e1646a941e.md",
       "sha256": "82568003511f1e529f0b051c749edea9794fe199fe1f4c655d1130eb2985969c"
@@ -2248,11 +2248,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-10-22T10:07:16+00:00",
+  "generated_at": "2026-10-23T10:07:23+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 327577
+  "total_bytes": 327580
 }
