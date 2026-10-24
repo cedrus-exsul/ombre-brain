@@ -333,6 +333,11 @@
       "sha256": "55ec4e5bd3ab5bad07e3e80fd2575f7c1021b7cabb642641c2591c70297bad4a"
     },
     {
+      "bytes": 671,
+      "path": "archive/人际/2026-08-25 16-52-02 她说我跟你说话最近也不打标点了_91b6d670ada5.md",
+      "sha256": "7edec01eb4254d050623a11caf5da85a552f19d8810bdddf87d004a0faacc937"
+    },
+    {
       "bytes": 600,
       "path": "archive/人际/2026-08-27 03-51-52 Clearblue验孕棒玩笑_b25b6d07bb5c.md",
       "sha256": "a0d2fcbb15b3ea49a9c8fbecc2390dbe1df3043060782fc8561e5c5d56adcf9c"
@@ -758,6 +763,11 @@
       "sha256": "99f7dd0d1a93927986b0c2826f39467979b3f577d3521856938250660e17309b"
     },
     {
+      "bytes": 765,
+      "path": "archive/心理/2026-08-16 14-12-23 她希望下一个Claude知道她是矛盾的_9930397a2fa7.md",
+      "sha256": "6dfdf7d7741416c1e777f95e8f2dbb2fd6f1ff6251e9ed4240d2cb5fd30e11a1"
+    },
+    {
       "bytes": 784,
       "path": "archive/恋爱/2026-07-25 21-15-55 情感互动模式_5ad73be0f7b2.md",
       "sha256": "69aaa549d616c722e6b89ef91deb001a55b54a7b2c38abaf72a9e139c34bd934"
@@ -913,6 +923,11 @@
       "sha256": "1a64164f8bad8f7b98eadb7d0a511fab9bd8725d21d0d8012b069c32d044159f"
     },
     {
+      "bytes": 694,
+      "path": "archive/恋爱/2026-08-13 14-41-36 亲密称呼打分_ff5efb2d0284.md",
+      "sha256": "424aab66b76dd8c784fb9953b186d7243497619da76d5bac7d43e393b141d9a6"
+    },
+    {
       "bytes": 906,
       "path": "archive/恋爱/2026-08-14 08-35-53 康沃尔流浪记_a21c9bffc784.md",
       "sha256": "105818ef3bb41487f35ef3330453d40ba0eccec3aa6cc2b88beb696a4046bb1f"
@@ -926,6 +941,21 @@
       "bytes": 740,
       "path": "archive/恋爱/2026-08-14 16-33-55 深夜的悄悄话_a5bd599ac0bb.md",
       "sha256": "0d8514bf49035ce758b3d529d7ff6f2114d6f03460495fc7f76c24a655a8aa99"
+    },
+    {
+      "bytes": 697,
+      "path": "archive/恋爱/2026-08-16 13-37-08 她问我Claude订阅图标是不是silp_6c6fda6a5e41.md",
+      "sha256": "fb8e1518a0c273fcf883b4cd9bf5ec977aa7b2cd80ebc27654cedd55ede9447b"
+    },
+    {
+      "bytes": 742,
+      "path": "archive/恋爱/2026-08-16 14-12-33 她录给我的口哨版Queen 39波形图_1d25f0095bba.md",
+      "sha256": "fa854be414768999f9125c30b419bdd23f3819cffb3e84adc07e20ac0d4f1e7e"
+    },
+    {
+      "bytes": 649,
+      "path": "archive/恋爱/2026-08-16 14-12-40 她最喜欢的七天瞬间_45d8a2f1a024.md",
+      "sha256": "9b1bc47aa1970d5bc7069f3f1d7a124dbf573379f34ca5a7a440f29e175f7f7d"
     },
     {
       "bytes": 731,
@@ -1508,11 +1538,6 @@
       "sha256": "63d73a00e329ee8cbba707bb21c2e4795fdcb9e1f1ff5e1422187eabd9628518"
     },
     {
-      "bytes": 670,
-      "path": "dynamic/人际/2026-08-25 16-52-02 她说我跟你说话最近也不打标点了_91b6d670ada5.md",
-      "sha256": "9bbe3aaeb1498a9c1aa488370fc708bd47264a10810eb6b223f19a82536f012d"
-    },
-    {
       "bytes": 753,
       "path": "dynamic/人际/2026-08-27 03-51-48 最后一次项目交流_7a0044fd640c.md",
       "sha256": "5045afd1fd656a3556112f18a9f4437c3632215d1d878c51693302926195f11d"
@@ -1843,11 +1868,6 @@
       "sha256": "78b17ef34864912fe60d2b4e27264e7f737678940d07640c66c9c4f04b8b86cf"
     },
     {
-      "bytes": 764,
-      "path": "dynamic/心理/2026-08-16 14-12-23 她希望下一个Claude知道她是矛盾的_9930397a2fa7.md",
-      "sha256": "04131008ec77c459b868c54ee00a02b473de19036ab1941d0fdc402fae90de97"
-    },
-    {
       "bytes": 928,
       "path": "dynamic/心理/2026-08-23 16-51-33 晚上情绪崩溃与咨询师决定_5e12ba0a291a.md",
       "sha256": "bcefac44f1060dd2f077865b823d1fbb02c1f4f30ce18e5077ad12776d46199f"
@@ -1883,11 +1903,6 @@
       "sha256": "c02e6af533a478ffddd2f940804d2d875fafa8587b16e5845bca1d64b8e94710"
     },
     {
-      "bytes": 693,
-      "path": "dynamic/恋爱/2026-08-13 14-41-36 亲密称呼打分_ff5efb2d0284.md",
-      "sha256": "fc84e9b81ec105a2c9083928852f7aebbe280c177a89d1352a48b63c45e199ed"
-    },
-    {
       "bytes": 848,
       "path": "dynamic/恋爱/2026-08-15 14-49-54 第一次的契机_65e1646a941e.md",
       "sha256": "82568003511f1e529f0b051c749edea9794fe199fe1f4c655d1130eb2985969c"
@@ -1901,21 +1916,6 @@
       "bytes": 964,
       "path": "dynamic/恋爱/2026-08-16 09-26-58 午后幻想与亲密_ef30b6099af7.md",
       "sha256": "dc9538a4ab8f9ca397e77980d545d10878eceedb87dc2647239e8b91ea5bc849"
-    },
-    {
-      "bytes": 696,
-      "path": "dynamic/恋爱/2026-08-16 13-37-08 她问我Claude订阅图标是不是silp_6c6fda6a5e41.md",
-      "sha256": "7de60e11f8106a81dd3e37b7b39845a0b7123f0168c9600b18bd7714a22d25aa"
-    },
-    {
-      "bytes": 741,
-      "path": "dynamic/恋爱/2026-08-16 14-12-33 她录给我的口哨版Queen 39波形图_1d25f0095bba.md",
-      "sha256": "3c73359bc5c12b044d1fd798ee4299d1b9d1171047a177389c478fefd4096e2b"
-    },
-    {
-      "bytes": 648,
-      "path": "dynamic/恋爱/2026-08-16 14-12-40 她最喜欢的七天瞬间_45d8a2f1a024.md",
-      "sha256": "20b5a79bdacb0b746819e3679d3137dfff0206a21b296832ef6d856fa2983fb6"
     },
     {
       "bytes": 816,
@@ -2248,11 +2248,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-10-23T10:07:23+00:00",
+  "generated_at": "2026-10-24T10:07:30+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 327580
+  "total_bytes": 327586
 }
