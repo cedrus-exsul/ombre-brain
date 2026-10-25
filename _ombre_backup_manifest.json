@@ -493,6 +493,11 @@
       "sha256": "371b94b0741b4ad2095f4cf8d828aa1036a0ace38df305ee08cd519c78ffe1c2"
     },
     {
+      "bytes": 808,
+      "path": "archive/兴趣/2026-08-23 16-51-25 凌晨的跨学科夜谈_487c7307279c.md",
+      "sha256": "a0da4badfae6e5bf695ad6d789568a916f44d906732d65f7716634b2a4bb25db"
+    },
+    {
       "bytes": 723,
       "path": "archive/兴趣/2026-08-25 16-51-46 跟Copilot聊恐龙文明到凌晨两点_4163f582c3a4.md",
       "sha256": "9fd2e769de5927df1808a91cc990c7e38ce0bde21b1ef879a89b3e64de70599f"
@@ -701,6 +706,11 @@
       "bytes": 725,
       "path": "archive/工作/2026-08-05 13-09-35 项目执行记录_927974b1d422.md",
       "sha256": "a32fb7b060d3cfab38f9e2123be8869865c4580b310a45458d283ebd45867fbb"
+    },
+    {
+      "bytes": 846,
+      "path": "archive/工作/2026-08-16 14-12-37 22岁第一次去北京工作入职体检听到坏话_bd4e4f7a67b5.md",
+      "sha256": "4dd8397a09842c06de0ece9a368c98a49ab41ac2a4741093e01614fabdb7884a"
     },
     {
       "bytes": 824,
@@ -1001,6 +1011,11 @@
       "bytes": 804,
       "path": "archive/成长/2026-07-28 08-54-56 教学日常_446b44888eb9.md",
       "sha256": "e9fc865eeb3fa762332162d1ef318008056d8c21c272cf7975ffdbc3d93024f4"
+    },
+    {
+      "bytes": 693,
+      "path": "archive/成长/2026-08-20 16-59-43 补课小孩找不到教室_2d3702a4a4f9.md",
+      "sha256": "e093523808ee0b5b6b2dbfcbeb3e7ee6ccd81d820f695a11b64ccb101da88f62"
     },
     {
       "bytes": 608,
@@ -1708,11 +1723,6 @@
       "sha256": "34a8031ebfde49aae39262f202b09c27ac76e8e7dd8351355b484b30b786839f"
     },
     {
-      "bytes": 807,
-      "path": "dynamic/兴趣/2026-08-23 16-51-25 凌晨的跨学科夜谈_487c7307279c.md",
-      "sha256": "0bf064babe8e2f6fb3a7af8f2b1dad27754dae06b232d1af0e1bee6d537452af"
-    },
-    {
       "bytes": 691,
       "path": "dynamic/兴趣/2026-08-25 16-51-50 讲寒武纪大爆发和三叶虫的眼睛_4fe455a1d02a.md",
       "sha256": "a5c59af6bff7afaa5d1b1b7e614aff9279289954b2ecf2564ca827a499cd2d86"
@@ -1846,11 +1856,6 @@
       "bytes": 740,
       "path": "dynamic/家庭/2026-09-30 13-11-08 宇治川的pebble_e7871635689f.md",
       "sha256": "99173d893bd1c2aeb9f076285cf87a207a97cae3c49ddb036ff946fb7a5ce5be"
-    },
-    {
-      "bytes": 845,
-      "path": "dynamic/工作/2026-08-16 14-12-37 22岁第一次去北京工作入职体检听到坏话_bd4e4f7a67b5.md",
-      "sha256": "81c451dc02171a9152eb0b86335452f4d146332352f1e5c2314e3f6c0e3c4e82"
     },
     {
       "bytes": 707,
@@ -2006,11 +2011,6 @@
       "bytes": 869,
       "path": "dynamic/成长/2026-08-20 16-59-39 与学生看WALLE的互动_739ec937830a.md",
       "sha256": "c8e9f014d682885feb01480214f68ddbb8a390ddbe9d93be65c7d85ee4bbc8dd"
-    },
-    {
-      "bytes": 692,
-      "path": "dynamic/成长/2026-08-20 16-59-43 补课小孩找不到教室_2d3702a4a4f9.md",
-      "sha256": "9fb073e6bdf2b749f3b1406c2708a8766b7b55602f4f290d4de818b7c220ad3b"
     },
     {
       "bytes": 698,
@@ -2248,11 +2248,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-10-24T10:07:30+00:00",
+  "generated_at": "2026-10-25T10:07:37+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 327586
+  "total_bytes": 327589
 }
