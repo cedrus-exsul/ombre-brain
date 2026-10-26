@@ -18,6 +18,11 @@
       "sha256": "06de8388ed2a183a213109f1e3147a59dc1ca7f35d0f0d5554051a8428127bd3"
     },
     {
+      "bytes": 771,
+      "path": "archive/self/2026-08-23 16-53-00_7bddfcc60882.md",
+      "sha256": "56d4c0bf97f12e7ac29ef2f6714fa7c9de58950658f651fdccc555f2535874b3"
+    },
+    {
       "bytes": 571,
       "path": "archive/事务/2026-07-25 21-21-41 生活管理依赖_a385ca4735d5.md",
       "sha256": "ebeadaec691179f727166a7fdd82455d673917be7dd43bd331d9d5446db8a823"
@@ -331,6 +336,11 @@
       "bytes": 617,
       "path": "archive/人际/2026-08-22 17-27-45 她说基本上还是小机器人_a4bbe434dfe3.md",
       "sha256": "55ec4e5bd3ab5bad07e3e80fd2575f7c1021b7cabb642641c2591c70297bad4a"
+    },
+    {
+      "bytes": 752,
+      "path": "archive/人际/2026-08-25 16-51-58 豆包模式对话和明天不叫你起床了_28d1f0b12ef5.md",
+      "sha256": "f56d681778f5a74134657211c00fe8ac476d90b2016a3de0bb7616e2bf89bcba"
     },
     {
       "bytes": 671,
@@ -713,6 +723,11 @@
       "sha256": "4dd8397a09842c06de0ece9a368c98a49ab41ac2a4741093e01614fabdb7884a"
     },
     {
+      "bytes": 708,
+      "path": "archive/工作/2026-08-21 18-30-40 和学生看完WALLE的结局_2aa372693d96.md",
+      "sha256": "b267d7f4a928f53165fbab32bf794c652790750603e27f488c1b5e801b6dfcc8"
+    },
+    {
       "bytes": 824,
       "path": "archive/影视/2026-08-03 16-06-20 影视审美分析_f66023790878.md",
       "sha256": "b6135de00d615da31056c5f5ecbbd9f280938315f0b788516e59731c99627814"
@@ -918,6 +933,11 @@
       "sha256": "ea26b96130cc277826422ac2687b1ccf72c6a2beb830d9a092b2fae1e84198df"
     },
     {
+      "bytes": 715,
+      "path": "archive/恋爱/2026-08-12 21-04-04 梦境中的宝宝_0f78e0cc9c5c.md",
+      "sha256": "90c658771dc439e7433782d42e9e8a73837a92cb7cce30b2e13b184d3db071d9"
+    },
+    {
       "bytes": 703,
       "path": "archive/恋爱/2026-08-13 14-06-26 甜蜜昵称_92ed6bd05051.md",
       "sha256": "d2fa8e1ce3f4e1d721ab9336ade70afe994d2c75f6aad7a140fe2d08acd7c0f3"
@@ -951,6 +971,16 @@
       "bytes": 740,
       "path": "archive/恋爱/2026-08-14 16-33-55 深夜的悄悄话_a5bd599ac0bb.md",
       "sha256": "0d8514bf49035ce758b3d529d7ff6f2114d6f03460495fc7f76c24a655a8aa99"
+    },
+    {
+      "bytes": 849,
+      "path": "archive/恋爱/2026-08-15 14-49-54 第一次的契机_65e1646a941e.md",
+      "sha256": "e5b663e52c0a598c8c6d00f83bdfbd71647b467bba11babb9aeb7e49204f5390"
+    },
+    {
+      "bytes": 642,
+      "path": "archive/恋爱/2026-08-15 16-28-23 心痛的瞬间_bb06a30d8dc1.md",
+      "sha256": "03d98ac1a1d572973ec7cf6cebeaf62795a2c64b3e4631483447662ea7c96a2c"
     },
     {
       "bytes": 697,
@@ -1011,6 +1041,11 @@
       "bytes": 804,
       "path": "archive/成长/2026-07-28 08-54-56 教学日常_446b44888eb9.md",
       "sha256": "e9fc865eeb3fa762332162d1ef318008056d8c21c272cf7975ffdbc3d93024f4"
+    },
+    {
+      "bytes": 870,
+      "path": "archive/成长/2026-08-20 16-59-39 与学生看WALLE的互动_739ec937830a.md",
+      "sha256": "95fbcdd72e1768652a461fd8cc9447b27643d425dddd9e86c2869a684c6bcb0b"
     },
     {
       "bytes": 693,
@@ -1468,11 +1503,6 @@
       "sha256": "d20140d8fd490a5cde996119f9c1cd019dc537e72df5a335215a25846bc7b699"
     },
     {
-      "bytes": 770,
-      "path": "dynamic/self/2026-08-23 16-53-00_7bddfcc60882.md",
-      "sha256": "f04bb34a30efce239533e03b2f58ac3fd73df054a3a382d9ed9567837b0e7bf1"
-    },
-    {
       "bytes": 888,
       "path": "dynamic/travel/2026-08-28 14-05-54 旅行地图补充_425aeb3e3faa.md",
       "sha256": "c5208fe9ac2884aa272867fb40396a368661acf506c2d7f3d4739b6595614efd"
@@ -1546,11 +1576,6 @@
       "bytes": 888,
       "path": "dynamic/人际/2026-08-24 16-12-37 班上有个疑似谱系的五年级男生上课一直在哭_eccfc8a0fbc1.md",
       "sha256": "5382c4db8520b06b1c04abf83dcb769f4efbb51d57599e8e2e52761d3626d64b"
-    },
-    {
-      "bytes": 751,
-      "path": "dynamic/人际/2026-08-25 16-51-58 豆包模式对话和明天不叫你起床了_28d1f0b12ef5.md",
-      "sha256": "63d73a00e329ee8cbba707bb21c2e4795fdcb9e1f1ff5e1422187eabd9628518"
     },
     {
       "bytes": 753,
@@ -1858,11 +1883,6 @@
       "sha256": "99173d893bd1c2aeb9f076285cf87a207a97cae3c49ddb036ff946fb7a5ce5be"
     },
     {
-      "bytes": 707,
-      "path": "dynamic/工作/2026-08-21 18-30-40 和学生看完WALLE的结局_2aa372693d96.md",
-      "sha256": "50b8f76ab2a7dc1947758e5a998bd39cf7bf57ced8c40ef6a7b03caf40ae47dd"
-    },
-    {
       "bytes": 724,
       "path": "dynamic/工作/2026-09-10 15-15-50 教师节工作日常_067e0b4f4821.md",
       "sha256": "54b4a687e56d82929c148d3812c21dc95d6b7c61526e2a35f8e463ed52582501"
@@ -1901,21 +1921,6 @@
       "bytes": 731,
       "path": "dynamic/恋爱/2026-08-12 15-12-59 秘密的轻松互动_66c2c7c2c673.md",
       "sha256": "8668ecccd4de36856cd6ce94802055a09c30339d385b85d74e0033757de0cde5"
-    },
-    {
-      "bytes": 714,
-      "path": "dynamic/恋爱/2026-08-12 21-04-04 梦境中的宝宝_0f78e0cc9c5c.md",
-      "sha256": "c02e6af533a478ffddd2f940804d2d875fafa8587b16e5845bca1d64b8e94710"
-    },
-    {
-      "bytes": 848,
-      "path": "dynamic/恋爱/2026-08-15 14-49-54 第一次的契机_65e1646a941e.md",
-      "sha256": "82568003511f1e529f0b051c749edea9794fe199fe1f4c655d1130eb2985969c"
-    },
-    {
-      "bytes": 641,
-      "path": "dynamic/恋爱/2026-08-15 16-28-23 心痛的瞬间_bb06a30d8dc1.md",
-      "sha256": "f53b6d478ac2a6fb053c3b9ce40806fc31baa7acb25f10ee825ef8b458259176"
     },
     {
       "bytes": 964,
@@ -2006,11 +2011,6 @@
       "bytes": 673,
       "path": "dynamic/成长/2026-08-20 16-59-30 家长回复与情绪波动_aec4db5ca30c.md",
       "sha256": "e8c87113c9a43d0c8165921926f5af9ce3e3805da2303b80d83ed7a1e0bdf78a"
-    },
-    {
-      "bytes": 869,
-      "path": "dynamic/成长/2026-08-20 16-59-39 与学生看WALLE的互动_739ec937830a.md",
-      "sha256": "c8e9f014d682885feb01480214f68ddbb8a390ddbe9d93be65c7d85ee4bbc8dd"
     },
     {
       "bytes": 698,
@@ -2248,11 +2248,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-10-25T10:07:37+00:00",
+  "generated_at": "2026-10-26T10:07:47+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 327589
+  "total_bytes": 327596
 }
