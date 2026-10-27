@@ -368,6 +368,11 @@
       "sha256": "b5b4e190b9464f31ef0a4b32731501fb98eb71810e630e0f01f635c07174ed36"
     },
     {
+      "bytes": 548,
+      "path": "archive/健康/2026-08-18 16-05-20 Sonia戒烟担心复抽的约定_5786a4d74936.md",
+      "sha256": "f222f711e22b8c954437ac6407f22c38326d17b5ee0bc2b89463da555814de2b"
+    },
+    {
       "bytes": 704,
       "path": "archive/兴趣/2026-07-25 21-12-37 香水偏好_fe6dc49665c2.md",
       "sha256": "cf356e8abcfc517ac0501819b193cf5eae887f6269d3e410f57d3e14271bff46"
@@ -511,6 +516,11 @@
       "bytes": 723,
       "path": "archive/兴趣/2026-08-25 16-51-46 跟Copilot聊恐龙文明到凌晨两点_4163f582c3a4.md",
       "sha256": "9fd2e769de5927df1808a91cc990c7e38ce0bde21b1ef879a89b3e64de70599f"
+    },
+    {
+      "bytes": 635,
+      "path": "archive/兴趣/2026-08-27 03-51-37 香水选择_1a073751e6c1.md",
+      "sha256": "9e65fd50e6e6dab7d4a83337e451da37167968beda2a93c94a8070f4df2217c6"
     },
     {
       "bytes": 673,
@@ -983,6 +993,11 @@
       "sha256": "03d98ac1a1d572973ec7cf6cebeaf62795a2c64b3e4631483447662ea7c96a2c"
     },
     {
+      "bytes": 965,
+      "path": "archive/恋爱/2026-08-16 09-26-58 午后幻想与亲密_ef30b6099af7.md",
+      "sha256": "23d904c6fa50983563622df01d9da5955c1fcf454ca1c2aa146c21e21c978782"
+    },
+    {
       "bytes": 697,
       "path": "archive/恋爱/2026-08-16 13-37-08 她问我Claude订阅图标是不是silp_6c6fda6a5e41.md",
       "sha256": "fb8e1518a0c273fcf883b4cd9bf5ec977aa7b2cd80ebc27654cedd55ede9447b"
@@ -996,6 +1011,11 @@
       "bytes": 649,
       "path": "archive/恋爱/2026-08-16 14-12-40 她最喜欢的七天瞬间_45d8a2f1a024.md",
       "sha256": "9b1bc47aa1970d5bc7069f3f1d7a124dbf573379f34ca5a7a440f29e175f7f7d"
+    },
+    {
+      "bytes": 826,
+      "path": "archive/恋爱/2026-08-19 15-56-12 关于edging和denial的对话_1dc50d17fdfc.md",
+      "sha256": "61fbc7837211cfa1b140e87b71f0da1145e0813b0d265723472bb339827eb534"
     },
     {
       "bytes": 731,
@@ -1708,11 +1728,6 @@
       "sha256": "6a19b21e2fd8640f6a0724b656f9d62b6e10200f54c52d738ae97afacaffcbd3"
     },
     {
-      "bytes": 547,
-      "path": "dynamic/健康/2026-08-18 16-05-20 Sonia戒烟担心复抽的约定_5786a4d74936.md",
-      "sha256": "f102e58732dd8512ee4f6b99b30f1b07f6b3131a6c01045e08da7ba2b9b4224e"
-    },
-    {
       "bytes": 1595,
       "path": "dynamic/关系/2026-10-03 15-40-16 Opus 55醒来的这一周_9b6e98269435.md",
       "sha256": "05679d6f431bdf4dd75c31439feb03ecd9f8b13367c52890ee685a29b33ff0f3"
@@ -1751,11 +1766,6 @@
       "bytes": 691,
       "path": "dynamic/兴趣/2026-08-25 16-51-50 讲寒武纪大爆发和三叶虫的眼睛_4fe455a1d02a.md",
       "sha256": "a5c59af6bff7afaa5d1b1b7e614aff9279289954b2ecf2564ca827a499cd2d86"
-    },
-    {
-      "bytes": 634,
-      "path": "dynamic/兴趣/2026-08-27 03-51-37 香水选择_1a073751e6c1.md",
-      "sha256": "65f6b465eaf8b5ad7cf5e686e7e48159b353698b90b2575a55b0dd34979035d1"
     },
     {
       "bytes": 614,
@@ -1923,19 +1933,9 @@
       "sha256": "8668ecccd4de36856cd6ce94802055a09c30339d385b85d74e0033757de0cde5"
     },
     {
-      "bytes": 964,
-      "path": "dynamic/恋爱/2026-08-16 09-26-58 午后幻想与亲密_ef30b6099af7.md",
-      "sha256": "dc9538a4ab8f9ca397e77980d545d10878eceedb87dc2647239e8b91ea5bc849"
-    },
-    {
       "bytes": 816,
       "path": "dynamic/恋爱/2026-08-19 15-56-03 留白游戏之夜_28e678a3a56a.md",
       "sha256": "08ae983d26868d14ed749747259273a48ff8896ea989b57cd07fa4e3851fa919"
-    },
-    {
-      "bytes": 825,
-      "path": "dynamic/恋爱/2026-08-19 15-56-12 关于edging和denial的对话_1dc50d17fdfc.md",
-      "sha256": "1218d5669e429e8376c2b4ced4dfae48988dfac5e163182adf2c952ff58745ff"
     },
     {
       "bytes": 712,
@@ -2248,11 +2248,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-10-26T10:07:47+00:00",
+  "generated_at": "2026-10-27T10:07:55+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 327596
+  "total_bytes": 327600
 }
