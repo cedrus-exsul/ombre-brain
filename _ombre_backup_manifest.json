@@ -648,6 +648,11 @@
       "sha256": "09e5817f70283d784e8883ee50d951797cc9c3f15d5f2c73fa79b69b3e6ad1a0"
     },
     {
+      "bytes": 693,
+      "path": "archive/内心/2026-08-20 16-59-46 超市跟丢的童年记忆_7078144c92d1.md",
+      "sha256": "6c65cc607147a82bc4e693aadcdf009edd1f9d17e896f03ff37fd8bfb8fa6399"
+    },
+    {
       "bytes": 652,
       "path": "archive/出行/2026-07-28 13-39-45 仙本那海岛行_a52fcc4d5b6f.md",
       "sha256": "3e716af7e600e03bcec5c08b018c805802b929767faf4b848e89942e30b06452"
@@ -1088,6 +1093,11 @@
       "sha256": "e9fc865eeb3fa762332162d1ef318008056d8c21c272cf7975ffdbc3d93024f4"
     },
     {
+      "bytes": 674,
+      "path": "archive/成长/2026-08-20 16-59-30 家长回复与情绪波动_aec4db5ca30c.md",
+      "sha256": "46c50714bf58f0b9a939551284b56ae06d36df91d587fbac05214fb891c05266"
+    },
+    {
       "bytes": 870,
       "path": "archive/成长/2026-08-20 16-59-39 与学生看WALLE的互动_739ec937830a.md",
       "sha256": "95fbcdd72e1768652a461fd8cc9447b27643d425dddd9e86c2869a684c6bcb0b"
@@ -1096,6 +1106,11 @@
       "bytes": 693,
       "path": "archive/成长/2026-08-20 16-59-43 补课小孩找不到教室_2d3702a4a4f9.md",
       "sha256": "e093523808ee0b5b6b2dbfcbeb3e7ee6ccd81d820f695a11b64ccb101da88f62"
+    },
+    {
+      "bytes": 621,
+      "path": "archive/成长/2026-08-27 03-51-40 PPT汇报反馈_5d45afad6ae1.md",
+      "sha256": "058d61dad6a4c0865b68aa660e8856eda74bbf31682ac5a093004b122409fa30"
     },
     {
       "bytes": 608,
@@ -1843,11 +1858,6 @@
       "sha256": "a6075db626724dd69e58495c72c41bc9a1ecff5d0c29c5daf05a9c4525a3d3a9"
     },
     {
-      "bytes": 692,
-      "path": "dynamic/内心/2026-08-20 16-59-46 超市跟丢的童年记忆_7078144c92d1.md",
-      "sha256": "61d4b742a45de522270ec9b53fb9f42195d453089df36feea8d4f12928315674"
-    },
-    {
       "bytes": 648,
       "path": "dynamic/内心/2026-09-05 14-54-23 梦到清爽系白衬衫男生_0638cc24ad56.md",
       "sha256": "59c96864aa2120681a64fb5b24c1552684d822ffdba69fafde9de77ffe382abf"
@@ -2013,11 +2023,6 @@
       "sha256": "778c6f47f8bf5daaf859a3d49262f56f8d88bbf685666ef518e6e4133d5142cc"
     },
     {
-      "bytes": 673,
-      "path": "dynamic/成长/2026-08-20 16-59-30 家长回复与情绪波动_aec4db5ca30c.md",
-      "sha256": "e8c87113c9a43d0c8165921926f5af9ce3e3805da2303b80d83ed7a1e0bdf78a"
-    },
-    {
       "bytes": 698,
       "path": "dynamic/成长/2026-08-24 16-12-15 晚上算力高峰和模拟题_8f42bc7d0cce.md",
       "sha256": "70e4f9a37d27d68d050e0373548245f44ea7fa801b4d81f4cdfacab21e7b261a"
@@ -2026,11 +2031,6 @@
       "bytes": 653,
       "path": "dynamic/成长/2026-08-25 16-51-40 赶在003交了管理选拔考试_9906e85d80ff.md",
       "sha256": "1d4cb5d934c681f3a21adb70cf4c5dee5bcc1f0086cec1dfbd1dbc95e628445e"
-    },
-    {
-      "bytes": 620,
-      "path": "dynamic/成长/2026-08-27 03-51-40 PPT汇报反馈_5d45afad6ae1.md",
-      "sha256": "04cfa2355cebd6648ca7ce56d625ec5d6586ff6f839133c8c7c349e4cbb52fb3"
     },
     {
       "bytes": 489,
@@ -2248,11 +2248,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-10-28T10:08:02+00:00",
+  "generated_at": "2026-10-29T10:08:09+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 327606
+  "total_bytes": 327609
 }
