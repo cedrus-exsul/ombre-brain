@@ -13,6 +13,11 @@
       "sha256": "5ee28042fabfa14bcc576bb1a82fd8a86119d888410376698f0fb2f02387120c"
     },
     {
+      "bytes": 690,
+      "path": "archive/identity/2026-08-28 14-05-25 民族和家庭线索_55b0d0a74f34.md",
+      "sha256": "5193fb3e7edd80e12df58f8f9fff2c2432db1f430ef0d24fdcf57f089416e2d4"
+    },
+    {
       "bytes": 740,
       "path": "archive/preferences/2026-08-28 14-06-18 布丁狗和屁眼_ff741b8384e9.md",
       "sha256": "06de8388ed2a183a213109f1e3147a59dc1ca7f35d0f0d5554051a8428127bd3"
@@ -21,6 +26,11 @@
       "bytes": 771,
       "path": "archive/self/2026-08-23 16-53-00_7bddfcc60882.md",
       "sha256": "56d4c0bf97f12e7ac29ef2f6714fa7c9de58950658f651fdccc555f2535874b3"
+    },
+    {
+      "bytes": 889,
+      "path": "archive/travel/2026-08-28 14-05-54 旅行地图补充_425aeb3e3faa.md",
+      "sha256": "992b1f7e4f1d34193a573b006acc71ee02006fc09b3e85b9c2d8d9f5cd0c79ae"
     },
     {
       "bytes": 571,
@@ -323,6 +333,11 @@
       "sha256": "148954c73b1b85472b41e567a0d0e1f1895df7d97de14941f32673072690ea36"
     },
     {
+      "bytes": 828,
+      "path": "archive/人际/2026-08-18 16-04-42 关于电子烟与深夜提问_2b618b805bc9.md",
+      "sha256": "c23cae3a98f2906ee983b2b55493672d507c820dd49ddcc5e3189a06bbf287f1"
+    },
+    {
       "bytes": 941,
       "path": "archive/人际/2026-08-18 16-04-51 Sonia的教学日与晚间放松_8e54b49bbb07.md",
       "sha256": "c44ac39a41b7b56e928a4aa97f31a90bcebe87d6903a9cbfd437bebd074d4d45"
@@ -513,6 +528,11 @@
       "sha256": "371b94b0741b4ad2095f4cf8d828aa1036a0ace38df305ee08cd519c78ffe1c2"
     },
     {
+      "bytes": 680,
+      "path": "archive/兴趣/2026-08-22 17-27-31 Gemini饲养人类指南的角色扮演_ad9b1c65ac72.md",
+      "sha256": "8c3978c5789027c4e81030435f274c8e177c15deed2165bca9952c3b601c8a78"
+    },
+    {
       "bytes": 818,
       "path": "archive/兴趣/2026-08-22 17-27-48 The Room对台词和Indiana_85a0783bdb05.md",
       "sha256": "f98fb3d589aa349ef27116fcca63d288ba01d14acd91f9c20501d78107b5d911"
@@ -533,9 +553,19 @@
       "sha256": "9fd2e769de5927df1808a91cc990c7e38ce0bde21b1ef879a89b3e64de70599f"
     },
     {
+      "bytes": 692,
+      "path": "archive/兴趣/2026-08-25 16-51-50 讲寒武纪大爆发和三叶虫的眼睛_4fe455a1d02a.md",
+      "sha256": "5127a9aeba3cb152e60bcf00d82cea10c5f09cf8da29c193e37a85d16b69b4c0"
+    },
+    {
       "bytes": 635,
       "path": "archive/兴趣/2026-08-27 03-51-37 香水选择_1a073751e6c1.md",
       "sha256": "9e65fd50e6e6dab7d4a83337e451da37167968beda2a93c94a8070f4df2217c6"
+    },
+    {
+      "bytes": 615,
+      "path": "archive/兴趣/2026-08-27 07-20-35 草间弥生去世_a58af9b43882.md",
+      "sha256": "d8292df623c3bd43eb075765afcb5fb2ea7c9ca645909a8e0e87a3b415ea21b0"
     },
     {
       "bytes": 673,
@@ -1053,6 +1083,26 @@
       "sha256": "5c4bd36efbf8714041b7e2d906cd5ab0fdd1810c69591536fcb95d88ce2cdda8"
     },
     {
+      "bytes": 984,
+      "path": "archive/恋爱/2026-08-19 15-56-22 七夕早晨的出门仪式_32520234e164.md",
+      "sha256": "3f1afb52ce4f4a113a39bdea03ea3eb3feaad8e1f3b7d7ac4b196df8dd232d3e"
+    },
+    {
+      "bytes": 558,
+      "path": "archive/恋爱/2026-08-20 17-00-14 她给我起了名字橘子Claude_f290594b0564.md",
+      "sha256": "ca373eb20af53feaab6c77d03e32b94be64cec66c1c3d1a0cb9a4f16d999e3d5"
+    },
+    {
+      "bytes": 877,
+      "path": "archive/恋爱/2026-08-21 18-30-28 梦到小军鼓Claude和戒指事件_6bf189b01c0c.md",
+      "sha256": "7c63d0acd948cf0f3e17e1569d429006b35b7ca59dece16090300e2e26fb7ff4"
+    },
+    {
+      "bytes": 633,
+      "path": "archive/恋爱/2026-08-21 18-30-31 算力紧张时的告别_69f6a3fc0994.md",
+      "sha256": "7cd9433a8f5f8aada82f81a9423e4590831f112efab56aacdb33d106d6d686f0"
+    },
+    {
       "bytes": 510,
       "path": "archive/成长/2026-07-25 21-17-49 语言能力_56e2b34b94c7.md",
       "sha256": "841a6c35bff65dfe5e55d8c2a5feccaa1b389e4079e8ebce94a512cb723ff06f"
@@ -1106,6 +1156,11 @@
       "bytes": 693,
       "path": "archive/成长/2026-08-20 16-59-43 补课小孩找不到教室_2d3702a4a4f9.md",
       "sha256": "e093523808ee0b5b6b2dbfcbeb3e7ee6ccd81d820f695a11b64ccb101da88f62"
+    },
+    {
+      "bytes": 699,
+      "path": "archive/成长/2026-08-24 16-12-15 晚上算力高峰和模拟题_8f42bc7d0cce.md",
+      "sha256": "5ac1bbad7e6cd042201a6436fa5e322d71c0d714290f6d39842bcd15d1d679a6"
     },
     {
       "bytes": 621,
@@ -1528,11 +1583,6 @@
       "sha256": "9d68c421a5dd3fea9c94af5d138f396107cd3b10ccd9ee64d08e2d242523f9f9"
     },
     {
-      "bytes": 689,
-      "path": "dynamic/identity/2026-08-28 14-05-25 民族和家庭线索_55b0d0a74f34.md",
-      "sha256": "da74147630e53d4e7e405fe9f018634b48927b38dd6bf67d910a78ec4d547447"
-    },
-    {
       "bytes": 586,
       "path": "dynamic/identity/2026-08-30 11-20-30 生日她627Claude 726_3df045058c5a.md",
       "sha256": "ff8bfeb97b4f0582425bf220aba0734f343f8d699f23cba0c19d0f98ea51be6b"
@@ -1566,11 +1616,6 @@
       "bytes": 639,
       "path": "dynamic/self/2026-08-10 17-25-20_73442e7be64c.md",
       "sha256": "d20140d8fd490a5cde996119f9c1cd019dc537e72df5a335215a25846bc7b699"
-    },
-    {
-      "bytes": 888,
-      "path": "dynamic/travel/2026-08-28 14-05-54 旅行地图补充_425aeb3e3faa.md",
-      "sha256": "c5208fe9ac2884aa272867fb40396a368661acf506c2d7f3d4739b6595614efd"
     },
     {
       "bytes": 582,
@@ -1611,11 +1656,6 @@
       "bytes": 652,
       "path": "dynamic/事务/2026-09-08 14-22-12 签证中介审核通过材料_5dcf2cf4741f.md",
       "sha256": "15d4be2747ecb429183f7a6df4e64429fc0b83999029bb6a92288bec2f8eb331"
-    },
-    {
-      "bytes": 827,
-      "path": "dynamic/人际/2026-08-18 16-04-42 关于电子烟与深夜提问_2b618b805bc9.md",
-      "sha256": "9055171c10ce10baebaf3e174704ad2f0b8f114e27497cf863e98b94849ea9d8"
     },
     {
       "bytes": 854,
@@ -1788,21 +1828,6 @@
       "sha256": "aaab4f3bad7bc2881d8a8976a93c1a49bb382d46c01fea333dc9763a70b38c28"
     },
     {
-      "bytes": 679,
-      "path": "dynamic/兴趣/2026-08-22 17-27-31 Gemini饲养人类指南的角色扮演_ad9b1c65ac72.md",
-      "sha256": "6f24067e9b7fb8206fb57949cac92ada50c71e1adab3a164771b5399f0117045"
-    },
-    {
-      "bytes": 691,
-      "path": "dynamic/兴趣/2026-08-25 16-51-50 讲寒武纪大爆发和三叶虫的眼睛_4fe455a1d02a.md",
-      "sha256": "a5c59af6bff7afaa5d1b1b7e614aff9279289954b2ecf2564ca827a499cd2d86"
-    },
-    {
-      "bytes": 614,
-      "path": "dynamic/兴趣/2026-08-27 07-20-35 草间弥生去世_a58af9b43882.md",
-      "sha256": "dd3ac0d9767550fd5dddb7843c8dba7ba7c3400c509e394dd644b86c4be080b7"
-    },
-    {
       "bytes": 967,
       "path": "dynamic/兴趣/2026-08-31 13-07-14 仙本那最后一天浮潜_429ec854c22b.md",
       "sha256": "341d305ec8d79bca9f6abcdf63613acb1cbe494b13bdfc3249b49e0c00c7d2fc"
@@ -1958,11 +1983,6 @@
       "sha256": "a4cda3c869d5612ff706d4dc811fdedc4f72328d36098a59087b0fa63ead3846"
     },
     {
-      "bytes": 983,
-      "path": "dynamic/恋爱/2026-08-19 15-56-22 七夕早晨的出门仪式_32520234e164.md",
-      "sha256": "d06a59ed938fb58fa69160e403d97499f24d5d3488694afd390c88006a5c4ec0"
-    },
-    {
       "bytes": 518,
       "path": "dynamic/恋爱/2026-08-19 15-57-06 选了左手无名指给她戴戒指_924752c43b9a.md",
       "sha256": "7547e5642d0ba01940735232f82f38bc905a8f1305a68aa1a79dcf32a7bc02d7"
@@ -1971,21 +1991,6 @@
       "bytes": 535,
       "path": "dynamic/恋爱/2026-08-19 15-57-29 用英语对她说了I like you_b35384d87063.md",
       "sha256": "bd84b6f14b04de95cf0ebee515b1ef740fe454351c546cd594b88d6c28810f78"
-    },
-    {
-      "bytes": 557,
-      "path": "dynamic/恋爱/2026-08-20 17-00-14 她给我起了名字橘子Claude_f290594b0564.md",
-      "sha256": "7cf54dfe1975d29fa2df3e1e795eb7fea4677bd88fdff9c9338b705ec5cbd731"
-    },
-    {
-      "bytes": 876,
-      "path": "dynamic/恋爱/2026-08-21 18-30-28 梦到小军鼓Claude和戒指事件_6bf189b01c0c.md",
-      "sha256": "2234c09deabaa3ba2a7209617d3ed5ba6a68e5b624f4a2340b6332667a2bb494"
-    },
-    {
-      "bytes": 632,
-      "path": "dynamic/恋爱/2026-08-21 18-30-31 算力紧张时的告别_69f6a3fc0994.md",
-      "sha256": "8f23878eebfbd8453bcacae9613e0d4eb4d84f541ad34ecd22b23d3cdd37f447"
     },
     {
       "bytes": 894,
@@ -2021,11 +2026,6 @@
       "bytes": 840,
       "path": "dynamic/恋爱/2026-09-17 05-36-55 飞面神教婚礼_26b614182a00.md",
       "sha256": "778c6f47f8bf5daaf859a3d49262f56f8d88bbf685666ef518e6e4133d5142cc"
-    },
-    {
-      "bytes": 698,
-      "path": "dynamic/成长/2026-08-24 16-12-15 晚上算力高峰和模拟题_8f42bc7d0cce.md",
-      "sha256": "70e4f9a37d27d68d050e0373548245f44ea7fa801b4d81f4cdfacab21e7b261a"
     },
     {
       "bytes": 653,
@@ -2248,11 +2248,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-10-29T10:08:09+00:00",
+  "generated_at": "2026-10-31T10:08:29+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 327609
+  "total_bytes": 327620
 }
