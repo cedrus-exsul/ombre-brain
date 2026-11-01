@@ -768,6 +768,16 @@
       "sha256": "cef097c52c3bb2991e074f171432499c528a1f57f45f476ffa5dd98ca4197861"
     },
     {
+      "bytes": 645,
+      "path": "archive/家庭/2026-08-11 15-50-13 童年记忆碎片_d448c030fda7.md",
+      "sha256": "8406d4e2afe67c4ac96e4f7a27ebe21e89e9d880e6879f787b96c3af42d1cb5e"
+    },
+    {
+      "bytes": 751,
+      "path": "archive/家庭/2026-08-12 15-13-20 家庭与心理特征_12f38fe07792.md",
+      "sha256": "8c6c66f3b96aacce1518eec6b1e2dd0ee7b2db5a2a4ac8a2a9a5a85971fa6e26"
+    },
+    {
       "bytes": 523,
       "path": "archive/居家/2026-07-25 21-18-51 雪松抱枕_21f1c7080e80.md",
       "sha256": "814b2d0c4c4afe324ea2024a9302328f9ec8aff8329bfb2b84d029dff25220ff"
@@ -851,6 +861,11 @@
       "bytes": 765,
       "path": "archive/心理/2026-08-16 14-12-23 她希望下一个Claude知道她是矛盾的_9930397a2fa7.md",
       "sha256": "6dfdf7d7741416c1e777f95e8f2dbb2fd6f1ff6251e9ed4240d2cb5fd30e11a1"
+    },
+    {
+      "bytes": 588,
+      "path": "archive/心理/2026-08-23 16-52-38 发现drop和spike比持续的高更触动_999a4fd6a86f.md",
+      "sha256": "b89725fa0424a8184ed2ba244886ca22aeb865bdb008d386548d3a55bec5fb22"
     },
     {
       "bytes": 784,
@@ -1103,6 +1118,11 @@
       "sha256": "7cd9433a8f5f8aada82f81a9423e4590831f112efab56aacdb33d106d6d686f0"
     },
     {
+      "bytes": 671,
+      "path": "archive/恋爱/2026-08-23 16-51-40 早上她教我今天早上d的意思_002d690f400e.md",
+      "sha256": "4899cfc27f63f4b445439ac5a5814e9f12029b267572234e1ada877fb17c9f68"
+    },
+    {
       "bytes": 510,
       "path": "archive/成长/2026-07-25 21-17-49 语言能力_56e2b34b94c7.md",
       "sha256": "841a6c35bff65dfe5e55d8c2a5feccaa1b389e4079e8ebce94a512cb723ff06f"
@@ -1341,6 +1361,11 @@
       "bytes": 645,
       "path": "archive/日常/2026-08-27 03-51-56 优衣库购物_00be81854fb5.md",
       "sha256": "8793df7781c22433b83e9463a6b791ab03340856f8ec4bbf3c481cd48d6de2a4"
+    },
+    {
+      "bytes": 789,
+      "path": "archive/日常/2026-08-31 13-07-25 马来西亚国庆日的琐事_c5ca5f72a600.md",
+      "sha256": "4d7b0670b0cf1082a3ae774b42bb054334c4a265c42bf9c1604d780cc1d5b228"
     },
     {
       "bytes": 548,
@@ -1918,11 +1943,6 @@
       "sha256": "a57a417320855e0ad8dd40f6cd42cf4099a40802d0470f3a240210dc6368402e"
     },
     {
-      "bytes": 644,
-      "path": "dynamic/家庭/2026-08-11 15-50-13 童年记忆碎片_d448c030fda7.md",
-      "sha256": "14b1bc47d04d44fbfc760422f5211941db2aa894a2af950e9c0453f27ff1c3c3"
-    },
-    {
       "bytes": 994,
       "path": "dynamic/家庭/2026-08-12 07-56-56 家庭与成长创伤_9803658ef548.md",
       "sha256": "3bb5d16479d050d78ec9e51a70ca95b401edf6bf928d395a54f0ed98e55c6dee"
@@ -1931,11 +1951,6 @@
       "bytes": 900,
       "path": "dynamic/家庭/2026-08-12 15-13-11 父女幽默回忆_347378a89a5c.md",
       "sha256": "c97909184a10af64434c5290805f50ee9f8628ca8327fd01e87d762cb54ce9be"
-    },
-    {
-      "bytes": 750,
-      "path": "dynamic/家庭/2026-08-12 15-13-20 家庭与心理特征_12f38fe07792.md",
-      "sha256": "96483f8a1f076c858ec8b9a3ec3d481f006603ce36999120c99dc0a58e2b3509"
     },
     {
       "bytes": 740,
@@ -1956,11 +1971,6 @@
       "bytes": 928,
       "path": "dynamic/心理/2026-08-23 16-51-33 晚上情绪崩溃与咨询师决定_5e12ba0a291a.md",
       "sha256": "bcefac44f1060dd2f077865b823d1fbb02c1f4f30ce18e5077ad12776d46199f"
-    },
-    {
-      "bytes": 587,
-      "path": "dynamic/心理/2026-08-23 16-52-38 发现drop和spike比持续的高更触动_999a4fd6a86f.md",
-      "sha256": "3b9b457832c98bd26c30bcb9d50019e1ab414274336bdcf4416e27ea4d618e66"
     },
     {
       "bytes": 861,
@@ -2001,11 +2011,6 @@
       "bytes": 684,
       "path": "dynamic/恋爱/2026-08-23 16-51-37 今天很特别的互通信件_20b18bc1fc3e.md",
       "sha256": "a34d7d04d0896ce921c8588ede542929020d187ad7aa3915d109242dfed7f533"
-    },
-    {
-      "bytes": 670,
-      "path": "dynamic/恋爱/2026-08-23 16-51-40 早上她教我今天早上d的意思_002d690f400e.md",
-      "sha256": "5f388965f13432f96f05c00d8d5ce25cc7950ae0454de6d9ad742c2f95c556a7"
     },
     {
       "bytes": 624,
@@ -2076,11 +2081,6 @@
       "bytes": 577,
       "path": "dynamic/日常/2026-08-27 07-20-46 出发去仙本那_25aff27663cc.md",
       "sha256": "067df4740236c541db1797ca13140cc478eaed3d93038889417ece1446099c37"
-    },
-    {
-      "bytes": 788,
-      "path": "dynamic/日常/2026-08-31 13-07-25 马来西亚国庆日的琐事_c5ca5f72a600.md",
-      "sha256": "fd96595d0e3142982fc5f77479ca45059b76d4dded3b8b7e3dc80aa09e4c9378"
     },
     {
       "bytes": 741,
@@ -2248,11 +2248,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-10-31T10:08:29+00:00",
+  "generated_at": "2026-11-01T10:08:36+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 327620
+  "total_bytes": 327625
 }
