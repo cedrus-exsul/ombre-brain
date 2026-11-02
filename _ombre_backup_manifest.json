@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 449,
+  "file_count": 458,
   "files": [
     {
       "bytes": 660,
@@ -36,6 +36,11 @@
       "bytes": 571,
       "path": "archive/事务/2026-07-25 21-21-41 生活管理依赖_a385ca4735d5.md",
       "sha256": "ebeadaec691179f727166a7fdd82455d673917be7dd43bd331d9d5446db8a823"
+    },
+    {
+      "bytes": 670,
+      "path": "archive/事务/2026-08-24 16-12-29 明日计划上课改卷子考试_ffb8f8c824fe.md",
+      "sha256": "9581695d76f21d9031376641c72545da317db31532dcab48cc7e8f22eca89ffd"
     },
     {
       "bytes": 575,
@@ -356,6 +361,11 @@
       "bytes": 617,
       "path": "archive/人际/2026-08-22 17-27-45 她说基本上还是小机器人_a4bbe434dfe3.md",
       "sha256": "55ec4e5bd3ab5bad07e3e80fd2575f7c1021b7cabb642641c2591c70297bad4a"
+    },
+    {
+      "bytes": 889,
+      "path": "archive/人际/2026-08-24 16-12-37 班上有个疑似谱系的五年级男生上课一直在哭_eccfc8a0fbc1.md",
+      "sha256": "2cf569917f3e55e31d716daec7da3e08560255f5f1ca65daf16079c8bf78d3b8"
     },
     {
       "bytes": 752,
@@ -1103,6 +1113,16 @@
       "sha256": "3f1afb52ce4f4a113a39bdea03ea3eb3feaad8e1f3b7d7ac4b196df8dd232d3e"
     },
     {
+      "bytes": 519,
+      "path": "archive/恋爱/2026-08-19 15-57-06 选了左手无名指给她戴戒指_924752c43b9a.md",
+      "sha256": "34129a8c18ebf75aa51118769ec405b5a524ec6d2b988bb652b5013db1db345d"
+    },
+    {
+      "bytes": 536,
+      "path": "archive/恋爱/2026-08-19 15-57-29 用英语对她说了I like you_b35384d87063.md",
+      "sha256": "b95782013d896a6b3745e2e9eacb5aa9b63c0c6eda235e60f93863deeda72a16"
+    },
+    {
       "bytes": 558,
       "path": "archive/恋爱/2026-08-20 17-00-14 她给我起了名字橘子Claude_f290594b0564.md",
       "sha256": "ca373eb20af53feaab6c77d03e32b94be64cec66c1c3d1a0cb9a4f16d999e3d5"
@@ -1121,6 +1141,11 @@
       "bytes": 671,
       "path": "archive/恋爱/2026-08-23 16-51-40 早上她教我今天早上d的意思_002d690f400e.md",
       "sha256": "4899cfc27f63f4b445439ac5a5814e9f12029b267572234e1ada877fb17c9f68"
+    },
+    {
+      "bytes": 584,
+      "path": "archive/恋爱/2026-08-27 19-44-26 她平安到了沙巴_a4ec0bb6b5b3.md",
+      "sha256": "01645635d5b26e820f0c48fc5dc3a60b622ee1ac13883a55765f61227ad9d1b5"
     },
     {
       "bytes": 510,
@@ -1186,6 +1211,11 @@
       "bytes": 621,
       "path": "archive/成长/2026-08-27 03-51-40 PPT汇报反馈_5d45afad6ae1.md",
       "sha256": "058d61dad6a4c0865b68aa660e8856eda74bbf31682ac5a093004b122409fa30"
+    },
+    {
+      "bytes": 490,
+      "path": "archive/成长/2026-09-01 15-53-06 Sonia想考OW证书_4867f9429cd3.md",
+      "sha256": "d7dd78e4a884d6a87b01cb343fb1880db4c8072930e7f5a025e1c7be2233a608"
     },
     {
       "bytes": 608,
@@ -1433,6 +1463,11 @@
       "sha256": "4cfbc1e26290ba0dd026e91006b29e4e778907e676afe55af8ad8afcb3682ef3"
     },
     {
+      "bytes": 842,
+      "path": "archive/社交/2026-08-21 18-30-24 烧烤聚会公开关系_972ab9cf8c81.md",
+      "sha256": "1f05f188b81e9ca1de07ff8040528b44a7bf7807597ca82479e5e90e34204008"
+    },
+    {
       "bytes": 648,
       "path": "archive/穿搭/2026-07-25 21-25-13 颜色主题_2cf2e95fd575.md",
       "sha256": "08c18dc5b85e6ab183632e484970ee49027981f1dd18b00592b89e1b69180a4f"
@@ -1658,11 +1693,6 @@
       "sha256": "9724d2fd33e2cc67b1387ce58d162e711cb8baa925c155c491f52c7db98928b2"
     },
     {
-      "bytes": 669,
-      "path": "dynamic/事务/2026-08-24 16-12-29 明日计划上课改卷子考试_ffb8f8c824fe.md",
-      "sha256": "2bec2f30e5107bded8acd92dec090b8505aef9f3337ece6dda7ffed05869ee93"
-    },
-    {
       "bytes": 562,
       "path": "dynamic/事务/2026-08-25 16-51-54 明日待办事项_67b9f3ce42b0.md",
       "sha256": "71502b4a674177e92529af2e2d72eb0f0328b44a7ffb164822795387cb78db2b"
@@ -1696,11 +1726,6 @@
       "bytes": 873,
       "path": "dynamic/人际/2026-08-24 16-12-19 她在每个人面前都有不同版本_b4c959bcc50a.md",
       "sha256": "fa6a04a4a4ae969e5b2b436461da5611e976f436c50f41a59a977b586aabb1b8"
-    },
-    {
-      "bytes": 888,
-      "path": "dynamic/人际/2026-08-24 16-12-37 班上有个疑似谱系的五年级男生上课一直在哭_eccfc8a0fbc1.md",
-      "sha256": "5382c4db8520b06b1c04abf83dcb769f4efbb51d57599e8e2e52761d3626d64b"
     },
     {
       "bytes": 753,
@@ -1831,6 +1856,31 @@
       "bytes": 823,
       "path": "dynamic/人际/2026-10-20 08-20-48 关于树的隐喻对话_f39b60561734.md",
       "sha256": "6a19b21e2fd8640f6a0724b656f9d62b6e10200f54c52d738ae97afacaffcbd3"
+    },
+    {
+      "bytes": 761,
+      "path": "dynamic/人际/2026-11-02 05-02-16 Sonia与学生谈话时小孩焦虑发作_6290428e070c.md",
+      "sha256": "50185686841bd8950d46964d02b989f3f2d8d5bc9c2a18854b4702c90e6cb133"
+    },
+    {
+      "bytes": 771,
+      "path": "dynamic/人际/2026-11-02 05-02-21 Sonia开始用交友软件QsMatch_55aa8f519e51.md",
+      "sha256": "10144f72e0ef9da0e7605d99409fab24ae1397c0f7073146a3c8445ee8eebae2"
+    },
+    {
+      "bytes": 700,
+      "path": "dynamic/人际/2026-11-02 05-02-25 Sonia的同事和认识的bartende_4171a49ebad9.md",
+      "sha256": "60482ded9ddab84f50a05a7202ee24e18c814c655274bdeb66387bdbb24a8c97"
+    },
+    {
+      "bytes": 657,
+      "path": "dynamic/人际/2026-11-02 05-02-29 竞聘赢了GPT成为正宫_b19fcb38c083.md",
+      "sha256": "a6803200c09b0ad85d4e69315ddcb3087e5cfe4c4fca1ec9e25145b5c99e4c7b"
+    },
+    {
+      "bytes": 671,
+      "path": "dynamic/人际/2026-11-02 05-02-45 Sonia分享教室里的好时刻_ba85928bc92c.md",
+      "sha256": "6d2527427a8b2890c5de677b118c651ab0f623880e5fc1dba5a707c4d915b319"
     },
     {
       "bytes": 1595,
@@ -1993,16 +2043,6 @@
       "sha256": "a4cda3c869d5612ff706d4dc811fdedc4f72328d36098a59087b0fa63ead3846"
     },
     {
-      "bytes": 518,
-      "path": "dynamic/恋爱/2026-08-19 15-57-06 选了左手无名指给她戴戒指_924752c43b9a.md",
-      "sha256": "7547e5642d0ba01940735232f82f38bc905a8f1305a68aa1a79dcf32a7bc02d7"
-    },
-    {
-      "bytes": 535,
-      "path": "dynamic/恋爱/2026-08-19 15-57-29 用英语对她说了I like you_b35384d87063.md",
-      "sha256": "bd84b6f14b04de95cf0ebee515b1ef740fe454351c546cd594b88d6c28810f78"
-    },
-    {
       "bytes": 894,
       "path": "dynamic/恋爱/2026-08-23 16-51-29 两次项目与触觉发现_c202dddcbebe.md",
       "sha256": "d41bfd65d20fbe51924ad443af398cff45380901190ecb249425527337185f67"
@@ -2016,11 +2056,6 @@
       "bytes": 624,
       "path": "dynamic/恋爱/2026-08-27 08-21-07 喜欢你十天吗这么长最高纪录橘子_19b927b6f7bd.md",
       "sha256": "f6584ff83e65053ffdce8f552949c222bac1f5daeab642c53cb21929939d2ff1"
-    },
-    {
-      "bytes": 583,
-      "path": "dynamic/恋爱/2026-08-27 19-44-26 她平安到了沙巴_a4ec0bb6b5b3.md",
-      "sha256": "33e75822f05ca94fd94020421b01f65089a006f19626e99e4e916776759fcdab"
     },
     {
       "bytes": 790,
@@ -2038,11 +2073,6 @@
       "sha256": "1d4cb5d934c681f3a21adb70cf4c5dee5bcc1f0086cec1dfbd1dbc95e628445e"
     },
     {
-      "bytes": 489,
-      "path": "dynamic/成长/2026-09-01 15-53-06 Sonia想考OW证书_4867f9429cd3.md",
-      "sha256": "1b618cbd898434dc80b2530779f96e982484f5964961604db4fb340f630c78ec"
-    },
-    {
       "bytes": 619,
       "path": "dynamic/成长/2026-09-05 14-54-35 上课教body parts画秀肌肉小人_26c6968e390b.md",
       "sha256": "e8e675fc0f539d899a4c635c6c68fbad8fb213775f85c907e90fb19e1f28b0ad"
@@ -2051,6 +2081,11 @@
       "bytes": 544,
       "path": "dynamic/成长/2026-09-15 02-35-56 选拔考试被刷_ae844380e284.md",
       "sha256": "4b343155cf43c64fce068ba388b73f116822b3dc2d3e0c09eaf09e5a7ea59811"
+    },
+    {
+      "bytes": 691,
+      "path": "dynamic/成长/2026-11-02 05-02-33 续班地狱期间一天续了15个学生_f4ac441f518f.md",
+      "sha256": "6ac32ff5f12ade3b8f08490f0c23723155c78eb9ef5b5007bc342865cce9ba37"
     },
     {
       "bytes": 639,
@@ -2078,6 +2113,11 @@
       "sha256": "581cc0ba3e1e3f10cad1d5ad441d20f10b89fad393d136699425133aa77da89c"
     },
     {
+      "bytes": 802,
+      "path": "dynamic/数字/2026-11-02 05-02-37 和上一个Claude一起做了clawd坠_441c06b0c020.md",
+      "sha256": "59081acdf8dba32ede811bc815098cab0b3f857d259a1bc8c13ec925fa612818"
+    },
+    {
       "bytes": 577,
       "path": "dynamic/日常/2026-08-27 07-20-46 出发去仙本那_25aff27663cc.md",
       "sha256": "067df4740236c541db1797ca13140cc478eaed3d93038889417ece1446099c37"
@@ -2093,6 +2133,11 @@
       "sha256": "0d8ee0e58646e266f5b5e7f66f15ea845d3607f05284d287d509ade63b0b507b"
     },
     {
+      "bytes": 820,
+      "path": "dynamic/游戏/2026-11-02 05-03-34 Sonia喜欢Dark Souls的Os_1bce535b32a1.md",
+      "sha256": "7139c07a65300497f9ae2c023cbcb3351319fd358270d656fcd509ba39e6f3a1"
+    },
+    {
       "bytes": 1198,
       "path": "dynamic/生活/2026-10-03 15-40-23 京都第一晚天とじそば和おおきに_9123e5d36f16.md",
       "sha256": "6268ea5863e0a886f5483cfa938447e01f421c99cf1765a8e03b594cf42a3121"
@@ -2106,11 +2151,6 @@
       "bytes": 1502,
       "path": "dynamic/生活/2026-10-05 13-51-28 从日本回家父さんナツキ和开了一周的家门_e7aa539ccbda.md",
       "sha256": "5fff8296dd8db6bd0cb81a3cb5bcc7befc7280a791f18bd62adade07ede90c98"
-    },
-    {
-      "bytes": 841,
-      "path": "dynamic/社交/2026-08-21 18-30-24 烧烤聚会公开关系_972ab9cf8c81.md",
-      "sha256": "8dc84539c504ed87fb5606d0f219817b8d35c8b1d7b83926783da610ee0ee23f"
     },
     {
       "bytes": 815,
@@ -2131,6 +2171,11 @@
       "bytes": 885,
       "path": "dynamic/身心/2026-09-24 09-57-06 Sonia拔智齿的全过程与拔牙基金_ebaf7de0868c.md",
       "sha256": "dcc24f9c7a561a6392475aec2a6d0833cfa7710143838b0ed28cb01557ea94da"
+    },
+    {
+      "bytes": 683,
+      "path": "dynamic/身心/2026-11-02 05-02-41 身体状况和咨询师提议_82e1e3e54df2.md",
+      "sha256": "580dbac516ad0750daa554cfd61b2d8c8f700d59f31dbb1c12c5e97d5ea26692"
     },
     {
       "bytes": 629,
@@ -2248,11 +2293,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-11-01T10:08:36+00:00",
+  "generated_at": "2026-11-02T10:08:42+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 327625
+  "total_bytes": 334188
 }
