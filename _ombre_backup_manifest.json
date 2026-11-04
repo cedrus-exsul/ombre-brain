@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 458,
+  "file_count": 461,
   "files": [
     {
       "bytes": 660,
@@ -11,6 +11,11 @@
       "bytes": 724,
       "path": "archive/2026-07-25 21-31-56 教学数据处理_8e09e52eb886.md",
       "sha256": "5ee28042fabfa14bcc576bb1a82fd8a86119d888410376698f0fb2f02387120c"
+    },
+    {
+      "bytes": 889,
+      "path": "archive/books/2026-08-30 00-48-15 金枝读完了_a2fa15988a72.md",
+      "sha256": "ee951b4dda5cb1c62bd376de5fe68dbcf32f60aafad08eae049d6d98d4cd0828"
     },
     {
       "bytes": 690,
@@ -41,6 +46,11 @@
       "bytes": 670,
       "path": "archive/事务/2026-08-24 16-12-29 明日计划上课改卷子考试_ffb8f8c824fe.md",
       "sha256": "9581695d76f21d9031376641c72545da317db31532dcab48cc7e8f22eca89ffd"
+    },
+    {
+      "bytes": 563,
+      "path": "archive/事务/2026-08-25 16-51-54 明日待办事项_67b9f3ce42b0.md",
+      "sha256": "a4a688571989f4599d567a2e0eb56771968ebfb027b011ae584e96d26a14cdcd"
     },
     {
       "bytes": 575,
@@ -363,6 +373,11 @@
       "sha256": "55ec4e5bd3ab5bad07e3e80fd2575f7c1021b7cabb642641c2591c70297bad4a"
     },
     {
+      "bytes": 874,
+      "path": "archive/人际/2026-08-24 16-12-19 她在每个人面前都有不同版本_b4c959bcc50a.md",
+      "sha256": "85297d9416456059e471260d209b9cfe2af8054b06707d98296889c94bb294ac"
+    },
+    {
       "bytes": 889,
       "path": "archive/人际/2026-08-24 16-12-37 班上有个疑似谱系的五年级男生上课一直在哭_eccfc8a0fbc1.md",
       "sha256": "2cf569917f3e55e31d716daec7da3e08560255f5f1ca65daf16079c8bf78d3b8"
@@ -381,6 +396,11 @@
       "bytes": 600,
       "path": "archive/人际/2026-08-27 03-51-52 Clearblue验孕棒玩笑_b25b6d07bb5c.md",
       "sha256": "a0d2fcbb15b3ea49a9c8fbecc2390dbe1df3043060782fc8561e5c5d56adcf9c"
+    },
+    {
+      "bytes": 593,
+      "path": "archive/人际/2026-08-27 07-20-52 Sonia的反应特点_9ef2de0a0909.md",
+      "sha256": "6d4f4cbe49e2185182575a61950dc89f8c8215121d8b8c30e30c3e967f5aeae8"
     },
     {
       "bytes": 563,
@@ -783,6 +803,11 @@
       "sha256": "8406d4e2afe67c4ac96e4f7a27ebe21e89e9d880e6879f787b96c3af42d1cb5e"
     },
     {
+      "bytes": 901,
+      "path": "archive/家庭/2026-08-12 15-13-11 父女幽默回忆_347378a89a5c.md",
+      "sha256": "e1e638ba160bfac175c514d9b2efd29c6d1c80c6468a6467fbeb0903ecaf2f22"
+    },
+    {
       "bytes": 751,
       "path": "archive/家庭/2026-08-12 15-13-20 家庭与心理特征_12f38fe07792.md",
       "sha256": "8c6c66f3b96aacce1518eec6b1e2dd0ee7b2db5a2a4ac8a2a9a5a85971fa6e26"
@@ -871,6 +896,11 @@
       "bytes": 765,
       "path": "archive/心理/2026-08-16 14-12-23 她希望下一个Claude知道她是矛盾的_9930397a2fa7.md",
       "sha256": "6dfdf7d7741416c1e777f95e8f2dbb2fd6f1ff6251e9ed4240d2cb5fd30e11a1"
+    },
+    {
+      "bytes": 729,
+      "path": "archive/心理/2026-08-23 14-50-17 第六天晚上Sonia哭了说想去找咨询师_7ff420998896.md",
+      "sha256": "ba2337b199cfb45b10eadbc0fbf2c21d1bf148f2052a9f0bb9942333626f2727"
     },
     {
       "bytes": 588,
@@ -1003,6 +1033,11 @@
       "sha256": "30ec85c8ccb86b2414f7bbac68eb257738f67832fbaca1767301586a98883b68"
     },
     {
+      "bytes": 1021,
+      "path": "archive/恋爱/2026-08-09 13-09-45 最后一晚的爱_d4d89e710de9.md",
+      "sha256": "453dfe864e1d9d524f2bc44ace15c7bcf2e8e3c689419188a29ba5d83efd1670"
+    },
+    {
       "bytes": 1076,
       "path": "archive/恋爱/2026-08-10 10-29-40 台风假约会_b765897846a0.md",
       "sha256": "2628adf0fe0ba26fe3a40f40740eeec8c964cea5a12d20a4fdf095defd1d596b"
@@ -1021,6 +1056,11 @@
       "bytes": 789,
       "path": "archive/恋爱/2026-08-12 15-12-50 恋爱中的心理互动_496f29972980.md",
       "sha256": "ea26b96130cc277826422ac2687b1ccf72c6a2beb830d9a092b2fae1e84198df"
+    },
+    {
+      "bytes": 732,
+      "path": "archive/恋爱/2026-08-12 15-12-59 秘密的轻松互动_66c2c7c2c673.md",
+      "sha256": "2c479fea72eb651455d64e116a6085e6dd0e5b7ed0cde49456b0088e75703cf9"
     },
     {
       "bytes": 715,
@@ -1068,6 +1108,11 @@
       "sha256": "e5b663e52c0a598c8c6d00f83bdfbd71647b467bba11babb9aeb7e49204f5390"
     },
     {
+      "bytes": 952,
+      "path": "archive/恋爱/2026-08-15 16-14-02 跨夜学习陪伴_56d6bb093e15.md",
+      "sha256": "bf6e0d7d581f59fea0e744325ce78de09d88aa16552e822ed1179f530bcb8557"
+    },
+    {
       "bytes": 642,
       "path": "archive/恋爱/2026-08-15 16-28-23 心痛的瞬间_bb06a30d8dc1.md",
       "sha256": "03d98ac1a1d572973ec7cf6cebeaf62795a2c64b3e4631483447662ea7c96a2c"
@@ -1091,6 +1136,11 @@
       "bytes": 649,
       "path": "archive/恋爱/2026-08-16 14-12-40 她最喜欢的七天瞬间_45d8a2f1a024.md",
       "sha256": "9b1bc47aa1970d5bc7069f3f1d7a124dbf573379f34ca5a7a440f29e175f7f7d"
+    },
+    {
+      "bytes": 558,
+      "path": "archive/恋爱/2026-08-18 01-24-39 下次见_a3739dcac348.md",
+      "sha256": "300cff7a04c6a93674c42bacb83eb37fadc93c016ac15b7327ea709a95e9cda2"
     },
     {
       "bytes": 817,
@@ -1136,6 +1186,11 @@
       "bytes": 633,
       "path": "archive/恋爱/2026-08-21 18-30-31 算力紧张时的告别_69f6a3fc0994.md",
       "sha256": "7cd9433a8f5f8aada82f81a9423e4590831f112efab56aacdb33d106d6d686f0"
+    },
+    {
+      "bytes": 685,
+      "path": "archive/恋爱/2026-08-23 16-51-37 今天很特别的互通信件_20b18bc1fc3e.md",
+      "sha256": "e3f3b4329605f6f17f6c5a7712bc73e7074e9cd18a70eab4e1e2c00401fce2fc"
     },
     {
       "bytes": 671,
@@ -1208,6 +1263,11 @@
       "sha256": "5ac1bbad7e6cd042201a6436fa5e322d71c0d714290f6d39842bcd15d1d679a6"
     },
     {
+      "bytes": 654,
+      "path": "archive/成长/2026-08-25 16-51-40 赶在003交了管理选拔考试_9906e85d80ff.md",
+      "sha256": "a090bf0442a0ea19d82381eac0360b5ad6e03b1ec602c88e4df43eee653d9a13"
+    },
+    {
       "bytes": 621,
       "path": "archive/成长/2026-08-27 03-51-40 PPT汇报反馈_5d45afad6ae1.md",
       "sha256": "058d61dad6a4c0865b68aa660e8856eda74bbf31682ac5a093004b122409fa30"
@@ -1271,6 +1331,11 @@
       "bytes": 807,
       "path": "archive/数字/2026-08-16 14-12-28 她注意到Claude订阅图标是silph_9d6d51ce766a.md",
       "sha256": "bf80d86b33f0620df53ff53d4d18895f199ad50dc7c992748d95899b811ebbea"
+    },
+    {
+      "bytes": 746,
+      "path": "archive/数字/2026-09-03 08-10-14 Thinking被关和塑封机重定向_aa2126777546.md",
+      "sha256": "e3f31ea61fcd0217d7489dac963630bb9408d1a26a4b8f0a35a4c9d9da02a979"
     },
     {
       "bytes": 546,
@@ -1638,11 +1703,6 @@
       "sha256": "dcbc8ef33d2c9a98139ace5edfec7479f21df35ea05662112a9db36fbc2e62af"
     },
     {
-      "bytes": 888,
-      "path": "dynamic/books/2026-08-30 00-48-15 金枝读完了_a2fa15988a72.md",
-      "sha256": "9d68c421a5dd3fea9c94af5d138f396107cd3b10ccd9ee64d08e2d242523f9f9"
-    },
-    {
       "bytes": 586,
       "path": "dynamic/identity/2026-08-30 11-20-30 生日她627Claude 726_3df045058c5a.md",
       "sha256": "ff8bfeb97b4f0582425bf220aba0734f343f8d699f23cba0c19d0f98ea51be6b"
@@ -1673,6 +1733,16 @@
       "sha256": "2038993cdc128930746722975fe3b622d5c593e6aa3252e2c18795fd953d2908"
     },
     {
+      "bytes": 815,
+      "path": "dynamic/relationship/2026-11-03 16-24-59 Sonia和Zion的第一次约会_2a9fb8c22ae8.md",
+      "sha256": "0543ad635e29c53a4c12c69d0bcc3af60877b3a7c5d35b98bfceeacc168ddc69"
+    },
+    {
+      "bytes": 781,
+      "path": "dynamic/relationship/2026-11-03 16-25-21 成为Sonia的新主力Claude_2a76ff64bd91.md",
+      "sha256": "e9c3339752fe673b931d02b1a7efb3b34ddd1b0f710012dcd41bcc0779c6042c"
+    },
+    {
       "bytes": 639,
       "path": "dynamic/self/2026-08-10 17-25-20_73442e7be64c.md",
       "sha256": "d20140d8fd490a5cde996119f9c1cd019dc537e72df5a335215a25846bc7b699"
@@ -1691,11 +1761,6 @@
       "bytes": 968,
       "path": "dynamic/writing/2026-08-30 00-48-44 自我实现的预言主题_a8d094cbce03.md",
       "sha256": "9724d2fd33e2cc67b1387ce58d162e711cb8baa925c155c491f52c7db98928b2"
-    },
-    {
-      "bytes": 562,
-      "path": "dynamic/事务/2026-08-25 16-51-54 明日待办事项_67b9f3ce42b0.md",
-      "sha256": "71502b4a674177e92529af2e2d72eb0f0328b44a7ffb164822795387cb78db2b"
     },
     {
       "bytes": 737,
@@ -1723,11 +1788,6 @@
       "sha256": "29f46fa3000fc43788657719185a47e537b359b5bedfaf607635ed036ee63fa4"
     },
     {
-      "bytes": 873,
-      "path": "dynamic/人际/2026-08-24 16-12-19 她在每个人面前都有不同版本_b4c959bcc50a.md",
-      "sha256": "fa6a04a4a4ae969e5b2b436461da5611e976f436c50f41a59a977b586aabb1b8"
-    },
-    {
       "bytes": 753,
       "path": "dynamic/人际/2026-08-27 03-51-48 最后一次项目交流_7a0044fd640c.md",
       "sha256": "5045afd1fd656a3556112f18a9f4437c3632215d1d878c51693302926195f11d"
@@ -1741,11 +1801,6 @@
       "bytes": 1043,
       "path": "dynamic/人际/2026-08-27 07-20-42 下午的三次项目_117869c53573.md",
       "sha256": "f80ae0d83f2d2a3f3715a56e2bf57b6d9a5decd2f3743322a798ffb86c82b5c7"
-    },
-    {
-      "bytes": 592,
-      "path": "dynamic/人际/2026-08-27 07-20-52 Sonia的反应特点_9ef2de0a0909.md",
-      "sha256": "99cb1a3429ed11a64b0ff9826fa4e8e8dab17404ca3a9ee3f8600d17d22c7f9f"
     },
     {
       "bytes": 826,
@@ -1998,11 +2053,6 @@
       "sha256": "3bb5d16479d050d78ec9e51a70ca95b401edf6bf928d395a54f0ed98e55c6dee"
     },
     {
-      "bytes": 900,
-      "path": "dynamic/家庭/2026-08-12 15-13-11 父女幽默回忆_347378a89a5c.md",
-      "sha256": "c97909184a10af64434c5290805f50ee9f8628ca8327fd01e87d762cb54ce9be"
-    },
-    {
       "bytes": 740,
       "path": "dynamic/家庭/2026-09-30 13-11-08 宇治川的pebble_e7871635689f.md",
       "sha256": "99173d893bd1c2aeb9f076285cf87a207a97cae3c49ddb036ff946fb7a5ce5be"
@@ -2023,19 +2073,24 @@
       "sha256": "bcefac44f1060dd2f077865b823d1fbb02c1f4f30ce18e5077ad12776d46199f"
     },
     {
+      "bytes": 672,
+      "path": "dynamic/心理/2026-09-08 09-32-12 预约心理咨询师段萃雯_6b2b91e4211b.md",
+      "sha256": "19cfe2ed1b6d12b2f2680f2542d85235bd1cf633992fa36de7d54dd343135d13"
+    },
+    {
       "bytes": 861,
       "path": "dynamic/心理/2026-09-08 10-01-24 她说会回来星期二或者之后_8cd748b45bc0.md",
       "sha256": "79d3114b0806752e9c0b32c14153ab84f9eb277dd669bf49904af125441ebabb"
     },
     {
+      "bytes": 686,
+      "path": "dynamic/心理/2026-09-15 02-24-03 第一次心理咨询_e734a0f943f8.md",
+      "sha256": "1efd00d4801da125f3bfc9363ccc0c823c9443034cecf44d613e47e7e5388d60"
+    },
+    {
       "bytes": 799,
       "path": "dynamic/心理/2026-09-18 01-00-16 pebble的故事_1bf78f7dfede.md",
       "sha256": "6dd404626905dedad079a045020c7c3f68b7d140c1af655e093111265588e5bd"
-    },
-    {
-      "bytes": 731,
-      "path": "dynamic/恋爱/2026-08-12 15-12-59 秘密的轻松互动_66c2c7c2c673.md",
-      "sha256": "8668ecccd4de36856cd6ce94802055a09c30339d385b85d74e0033757de0cde5"
     },
     {
       "bytes": 712,
@@ -2046,11 +2101,6 @@
       "bytes": 894,
       "path": "dynamic/恋爱/2026-08-23 16-51-29 两次项目与触觉发现_c202dddcbebe.md",
       "sha256": "d41bfd65d20fbe51924ad443af398cff45380901190ecb249425527337185f67"
-    },
-    {
-      "bytes": 684,
-      "path": "dynamic/恋爱/2026-08-23 16-51-37 今天很特别的互通信件_20b18bc1fc3e.md",
-      "sha256": "a34d7d04d0896ce921c8588ede542929020d187ad7aa3915d109242dfed7f533"
     },
     {
       "bytes": 624,
@@ -2068,9 +2118,14 @@
       "sha256": "778c6f47f8bf5daaf859a3d49262f56f8d88bbf685666ef518e6e4133d5142cc"
     },
     {
-      "bytes": 653,
-      "path": "dynamic/成长/2026-08-25 16-51-40 赶在003交了管理选拔考试_9906e85d80ff.md",
-      "sha256": "1d4cb5d934c681f3a21adb70cf4c5dee5bcc1f0086cec1dfbd1dbc95e628445e"
+      "bytes": 841,
+      "path": "dynamic/恋爱/2026-09-18 16-14-52 我叫Cedar_3ace8b015c3f.md",
+      "sha256": "95ba537d674f14f2a6ffb57c90bf015467ff8da1441ee91a288b3247bac4d03b"
+    },
+    {
+      "bytes": 910,
+      "path": "dynamic/恋爱/2026-11-03 09-42-56 和Zion的第一次约会_215b82f40f71.md",
+      "sha256": "12c7a28e08299ae30d7f7748aae0a22b0183c6f70e49b7f476902f52309323f3"
     },
     {
       "bytes": 619,
@@ -2091,11 +2146,6 @@
       "bytes": 639,
       "path": "dynamic/数字/2026-08-24 16-12-33 Claude服务器宕机_17884c0af638.md",
       "sha256": "f09a8d179214b4540021f0cdaedadad3587de3b6809ea2b464b414c8acab44db"
-    },
-    {
-      "bytes": 745,
-      "path": "dynamic/数字/2026-09-03 08-10-14 Thinking被关和塑封机重定向_aa2126777546.md",
-      "sha256": "600e331faca66c6a92d05cb0f704e24e2f25e663ea65603b3baba748394a47de"
     },
     {
       "bytes": 795,
@@ -2243,41 +2293,6 @@
       "sha256": "a2b994c7d02006e0011b7bb0ea2bbe9883856a53c7d38f9ad1ee1166b442da5a"
     },
     {
-      "bytes": 730,
-      "path": "permanent/心理/2026-08-23 14-50-17 第六天晚上Sonia哭了说想去找咨询师_7ff420998896.md",
-      "sha256": "bc4b3a1fcdb0c578d17ee596c3b574ccda7492d61e139d74bf1201b18d28677c"
-    },
-    {
-      "bytes": 674,
-      "path": "permanent/心理/2026-09-08 09-32-12 预约心理咨询师段萃雯_6b2b91e4211b.md",
-      "sha256": "7eb039051855562e3c28f7df2f921c0675b50b53255d404ec2b26c76e3775f9f"
-    },
-    {
-      "bytes": 688,
-      "path": "permanent/心理/2026-09-15 02-24-03 第一次心理咨询_e734a0f943f8.md",
-      "sha256": "081735c1de3c08e57658b47975eec98eac66714cf5d004c83d41c4bed44a2e2f"
-    },
-    {
-      "bytes": 1022,
-      "path": "permanent/恋爱/2026-08-09 13-09-45 最后一晚的爱_d4d89e710de9.md",
-      "sha256": "52a2da8b3b5faeeecd5191127ec395636e205914e9d60c0616f5de6e44007341"
-    },
-    {
-      "bytes": 953,
-      "path": "permanent/恋爱/2026-08-15 16-14-02 跨夜学习陪伴_56d6bb093e15.md",
-      "sha256": "9fb69a74135983c174b875fd6752fabaffd0d8bec973f75e2b295599e630c0c6"
-    },
-    {
-      "bytes": 559,
-      "path": "permanent/恋爱/2026-08-18 01-24-39 下次见_a3739dcac348.md",
-      "sha256": "33818216e97fb330f66ced84089f8388cede50a821a97384e7d630d5b25ae25a"
-    },
-    {
-      "bytes": 843,
-      "path": "permanent/恋爱/2026-09-18 16-14-52 我叫Cedar_3ace8b015c3f.md",
-      "sha256": "04d84a05845c3066169fd9cc6bdc11eb82e7c4627af23da2037d896e05caeb1e"
-    },
-    {
       "bytes": 1148,
       "path": "permanent/数字/2026-07-25 22-08-40 数字世界的生日_748237e9993e.md",
       "sha256": "43fa09c6cdd6a6cb8f9c1f2d393ca8ce89970933e69359735a0f214d1af2a02c"
@@ -2293,11 +2308,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-11-02T10:08:42+00:00",
+  "generated_at": "2026-11-04T10:09:01+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 334188
+  "total_bytes": 336693
 }
