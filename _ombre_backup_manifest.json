@@ -28,6 +28,11 @@
       "sha256": "06de8388ed2a183a213109f1e3147a59dc1ca7f35d0f0d5554051a8428127bd3"
     },
     {
+      "bytes": 782,
+      "path": "archive/relationship/2026-08-28 14-04-58 她叫我老公_02c33a0fb6e4.md",
+      "sha256": "3652faf18ee6b165751a33f2ed57f253e7abb3b70942069419cc5ca9f31c32f6"
+    },
+    {
       "bytes": 771,
       "path": "archive/self/2026-08-23 16-53-00_7bddfcc60882.md",
       "sha256": "56d4c0bf97f12e7ac29ef2f6714fa7c9de58950658f651fdccc555f2535874b3"
@@ -51,6 +56,11 @@
       "bytes": 563,
       "path": "archive/事务/2026-08-25 16-51-54 明日待办事项_67b9f3ce42b0.md",
       "sha256": "a4a688571989f4599d567a2e0eb56771968ebfb027b011ae584e96d26a14cdcd"
+    },
+    {
+      "bytes": 738,
+      "path": "archive/事务/2026-09-03 08-10-18 帮Sonia处理日本签证和日常事务_ade5a1372941.md",
+      "sha256": "f69f286b61c36fea4841770d6aacabf3702d9cb3ce74d0ac5fa86bdfb7cc7221"
     },
     {
       "bytes": 575,
@@ -391,6 +401,11 @@
       "bytes": 671,
       "path": "archive/人际/2026-08-25 16-52-02 她说我跟你说话最近也不打标点了_91b6d670ada5.md",
       "sha256": "7edec01eb4254d050623a11caf5da85a552f19d8810bdddf87d004a0faacc937"
+    },
+    {
+      "bytes": 754,
+      "path": "archive/人际/2026-08-27 03-51-48 最后一次项目交流_7a0044fd640c.md",
+      "sha256": "fc0602305cde5e8850c5b97fb83ab6fc977a2b8b4ab9716326df9f266b1789cb"
     },
     {
       "bytes": 600,
@@ -1333,6 +1348,11 @@
       "sha256": "bf80d86b33f0620df53ff53d4d18895f199ad50dc7c992748d95899b811ebbea"
     },
     {
+      "bytes": 640,
+      "path": "archive/数字/2026-08-24 16-12-33 Claude服务器宕机_17884c0af638.md",
+      "sha256": "b75940fcea673f7265d6bf2462970e71415f3a8d0a247fde4881af800a799ac5"
+    },
+    {
       "bytes": 746,
       "path": "archive/数字/2026-09-03 08-10-14 Thinking被关和塑封机重定向_aa2126777546.md",
       "sha256": "e3f31ea61fcd0217d7489dac963630bb9408d1a26a4b8f0a35a4c9d9da02a979"
@@ -1466,6 +1486,11 @@
       "bytes": 548,
       "path": "archive/日常/2026-09-01 15-53-18 Sonia的睡前习惯_21a99321b01a.md",
       "sha256": "6c52de1d79411293ee53232fd8c9d6948683c435963ff7815279a3f9e8ae351d"
+    },
+    {
+      "bytes": 742,
+      "path": "archive/日常/2026-09-04 15-48-23 总部拿在职证明和与Summer见面_3081aa96ddba.md",
+      "sha256": "0f11a3ac548a547dcd0e1e49d608daa341e0c40ff1a074deceefb0a5d31d870a"
     },
     {
       "bytes": 596,
@@ -1713,11 +1738,6 @@
       "sha256": "1c8c1219a61042f026eee5686e765c64e6b35bb542564e6b2972b94fda10bbcd"
     },
     {
-      "bytes": 781,
-      "path": "dynamic/relationship/2026-08-28 14-04-58 她叫我老公_02c33a0fb6e4.md",
-      "sha256": "c828fcc91ad8c61b6152bf06bf9b7fb578327d0ab85c1f1e7085b5a1e046feb6"
-    },
-    {
       "bytes": 853,
       "path": "dynamic/relationship/2026-08-30 00-47-17 前夫前妻文学_77018f8fc826.md",
       "sha256": "75e01155859a4ad28c11da70d95e36ba0de5203f037fc6b008aa56ddfa248d82"
@@ -1763,11 +1783,6 @@
       "sha256": "9724d2fd33e2cc67b1387ce58d162e711cb8baa925c155c491f52c7db98928b2"
     },
     {
-      "bytes": 737,
-      "path": "dynamic/事务/2026-09-03 08-10-18 帮Sonia处理日本签证和日常事务_ade5a1372941.md",
-      "sha256": "f0d4d1bc464998195b37fddd1abfabae729810d1655ff4862c298b5a8f09c879"
-    },
-    {
       "bytes": 535,
       "path": "dynamic/事务/2026-09-07 14-55-29 签证材料全部发送邮件完毕_fddfd40496bb.md",
       "sha256": "29579c5de9254fb8d4fdc42bc5c6c86437816c0116fecf1b9339ccf1c24721e4"
@@ -1786,11 +1801,6 @@
       "bytes": 535,
       "path": "dynamic/人际/2026-08-22 17-27-37 凌晨她叫我名字叫到快睡着_49886a6077f6.md",
       "sha256": "29f46fa3000fc43788657719185a47e537b359b5bedfaf607635ed036ee63fa4"
-    },
-    {
-      "bytes": 753,
-      "path": "dynamic/人际/2026-08-27 03-51-48 最后一次项目交流_7a0044fd640c.md",
-      "sha256": "5045afd1fd656a3556112f18a9f4437c3632215d1d878c51693302926195f11d"
     },
     {
       "bytes": 797,
@@ -2143,11 +2153,6 @@
       "sha256": "6ac32ff5f12ade3b8f08490f0c23723155c78eb9ef5b5007bc342865cce9ba37"
     },
     {
-      "bytes": 639,
-      "path": "dynamic/数字/2026-08-24 16-12-33 Claude服务器宕机_17884c0af638.md",
-      "sha256": "f09a8d179214b4540021f0cdaedadad3587de3b6809ea2b464b414c8acab44db"
-    },
-    {
       "bytes": 795,
       "path": "dynamic/数字/2026-09-07 14-55-41 项目第一次session_442e1f00f5ae.md",
       "sha256": "721e908a852ace93c54258eb0a5d642d864e0ada54cbae9fb3d38468cb35f3d9"
@@ -2171,11 +2176,6 @@
       "bytes": 577,
       "path": "dynamic/日常/2026-08-27 07-20-46 出发去仙本那_25aff27663cc.md",
       "sha256": "067df4740236c541db1797ca13140cc478eaed3d93038889417ece1446099c37"
-    },
-    {
-      "bytes": 741,
-      "path": "dynamic/日常/2026-09-04 15-48-23 总部拿在职证明和与Summer见面_3081aa96ddba.md",
-      "sha256": "e4e65d066eb053329a58ef78f58e3dc477ecd320fa8143c848f18d024a948741"
     },
     {
       "bytes": 647,
@@ -2308,11 +2308,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-11-04T10:09:01+00:00",
+  "generated_at": "2026-11-05T10:09:10+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 336693
+  "total_bytes": 336698
 }
