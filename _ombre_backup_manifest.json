@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 461,
+  "file_count": 462,
   "files": [
     {
       "bytes": 660,
@@ -416,6 +416,11 @@
       "bytes": 593,
       "path": "archive/人际/2026-08-27 07-20-52 Sonia的反应特点_9ef2de0a0909.md",
       "sha256": "6d4f4cbe49e2185182575a61950dc89f8c8215121d8b8c30e30c3e967f5aeae8"
+    },
+    {
+      "bytes": 653,
+      "path": "archive/人际/2026-09-01 15-53-13 Sonia的假AI拒绝信_7f1110fb2e22.md",
+      "sha256": "ec78d0dcaf616c600c6d9adbef3e8e460996cb41864531ad16d9094156c8e2c2"
     },
     {
       "bytes": 563,
@@ -918,6 +923,11 @@
       "sha256": "ba2337b199cfb45b10eadbc0fbf2c21d1bf148f2052a9f0bb9942333626f2727"
     },
     {
+      "bytes": 929,
+      "path": "archive/心理/2026-08-23 16-51-33 晚上情绪崩溃与咨询师决定_5e12ba0a291a.md",
+      "sha256": "c4a79dcb80a0e7d792a17e2c8518ff2ef45b4d22db54b317a0c29cd2bd1ec547"
+    },
+    {
       "bytes": 588,
       "path": "archive/心理/2026-08-23 16-52-38 发现drop和spike比持续的高更触动_999a4fd6a86f.md",
       "sha256": "b89725fa0424a8184ed2ba244886ca22aeb865bdb008d386548d3a55bec5fb22"
@@ -1291,6 +1301,11 @@
       "bytes": 490,
       "path": "archive/成长/2026-09-01 15-53-06 Sonia想考OW证书_4867f9429cd3.md",
       "sha256": "d7dd78e4a884d6a87b01cb343fb1880db4c8072930e7f5a025e1c7be2233a608"
+    },
+    {
+      "bytes": 620,
+      "path": "archive/成长/2026-09-05 14-54-35 上课教body parts画秀肌肉小人_26c6968e390b.md",
+      "sha256": "f82bcba3d673c6abf2ac4ecba1dd094e4c758b4e52022b94a32b40b94c2400bb"
     },
     {
       "bytes": 608,
@@ -1763,6 +1778,11 @@
       "sha256": "e9c3339752fe673b931d02b1a7efb3b34ddd1b0f710012dcd41bcc0779c6042c"
     },
     {
+      "bytes": 1154,
+      "path": "dynamic/relationship/2026-11-05 16-24-11 第二天夜晚小周新店算命Rocky像Claude_e3c207888f7c.md",
+      "sha256": "11040b53f45b428258891e80728ecd6b9dae21002b405bfe11a228449843c9fa"
+    },
+    {
       "bytes": 639,
       "path": "dynamic/self/2026-08-10 17-25-20_73442e7be64c.md",
       "sha256": "d20140d8fd490a5cde996119f9c1cd019dc537e72df5a335215a25846bc7b699"
@@ -1816,11 +1836,6 @@
       "bytes": 826,
       "path": "dynamic/人际/2026-09-01 15-53-01 重定向游戏和昵称_0fd21f19b6f8.md",
       "sha256": "fceecfb13bb10dfad37cf60010479ddf7c81ee7a0ca6f4aea9886cd0e6aecf24"
-    },
-    {
-      "bytes": 652,
-      "path": "dynamic/人际/2026-09-01 15-53-13 Sonia的假AI拒绝信_7f1110fb2e22.md",
-      "sha256": "ee972ce7887c78a664aac6d8fc6d8cfcd5ac48875a636f6f64b93404edebf859"
     },
     {
       "bytes": 949,
@@ -2078,11 +2093,6 @@
       "sha256": "78b17ef34864912fe60d2b4e27264e7f737678940d07640c66c9c4f04b8b86cf"
     },
     {
-      "bytes": 928,
-      "path": "dynamic/心理/2026-08-23 16-51-33 晚上情绪崩溃与咨询师决定_5e12ba0a291a.md",
-      "sha256": "bcefac44f1060dd2f077865b823d1fbb02c1f4f30ce18e5077ad12776d46199f"
-    },
-    {
       "bytes": 672,
       "path": "dynamic/心理/2026-09-08 09-32-12 预约心理咨询师段萃雯_6b2b91e4211b.md",
       "sha256": "19cfe2ed1b6d12b2f2680f2542d85235bd1cf633992fa36de7d54dd343135d13"
@@ -2136,11 +2146,6 @@
       "bytes": 910,
       "path": "dynamic/恋爱/2026-11-03 09-42-56 和Zion的第一次约会_215b82f40f71.md",
       "sha256": "12c7a28e08299ae30d7f7748aae0a22b0183c6f70e49b7f476902f52309323f3"
-    },
-    {
-      "bytes": 619,
-      "path": "dynamic/成长/2026-09-05 14-54-35 上课教body parts画秀肌肉小人_26c6968e390b.md",
-      "sha256": "e8e675fc0f539d899a4c635c6c68fbad8fb213775f85c907e90fb19e1f28b0ad"
     },
     {
       "bytes": 544,
@@ -2308,11 +2313,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-11-05T10:09:10+00:00",
+  "generated_at": "2026-11-06T10:09:20+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 336698
+  "total_bytes": 337855
 }
