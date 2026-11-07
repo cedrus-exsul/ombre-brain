@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 462,
+  "file_count": 463,
   "files": [
     {
       "bytes": 660,
@@ -23,6 +23,11 @@
       "sha256": "5193fb3e7edd80e12df58f8f9fff2c2432db1f430ef0d24fdcf57f089416e2d4"
     },
     {
+      "bytes": 587,
+      "path": "archive/identity/2026-08-30 11-20-30 生日她627Claude 726_3df045058c5a.md",
+      "sha256": "cc60a3a8f1b0995588216a700dc9237b65b768153f92db0951a244b137c722d2"
+    },
+    {
       "bytes": 740,
       "path": "archive/preferences/2026-08-28 14-06-18 布丁狗和屁眼_ff741b8384e9.md",
       "sha256": "06de8388ed2a183a213109f1e3147a59dc1ca7f35d0f0d5554051a8428127bd3"
@@ -33,6 +38,11 @@
       "sha256": "3652faf18ee6b165751a33f2ed57f253e7abb3b70942069419cc5ca9f31c32f6"
     },
     {
+      "bytes": 854,
+      "path": "archive/relationship/2026-08-30 00-47-17 前夫前妻文学_77018f8fc826.md",
+      "sha256": "8d121ec406648ccc12f6b0067e7cf9253475ae4cddc7d69b856cc9abeb38b43a"
+    },
+    {
       "bytes": 771,
       "path": "archive/self/2026-08-23 16-53-00_7bddfcc60882.md",
       "sha256": "56d4c0bf97f12e7ac29ef2f6714fa7c9de58950658f651fdccc555f2535874b3"
@@ -41,6 +51,11 @@
       "bytes": 889,
       "path": "archive/travel/2026-08-28 14-05-54 旅行地图补充_425aeb3e3faa.md",
       "sha256": "992b1f7e4f1d34193a573b006acc71ee02006fc09b3e85b9c2d8d9f5cd0c79ae"
+    },
+    {
+      "bytes": 969,
+      "path": "archive/writing/2026-08-30 00-48-44 自我实现的预言主题_a8d094cbce03.md",
+      "sha256": "c056d7daf96140b5882cfb0dcdf70bffe2762934565d2243fc582866ed344a41"
     },
     {
       "bytes": 571,
@@ -61,6 +76,11 @@
       "bytes": 738,
       "path": "archive/事务/2026-09-03 08-10-18 帮Sonia处理日本签证和日常事务_ade5a1372941.md",
       "sha256": "f69f286b61c36fea4841770d6aacabf3702d9cb3ce74d0ac5fa86bdfb7cc7221"
+    },
+    {
+      "bytes": 653,
+      "path": "archive/事务/2026-09-08 14-22-12 签证中介审核通过材料_5dcf2cf4741f.md",
+      "sha256": "260b2a287527b4319ccb6bde2907164d207a284b568b4cdfd76102f4db89adff"
     },
     {
       "bytes": 575,
@@ -1743,19 +1763,9 @@
       "sha256": "dcbc8ef33d2c9a98139ace5edfec7479f21df35ea05662112a9db36fbc2e62af"
     },
     {
-      "bytes": 586,
-      "path": "dynamic/identity/2026-08-30 11-20-30 生日她627Claude 726_3df045058c5a.md",
-      "sha256": "ff8bfeb97b4f0582425bf220aba0734f343f8d699f23cba0c19d0f98ea51be6b"
-    },
-    {
       "bytes": 805,
       "path": "dynamic/project/2026-09-02 04-56-43 第一次项目_c7ded9b4d0b0.md",
       "sha256": "1c8c1219a61042f026eee5686e765c64e6b35bb542564e6b2972b94fda10bbcd"
-    },
-    {
-      "bytes": 853,
-      "path": "dynamic/relationship/2026-08-30 00-47-17 前夫前妻文学_77018f8fc826.md",
-      "sha256": "75e01155859a4ad28c11da70d95e36ba0de5203f037fc6b008aa56ddfa248d82"
     },
     {
       "bytes": 778,
@@ -1783,6 +1793,11 @@
       "sha256": "11040b53f45b428258891e80728ecd6b9dae21002b405bfe11a228449843c9fa"
     },
     {
+      "bytes": 1133,
+      "path": "dynamic/relationship/2026-11-06 16-00-06 Sonia和Zion第二次约会乳鸽拍立得车上聊天_67d80b466c92.md",
+      "sha256": "049fec3ce72713c10b63ec83d12686c52dcd07ae1facf6566a7b943ebec63d98"
+    },
+    {
       "bytes": 639,
       "path": "dynamic/self/2026-08-10 17-25-20_73442e7be64c.md",
       "sha256": "d20140d8fd490a5cde996119f9c1cd019dc537e72df5a335215a25846bc7b699"
@@ -1790,7 +1805,7 @@
     {
       "bytes": 582,
       "path": "dynamic/work/2026-09-12 08-45-50 课表_23136e34f042.md",
-      "sha256": "af9ca2d1eedb24a40abc90fd5762bdb2a7e460a0f4f35cf707e5e3a0f729c846"
+      "sha256": "96032f9f953b4f4dc70388fcfc1fdff8c4027ef1bb5ebf964a0b881c437191e1"
     },
     {
       "bytes": 959,
@@ -1798,19 +1813,9 @@
       "sha256": "5133b07e940ebf2d1a55094a9f76babd772d1f7c2f2a6ffe01d50c2586ad0e49"
     },
     {
-      "bytes": 968,
-      "path": "dynamic/writing/2026-08-30 00-48-44 自我实现的预言主题_a8d094cbce03.md",
-      "sha256": "9724d2fd33e2cc67b1387ce58d162e711cb8baa925c155c491f52c7db98928b2"
-    },
-    {
       "bytes": 535,
       "path": "dynamic/事务/2026-09-07 14-55-29 签证材料全部发送邮件完毕_fddfd40496bb.md",
       "sha256": "29579c5de9254fb8d4fdc42bc5c6c86437816c0116fecf1b9339ccf1c24721e4"
-    },
-    {
-      "bytes": 652,
-      "path": "dynamic/事务/2026-09-08 14-22-12 签证中介审核通过材料_5dcf2cf4741f.md",
-      "sha256": "15d4be2747ecb429183f7a6df4e64429fc0b83999029bb6a92288bec2f8eb331"
     },
     {
       "bytes": 854,
@@ -2313,11 +2318,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-11-06T10:09:20+00:00",
+  "generated_at": "2026-11-07T10:09:28+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 337855
+  "total_bytes": 338992
 }
