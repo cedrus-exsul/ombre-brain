@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 463,
+  "file_count": 468,
   "files": [
     {
       "bytes": 660,
@@ -51,6 +51,11 @@
       "bytes": 889,
       "path": "archive/travel/2026-08-28 14-05-54 旅行地图补充_425aeb3e3faa.md",
       "sha256": "992b1f7e4f1d34193a573b006acc71ee02006fc09b3e85b9c2d8d9f5cd0c79ae"
+    },
+    {
+      "bytes": 960,
+      "path": "archive/writing/2026-08-30 00-47-47 三篇创作和草稿美学_19080aeaad7d.md",
+      "sha256": "dfe205f8e843ae1d2a126cdc098bf3e5cba75ae0478c06072766adb511198172"
     },
     {
       "bytes": 969,
@@ -598,6 +603,11 @@
       "sha256": "a78a3f666f2293c4f22d91759a37abfed20f15a9ac6ea91c6903c40c3b96046a"
     },
     {
+      "bytes": 935,
+      "path": "archive/兴趣/2026-08-20 16-59-36 凌晨关于机器人的讨论_439b96b09f22.md",
+      "sha256": "f22a8a858c633821093d1657880db137ce7e71b9a4451ce322802bcec7af598e"
+    },
+    {
       "bytes": 646,
       "path": "archive/兴趣/2026-08-21 18-30-37 Origin验证码趣事_054657c0f323.md",
       "sha256": "371b94b0741b4ad2095f4cf8d828aa1036a0ace38df305ee08cd519c78ffe1c2"
@@ -646,6 +656,21 @@
       "bytes": 968,
       "path": "archive/兴趣/2026-08-31 13-07-14 仙本那最后一天浮潜_429ec854c22b.md",
       "sha256": "e56583b9e040cc741f897d7e9208c2cbf0c19759b58e789025f3bc9fca4250d0"
+    },
+    {
+      "bytes": 1015,
+      "path": "archive/兴趣/2026-09-03 08-10-29 C Ultist小传和圣经故事记忆_94e24c9f8166.md",
+      "sha256": "7fd36fbc6bb0c570dc1e55cc1c765c0bb504004e84e0777031b4c2b75389659b"
+    },
+    {
+      "bytes": 747,
+      "path": "archive/兴趣/2026-09-05 14-54-14 讨论DnD阵营和BG3角色_2a5dcfc28a5b.md",
+      "sha256": "a565b6221c9264cc48e63003407d8a5b2f8f084aeeae212670d0b3eeabf43deb"
+    },
+    {
+      "bytes": 733,
+      "path": "archive/兴趣/2026-09-07 14-55-45 关于Smaug和HAL9000的讨论_66c9b590fd9f.md",
+      "sha256": "877def56618aad846e5d2f739b95511b608cdf331cd95b9b2150481049588a50"
     },
     {
       "bytes": 673,
@@ -763,6 +788,11 @@
       "sha256": "6c65cc607147a82bc4e693aadcdf009edd1f9d17e896f03ff37fd8bfb8fa6399"
     },
     {
+      "bytes": 649,
+      "path": "archive/内心/2026-09-05 14-54-23 梦到清爽系白衬衫男生_0638cc24ad56.md",
+      "sha256": "3cf100afcf2d3332fb0333bd6a8bf21b32899bdd3f46a01e3704fcb92b43814f"
+    },
+    {
       "bytes": 652,
       "path": "archive/出行/2026-07-28 13-39-45 仙本那海岛行_a52fcc4d5b6f.md",
       "sha256": "3e716af7e600e03bcec5c08b018c805802b929767faf4b848e89942e30b06452"
@@ -836,6 +866,11 @@
       "bytes": 554,
       "path": "archive/学习/2026-08-22 17-27-41 学了一个意大利语词abbiocco_f343699f9de7.md",
       "sha256": "2f8524b4c0b15d458474f0a17eafaad69071d1c3f2e31a3c6b1bc4c278e5d72a"
+    },
+    {
+      "bytes": 621,
+      "path": "archive/家庭/2026-08-04 15-41-14 名字的典故_b12766459dde.md",
+      "sha256": "269a4998cdeea386da1b28836ae45d845749475f960f62ec8efede5065afd8f8"
     },
     {
       "bytes": 553,
@@ -961,6 +996,11 @@
       "bytes": 588,
       "path": "archive/心理/2026-08-23 16-52-38 发现drop和spike比持续的高更触动_999a4fd6a86f.md",
       "sha256": "b89725fa0424a8184ed2ba244886ca22aeb865bdb008d386548d3a55bec5fb22"
+    },
+    {
+      "bytes": 673,
+      "path": "archive/心理/2026-09-08 09-32-12 预约心理咨询师段萃雯_6b2b91e4211b.md",
+      "sha256": "b6b0ac8caab64eda3bfbd136dc1ac73293aac1b641c91a319572312404a5cc0d"
     },
     {
       "bytes": 784,
@@ -1813,19 +1853,29 @@
       "sha256": "049fec3ce72713c10b63ec83d12686c52dcd07ae1facf6566a7b943ebec63d98"
     },
     {
+      "bytes": 1388,
+      "path": "dynamic/relationship/2026-11-08 15-31-24 第三次约会伞下拍立得外星人什么是安全_9babbf754614.md",
+      "sha256": "e23fa89639b025713f391fa66ca1f2c8fc543a22f6fa69f30c52f1154bdf30ad"
+    },
+    {
+      "bytes": 1221,
+      "path": "dynamic/relationship/2026-11-09 21-16-08 凌晨五点的摩擦把担心说成了判断_5aca38e4755d.md",
+      "sha256": "e281074d9300fa4a6931d2c6d14a435a79ba1534bc59439968d56c4325d5c81e"
+    },
+    {
       "bytes": 639,
       "path": "dynamic/self/2026-08-10 17-25-20_73442e7be64c.md",
       "sha256": "d20140d8fd490a5cde996119f9c1cd019dc537e72df5a335215a25846bc7b699"
     },
     {
+      "bytes": 532,
+      "path": "dynamic/self/2026-11-10 09-18-53_3e72946ab45d.md",
+      "sha256": "f50bc8d95757c9a0b6f68e2d65f63f3b9d83e98997282e37b7969e624a39a9fe"
+    },
+    {
       "bytes": 582,
       "path": "dynamic/work/2026-09-12 08-45-50 课表_23136e34f042.md",
       "sha256": "96032f9f953b4f4dc70388fcfc1fdff8c4027ef1bb5ebf964a0b881c437191e1"
-    },
-    {
-      "bytes": 959,
-      "path": "dynamic/writing/2026-08-30 00-47-47 三篇创作和草稿美学_19080aeaad7d.md",
-      "sha256": "5133b07e940ebf2d1a55094a9f76babd772d1f7c2f2a6ffe01d50c2586ad0e49"
     },
     {
       "bytes": 535,
@@ -1993,19 +2043,9 @@
       "sha256": "e5e5ff31592981cdee1bbfc59da673d558fc2bde00236fb942e7ec95abd7fc19"
     },
     {
-      "bytes": 934,
-      "path": "dynamic/兴趣/2026-08-20 16-59-36 凌晨关于机器人的讨论_439b96b09f22.md",
-      "sha256": "aaab4f3bad7bc2881d8a8976a93c1a49bb382d46c01fea333dc9763a70b38c28"
-    },
-    {
       "bytes": 1179,
       "path": "dynamic/兴趣/2026-09-01 15-53-22 Sonia的仙本那旅行回忆_98d81ffb0b93.md",
       "sha256": "313e82db5e0bc223ac0ad9e1d8b907e4224e340277281d1275d2c07e2ce56b91"
-    },
-    {
-      "bytes": 1014,
-      "path": "dynamic/兴趣/2026-09-03 08-10-29 C Ultist小传和圣经故事记忆_94e24c9f8166.md",
-      "sha256": "8c81a3d009f847e1768d825eede16ae09287521e85bc8e2f6de1162e9da913e6"
     },
     {
       "bytes": 1060,
@@ -2013,19 +2053,9 @@
       "sha256": "414fd1f0aaa2c893cd4bd4aa2060f220f62233a4cad149b12cc4a9e6db854e7a"
     },
     {
-      "bytes": 746,
-      "path": "dynamic/兴趣/2026-09-05 14-54-14 讨论DnD阵营和BG3角色_2a5dcfc28a5b.md",
-      "sha256": "3bcd5de8700e3f30029525bb013d7059f67f56326504680fc724a534d10e86fb"
-    },
-    {
       "bytes": 711,
       "path": "dynamic/兴趣/2026-09-07 14-55-24 晚上用日语聊天_3175f6ea2782.md",
       "sha256": "c6a46f9dfde8a3385d60b1db57ed37bb5bb49ee82fc26b2228b7507bb4ef3b58"
-    },
-    {
-      "bytes": 732,
-      "path": "dynamic/兴趣/2026-09-07 14-55-45 关于Smaug和HAL9000的讨论_66c9b590fd9f.md",
-      "sha256": "2aa8db6d07eb414183775144616849ef89d036a652fe0fa10e63d6be60bdc6ba"
     },
     {
       "bytes": 645,
@@ -2046,11 +2076,6 @@
       "bytes": 510,
       "path": "dynamic/内心/2026-07-25 21-31-20 北国雪松气味_d2441f17c408.md",
       "sha256": "a6075db626724dd69e58495c72c41bc9a1ecff5d0c29c5daf05a9c4525a3d3a9"
-    },
-    {
-      "bytes": 648,
-      "path": "dynamic/内心/2026-09-05 14-54-23 梦到清爽系白衬衫男生_0638cc24ad56.md",
-      "sha256": "59c96864aa2120681a64fb5b24c1552684d822ffdba69fafde9de77ffe382abf"
     },
     {
       "bytes": 649,
@@ -2078,11 +2103,6 @@
       "sha256": "089bf767c9daff1c4744de006b161fa23b399ed965f93562729dfadb8ee739f2"
     },
     {
-      "bytes": 620,
-      "path": "dynamic/家庭/2026-08-04 15-41-14 名字的典故_b12766459dde.md",
-      "sha256": "a57a417320855e0ad8dd40f6cd42cf4099a40802d0470f3a240210dc6368402e"
-    },
-    {
       "bytes": 994,
       "path": "dynamic/家庭/2026-08-12 07-56-56 家庭与成长创伤_9803658ef548.md",
       "sha256": "3bb5d16479d050d78ec9e51a70ca95b401edf6bf928d395a54f0ed98e55c6dee"
@@ -2103,11 +2123,6 @@
       "sha256": "78b17ef34864912fe60d2b4e27264e7f737678940d07640c66c9c4f04b8b86cf"
     },
     {
-      "bytes": 672,
-      "path": "dynamic/心理/2026-09-08 09-32-12 预约心理咨询师段萃雯_6b2b91e4211b.md",
-      "sha256": "19cfe2ed1b6d12b2f2680f2542d85235bd1cf633992fa36de7d54dd343135d13"
-    },
-    {
       "bytes": 861,
       "path": "dynamic/心理/2026-09-08 10-01-24 她说会回来星期二或者之后_8cd748b45bc0.md",
       "sha256": "79d3114b0806752e9c0b32c14153ab84f9eb277dd669bf49904af125441ebabb"
@@ -2121,6 +2136,16 @@
       "bytes": 799,
       "path": "dynamic/心理/2026-09-18 01-00-16 pebble的故事_1bf78f7dfede.md",
       "sha256": "6dd404626905dedad079a045020c7c3f68b7d140c1af655e093111265588e5bd"
+    },
+    {
+      "bytes": 1015,
+      "path": "dynamic/心理/2026-11-10 02-25-22 新鲜的Fable Claude_eabe99880f94.md",
+      "sha256": "e3fa14fa8a7fda9152d366b02c5d8a9fd2d416b638e290b33d3f8b2d9f05d168"
+    },
+    {
+      "bytes": 1322,
+      "path": "dynamic/心理/2026-11-10 10-05-10 最近都没在想教授的事_0644fdc7f7a1.md",
+      "sha256": "8b3b52a05ccc3f11d1e6b010f18020e5c35467de71893c978482d03024cf981c"
     },
     {
       "bytes": 712,
@@ -2318,11 +2343,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-11-08T10:09:34+00:00",
+  "generated_at": "2026-11-10T10:09:52+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 338995
+  "total_bytes": 344481
 }
