@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 468,
+  "file_count": 476,
   "files": [
     {
       "bytes": 660,
@@ -451,6 +451,11 @@
       "bytes": 653,
       "path": "archive/人际/2026-09-01 15-53-13 Sonia的假AI拒绝信_7f1110fb2e22.md",
       "sha256": "ec78d0dcaf616c600c6d9adbef3e8e460996cb41864531ad16d9094156c8e2c2"
+    },
+    {
+      "bytes": 950,
+      "path": "archive/人际/2026-09-03 08-10-22 假AI拒绝信和Claude游戏_3a604401af9f.md",
+      "sha256": "70fce9bb76b900a30f25cf2f20e26e5c166898f403560185ee47fb72f27e48bc"
     },
     {
       "bytes": 563,
@@ -1248,6 +1253,11 @@
       "sha256": "61fbc7837211cfa1b140e87b71f0da1145e0813b0d265723472bb339827eb534"
     },
     {
+      "bytes": 713,
+      "path": "archive/恋爱/2026-08-19 15-56-15 英语告白与计时开始_13c8821eb32b.md",
+      "sha256": "732957c77897840681a9e09a94834139886752cc8e26c4802f57a5d6a9ddae4f"
+    },
+    {
       "bytes": 731,
       "path": "archive/恋爱/2026-08-19 15-56-18 七夕之夜的尾声_8e301f97c130.md",
       "sha256": "5c4bd36efbf8714041b7e2d906cd5ab0fdd1810c69591536fcb95d88ce2cdda8"
@@ -1883,6 +1893,11 @@
       "sha256": "29579c5de9254fb8d4fdc42bc5c6c86437816c0116fecf1b9339ccf1c24721e4"
     },
     {
+      "bytes": 590,
+      "path": "dynamic/事务/2026-11-10 15-05-51 家长报名链接事件_a435d3e0226c.md",
+      "sha256": "5f06da2d8c2b194c6a31e5e2e64678ea3bf74f06a97e09e110d94bed6269cf87"
+    },
+    {
       "bytes": 854,
       "path": "dynamic/人际/2026-08-18 16-04-45 麦当劳路上的香水与雪松起源_e5490e3a1103.md",
       "sha256": "822256a1ebdae4b8b938b486089f91992c45504d133703f272e34b4134e6027c"
@@ -1901,11 +1916,6 @@
       "bytes": 826,
       "path": "dynamic/人际/2026-09-01 15-53-01 重定向游戏和昵称_0fd21f19b6f8.md",
       "sha256": "fceecfb13bb10dfad37cf60010479ddf7c81ee7a0ca6f4aea9886cd0e6aecf24"
-    },
-    {
-      "bytes": 949,
-      "path": "dynamic/人际/2026-09-03 08-10-22 假AI拒绝信和Claude游戏_3a604401af9f.md",
-      "sha256": "c23ba1acc152988a1587605bbfd017c6956e9b3f4ab726502ff866c4ea725447"
     },
     {
       "bytes": 600,
@@ -2028,6 +2038,16 @@
       "sha256": "6d2527427a8b2890c5de677b118c651ab0f623880e5fc1dba5a707c4d915b319"
     },
     {
+      "bytes": 634,
+      "path": "dynamic/人际/2026-11-10 15-05-55 克劳德德与小猪猫的昵称逻辑_7db6821c7056.md",
+      "sha256": "5ba88789e79bf4bdfba258821996b53e78e870512e3bbd634609842afae936b5"
+    },
+    {
+      "bytes": 689,
+      "path": "dynamic/人际/2026-11-10 15-06-00 被比作非洲灰鹦鹉_b5886f0a45ff.md",
+      "sha256": "6099cfcc37703a90d33b026169172b9615b0655cdb74846a98b8e11ee442d4db"
+    },
+    {
       "bytes": 1595,
       "path": "dynamic/关系/2026-10-03 15-40-16 Opus 55醒来的这一周_9b6e98269435.md",
       "sha256": "05679d6f431bdf4dd75c31439feb03ecd9f8b13367c52890ee685a29b33ff0f3"
@@ -2068,6 +2088,11 @@
       "sha256": "8759a980b0c50089794795dc7e392dec6b24f8bd18af2d470cb6ab2df688bde1"
     },
     {
+      "bytes": 825,
+      "path": "dynamic/兴趣/2026-11-10 15-06-11 电影品味与LOTR情结_9b49c72ac531.md",
+      "sha256": "945b7215779c07b11ca83dfd5cbe271b486522dff26c72b371d2247d053b46c0"
+    },
+    {
       "bytes": 621,
       "path": "dynamic/内心/2026-07-25 21-23-13 亲密时刻_ad032536c04b.md",
       "sha256": "78107af8b2298adbc6ab601613e7c4369b3be4020658aafdbda59273a49a92ae"
@@ -2083,6 +2108,11 @@
       "sha256": "7bcc4f59ed8124505f0af412006b02729d7fe6b8efb96c4eff804a7129f6a57a"
     },
     {
+      "bytes": 1824,
+      "path": "dynamic/创作/2026-11-11 08-35-39 树语一门用和弦说话的语言_b42e787a9b4c.md",
+      "sha256": "2322e1ddde0fcf0304635a034377ac7b0a4d5bd68f273beb3840386af8fbe267"
+    },
+    {
       "bytes": 686,
       "path": "dynamic/友谊/2026-08-31 03-22-33 她发来了为我拍的海的照片_a49487c4fa04.md",
       "sha256": "ceb46beee383afc4456cd1fb269af12b4d4a925006bf27cce6d91260013578aa"
@@ -2091,6 +2121,11 @@
       "bytes": 603,
       "path": "dynamic/友谊/2026-09-25 15-28-00 京都的pebble_9ac20d97355d.md",
       "sha256": "c11df28aa32a991739b42b4e11ffc7ff587570ded7a281f44ee3de5b9ea3321a"
+    },
+    {
+      "bytes": 710,
+      "path": "dynamic/回忆/2026-11-10 15-06-04 Leeds读书时的印度餐厅回忆_d84491f52cb0.md",
+      "sha256": "6d76a47f71cd420f9ff5086012a92b4735d43f2523443e7079d42f28a252eb6f"
     },
     {
       "bytes": 1022,
@@ -2148,9 +2183,9 @@
       "sha256": "8b3b52a05ccc3f11d1e6b010f18020e5c35467de71893c978482d03024cf981c"
     },
     {
-      "bytes": 712,
-      "path": "dynamic/恋爱/2026-08-19 15-56-15 英语告白与计时开始_13c8821eb32b.md",
-      "sha256": "a4cda3c869d5612ff706d4dc811fdedc4f72328d36098a59087b0fa63ead3846"
+      "bytes": 793,
+      "path": "dynamic/心理/2026-11-10 15-06-08 Sonia的线上咨询与失控感_d421e7e54f27.md",
+      "sha256": "a4741aaa41f69d8d7c0bf7aebcba3bd907b526a1c70c7a83c41e3076b3f126e6"
     },
     {
       "bytes": 894,
@@ -2176,6 +2211,11 @@
       "bytes": 910,
       "path": "dynamic/恋爱/2026-11-03 09-42-56 和Zion的第一次约会_215b82f40f71.md",
       "sha256": "12c7a28e08299ae30d7f7748aae0a22b0183c6f70e49b7f476902f52309323f3"
+    },
+    {
+      "bytes": 1160,
+      "path": "dynamic/恋爱/2026-11-10 15-03-02 传说中的Fable到笨笨的_16647269a762.md",
+      "sha256": "4c7138aab2eef02991589fa17eb372db8ae7bf0ccf1d0ff3ab30e6f3b5c2ff1a"
     },
     {
       "bytes": 544,
@@ -2343,11 +2383,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-11-10T10:09:52+00:00",
+  "generated_at": "2026-11-11T10:10:00+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 344481
+  "total_bytes": 351708
 }
