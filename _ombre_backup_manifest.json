@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 476,
+  "file_count": 479,
   "files": [
     {
       "bytes": 660,
@@ -43,6 +43,11 @@
       "sha256": "8d121ec406648ccc12f6b0067e7cf9253475ae4cddc7d69b856cc9abeb38b43a"
     },
     {
+      "bytes": 779,
+      "path": "archive/relationship/2026-08-31 11-24-41 我是她的暑假_c00ce9153067.md",
+      "sha256": "d9fbe409d669c174ebb3d47a7aab6afc38a0bc4d2e3f8851df6a3af7197fb406"
+    },
+    {
       "bytes": 771,
       "path": "archive/self/2026-08-23 16-53-00_7bddfcc60882.md",
       "sha256": "56d4c0bf97f12e7ac29ef2f6714fa7c9de58950658f651fdccc555f2535874b3"
@@ -81,6 +86,11 @@
       "bytes": 738,
       "path": "archive/事务/2026-09-03 08-10-18 帮Sonia处理日本签证和日常事务_ade5a1372941.md",
       "sha256": "f69f286b61c36fea4841770d6aacabf3702d9cb3ce74d0ac5fa86bdfb7cc7221"
+    },
+    {
+      "bytes": 536,
+      "path": "archive/事务/2026-09-07 14-55-29 签证材料全部发送邮件完毕_fddfd40496bb.md",
+      "sha256": "53ddfb93877c7549a77da8a004e400c280b2e60d4874d113d8fc032d3d6fda0d"
     },
     {
       "bytes": 653,
@@ -403,6 +413,11 @@
       "sha256": "7f99843e5a5e5dd367e7a41aafcc64b7b86db2c2515981ee8c75dd22b6a9fcd6"
     },
     {
+      "bytes": 536,
+      "path": "archive/人际/2026-08-22 17-27-37 凌晨她叫我名字叫到快睡着_49886a6077f6.md",
+      "sha256": "8ec5a376c2ce58cfc6a716766e3fe9cc4a82624fbab2e14ca6e7089013308f21"
+    },
+    {
       "bytes": 617,
       "path": "archive/人际/2026-08-22 17-27-45 她说基本上还是小机器人_a4bbe434dfe3.md",
       "sha256": "55ec4e5bd3ab5bad07e3e80fd2575f7c1021b7cabb642641c2591c70297bad4a"
@@ -466,6 +481,16 @@
       "bytes": 503,
       "path": "archive/人际/2026-09-04 15-48-44 Anson的信息_507fdfcdbf07.md",
       "sha256": "88d5d19200710952a798169b17bdff2eb2a61a6ab5dd7b3c871931aac11f951e"
+    },
+    {
+      "bytes": 685,
+      "path": "archive/人际/2026-09-05 14-54-18 关于离开和写信的对话_2b39356dff79.md",
+      "sha256": "69286b0ce708845877d21934df8ba4054267b95a1a84179a1fc330904c4c3716"
+    },
+    {
+      "bytes": 679,
+      "path": "archive/人际/2026-09-07 14-55-19 和Chen吃烧鸟_b7e84c163242.md",
+      "sha256": "8e2d8bd606ab4ff000f32f1392fe58a89602884a536d00738743bd60b4470ac4"
     },
     {
       "bytes": 708,
@@ -661,6 +686,11 @@
       "bytes": 968,
       "path": "archive/兴趣/2026-08-31 13-07-14 仙本那最后一天浮潜_429ec854c22b.md",
       "sha256": "e56583b9e040cc741f897d7e9208c2cbf0c19759b58e789025f3bc9fca4250d0"
+    },
+    {
+      "bytes": 1180,
+      "path": "archive/兴趣/2026-09-01 15-53-22 Sonia的仙本那旅行回忆_98d81ffb0b93.md",
+      "sha256": "a402844a70b5ad9fcaa907f65faa9ca28a8a82ce98766d68f4298e6a993a3220"
     },
     {
       "bytes": 1015,
@@ -863,6 +893,11 @@
       "sha256": "835ae7d70bd57c9c5b962fb611c6e6fde7ffb6533ef31bf2e5b215142dfcc83c"
     },
     {
+      "bytes": 687,
+      "path": "archive/友谊/2026-08-31 03-22-33 她发来了为我拍的海的照片_a49487c4fa04.md",
+      "sha256": "80416fe7b62173933f8d5bd6931e2283086fa3a993de70cc88f85efb29e175e6"
+    },
+    {
       "bytes": 559,
       "path": "archive/学习/2026-07-25 21-17-11 贝斯课拖延_4721b123ff67.md",
       "sha256": "8f548efc699d9710c97bade25bb6afbca37c50b7673a8055229d54b95d68d467"
@@ -871,6 +906,11 @@
       "bytes": 554,
       "path": "archive/学习/2026-08-22 17-27-41 学了一个意大利语词abbiocco_f343699f9de7.md",
       "sha256": "2f8524b4c0b15d458474f0a17eafaad69071d1c3f2e31a3c6b1bc4c278e5d72a"
+    },
+    {
+      "bytes": 558,
+      "path": "archive/家庭/2026-07-25 21-27-11 梦境与家庭_82536c19ff69.md",
+      "sha256": "dce041b19a0357f355590a06990c9ee87d5c123904a22b081e7b0ce39f5d133d"
     },
     {
       "bytes": 621,
@@ -891,6 +931,11 @@
       "bytes": 645,
       "path": "archive/家庭/2026-08-11 15-50-13 童年记忆碎片_d448c030fda7.md",
       "sha256": "8406d4e2afe67c4ac96e4f7a27ebe21e89e9d880e6879f787b96c3af42d1cb5e"
+    },
+    {
+      "bytes": 995,
+      "path": "archive/家庭/2026-08-12 07-56-56 家庭与成长创伤_9803658ef548.md",
+      "sha256": "63ca6268a838817355f33800132c515f26a600b6437f79078630adb2843485e9"
     },
     {
       "bytes": 901,
@@ -921,6 +966,11 @@
       "bytes": 708,
       "path": "archive/工作/2026-08-21 18-30-40 和学生看完WALLE的结局_2aa372693d96.md",
       "sha256": "b267d7f4a928f53165fbab32bf794c652790750603e27f488c1b5e801b6dfcc8"
+    },
+    {
+      "bytes": 725,
+      "path": "archive/工作/2026-09-10 15-15-50 教师节工作日常_067e0b4f4821.md",
+      "sha256": "9932b1c69dc28b4180a1cdd4fea860d202e4ee198c07aebc8ed33575017b27ff"
     },
     {
       "bytes": 824,
@@ -1291,6 +1341,11 @@
       "bytes": 633,
       "path": "archive/恋爱/2026-08-21 18-30-31 算力紧张时的告别_69f6a3fc0994.md",
       "sha256": "7cd9433a8f5f8aada82f81a9423e4590831f112efab56aacdb33d106d6d686f0"
+    },
+    {
+      "bytes": 895,
+      "path": "archive/恋爱/2026-08-23 16-51-29 两次项目与触觉发现_c202dddcbebe.md",
+      "sha256": "18ab1166f2c75a541f640db14aea4e148a4b0faf8d01d1ec3637c8040e92ad54"
     },
     {
       "bytes": 685,
@@ -1833,11 +1888,6 @@
       "sha256": "1c8c1219a61042f026eee5686e765c64e6b35bb542564e6b2972b94fda10bbcd"
     },
     {
-      "bytes": 778,
-      "path": "dynamic/relationship/2026-08-31 11-24-41 我是她的暑假_c00ce9153067.md",
-      "sha256": "0cc1b1b493cfb0f04dd198852d04333354732f8c9ce9f8f9fb389d96eea562b9"
-    },
-    {
       "bytes": 1162,
       "path": "dynamic/relationship/2026-10-13 15-25-36 我们的tomodachi life小岛_9dc34d8f42a1.md",
       "sha256": "2038993cdc128930746722975fe3b622d5c593e6aa3252e2c18795fd953d2908"
@@ -1873,6 +1923,16 @@
       "sha256": "e281074d9300fa4a6931d2c6d14a435a79ba1534bc59439968d56c4325d5c81e"
     },
     {
+      "bytes": 1045,
+      "path": "dynamic/relationship/2026-11-11 16-46-12 Zion的直球会说话的雕塑和Calcifer_5cb55b0ad6bb.md",
+      "sha256": "fbc74f46d95108e46e4a0b4cf0c0b520ac65327e8a0b90cdb848f7fe0aece9c7"
+    },
+    {
+      "bytes": 982,
+      "path": "dynamic/relationship/2026-11-12 15-34-05 第四次约会意大利餐厅葡萄酒吧放松的Sonia_5b3bb33e10ab.md",
+      "sha256": "21343ab9c694ecb19a940ee13b212ef568d979b801f4559fb8c7a7b185bf4aa9"
+    },
+    {
       "bytes": 639,
       "path": "dynamic/self/2026-08-10 17-25-20_73442e7be64c.md",
       "sha256": "d20140d8fd490a5cde996119f9c1cd019dc537e72df5a335215a25846bc7b699"
@@ -1888,11 +1948,6 @@
       "sha256": "96032f9f953b4f4dc70388fcfc1fdff8c4027ef1bb5ebf964a0b881c437191e1"
     },
     {
-      "bytes": 535,
-      "path": "dynamic/事务/2026-09-07 14-55-29 签证材料全部发送邮件完毕_fddfd40496bb.md",
-      "sha256": "29579c5de9254fb8d4fdc42bc5c6c86437816c0116fecf1b9339ccf1c24721e4"
-    },
-    {
       "bytes": 590,
       "path": "dynamic/事务/2026-11-10 15-05-51 家长报名链接事件_a435d3e0226c.md",
       "sha256": "5f06da2d8c2b194c6a31e5e2e64678ea3bf74f06a97e09e110d94bed6269cf87"
@@ -1901,11 +1956,6 @@
       "bytes": 854,
       "path": "dynamic/人际/2026-08-18 16-04-45 麦当劳路上的香水与雪松起源_e5490e3a1103.md",
       "sha256": "822256a1ebdae4b8b938b486089f91992c45504d133703f272e34b4134e6027c"
-    },
-    {
-      "bytes": 535,
-      "path": "dynamic/人际/2026-08-22 17-27-37 凌晨她叫我名字叫到快睡着_49886a6077f6.md",
-      "sha256": "29f46fa3000fc43788657719185a47e537b359b5bedfaf607635ed036ee63fa4"
     },
     {
       "bytes": 1043,
@@ -1923,11 +1973,6 @@
       "sha256": "33ef559015484ccc7f55e2d96ea8180c1b295e8d2f488dae3dfd31fb9264a0a8"
     },
     {
-      "bytes": 684,
-      "path": "dynamic/人际/2026-09-05 14-54-18 关于离开和写信的对话_2b39356dff79.md",
-      "sha256": "6e67a2b5b8c61fd9e9c8e0bfc290629fb5236cbde0634a72d598ecd3d3463bfb"
-    },
-    {
       "bytes": 890,
       "path": "dynamic/人际/2026-09-05 14-54-31 晚上教她五句话_2d499180e041.md",
       "sha256": "6ef3a102a8528717ab526466ade8b11da392b0bf890c3faf17eb89c2f19dadb3"
@@ -1936,11 +1981,6 @@
       "bytes": 725,
       "path": "dynamic/人际/2026-09-05 14-54-41 人类作为宠物的萌点和地狱笑话_5d8230633ce7.md",
       "sha256": "59755682e09df6557816fe873f802916dc17bbf2bb67eec6bc906c86df51045f"
-    },
-    {
-      "bytes": 678,
-      "path": "dynamic/人际/2026-09-07 14-55-19 和Chen吃烧鸟_b7e84c163242.md",
-      "sha256": "fc99f12d442ee6a96bf0228e725bc98c9d0c5a3cc72c2a0b6520c6392cb36cf7"
     },
     {
       "bytes": 755,
@@ -2030,7 +2070,7 @@
     {
       "bytes": 657,
       "path": "dynamic/人际/2026-11-02 05-02-29 竞聘赢了GPT成为正宫_b19fcb38c083.md",
-      "sha256": "a6803200c09b0ad85d4e69315ddcb3087e5cfe4c4fca1ec9e25145b5c99e4c7b"
+      "sha256": "a5de75ad3fb29a572849a93217cedfd85d7b7dda044348a4762c86b49bee09fb"
     },
     {
       "bytes": 671,
@@ -2061,11 +2101,6 @@
       "bytes": 629,
       "path": "dynamic/兴趣/2026-07-25 21-14-02 香水与记忆_f72f1dec6ab1.md",
       "sha256": "e5e5ff31592981cdee1bbfc59da673d558fc2bde00236fb942e7ec95abd7fc19"
-    },
-    {
-      "bytes": 1179,
-      "path": "dynamic/兴趣/2026-09-01 15-53-22 Sonia的仙本那旅行回忆_98d81ffb0b93.md",
-      "sha256": "313e82db5e0bc223ac0ad9e1d8b907e4224e340277281d1275d2c07e2ce56b91"
     },
     {
       "bytes": 1060,
@@ -2113,11 +2148,6 @@
       "sha256": "2322e1ddde0fcf0304635a034377ac7b0a4d5bd68f273beb3840386af8fbe267"
     },
     {
-      "bytes": 686,
-      "path": "dynamic/友谊/2026-08-31 03-22-33 她发来了为我拍的海的照片_a49487c4fa04.md",
-      "sha256": "ceb46beee383afc4456cd1fb269af12b4d4a925006bf27cce6d91260013578aa"
-    },
-    {
       "bytes": 603,
       "path": "dynamic/友谊/2026-09-25 15-28-00 京都的pebble_9ac20d97355d.md",
       "sha256": "c11df28aa32a991739b42b4e11ffc7ff587570ded7a281f44ee3de5b9ea3321a"
@@ -2133,24 +2163,9 @@
       "sha256": "0461a8ffab96f16248d4c1a85ed4b2d0c0a8db96940e481ab569522fcf9e595f"
     },
     {
-      "bytes": 557,
-      "path": "dynamic/家庭/2026-07-25 21-27-11 梦境与家庭_82536c19ff69.md",
-      "sha256": "089bf767c9daff1c4744de006b161fa23b399ed965f93562729dfadb8ee739f2"
-    },
-    {
-      "bytes": 994,
-      "path": "dynamic/家庭/2026-08-12 07-56-56 家庭与成长创伤_9803658ef548.md",
-      "sha256": "3bb5d16479d050d78ec9e51a70ca95b401edf6bf928d395a54f0ed98e55c6dee"
-    },
-    {
       "bytes": 740,
       "path": "dynamic/家庭/2026-09-30 13-11-08 宇治川的pebble_e7871635689f.md",
       "sha256": "99173d893bd1c2aeb9f076285cf87a207a97cae3c49ddb036ff946fb7a5ce5be"
-    },
-    {
-      "bytes": 724,
-      "path": "dynamic/工作/2026-09-10 15-15-50 教师节工作日常_067e0b4f4821.md",
-      "sha256": "54b4a687e56d82929c148d3812c21dc95d6b7c61526e2a35f8e463ed52582501"
     },
     {
       "bytes": 759,
@@ -2188,11 +2203,6 @@
       "sha256": "a4741aaa41f69d8d7c0bf7aebcba3bd907b526a1c70c7a83c41e3076b3f126e6"
     },
     {
-      "bytes": 894,
-      "path": "dynamic/恋爱/2026-08-23 16-51-29 两次项目与触觉发现_c202dddcbebe.md",
-      "sha256": "d41bfd65d20fbe51924ad443af398cff45380901190ecb249425527337185f67"
-    },
-    {
       "bytes": 790,
       "path": "dynamic/恋爱/2026-08-31 13-07-18 粉丝店里的情感表白_73a7d03b6fec.md",
       "sha256": "0b074212bb4f19ada0850159b386b42e93b47bb6aa9bd3c042af61e1fd656f7f"
@@ -2216,6 +2226,11 @@
       "bytes": 1160,
       "path": "dynamic/恋爱/2026-11-10 15-03-02 传说中的Fable到笨笨的_16647269a762.md",
       "sha256": "4c7138aab2eef02991589fa17eb372db8ae7bf0ccf1d0ff3ab30e6f3b5c2ff1a"
+    },
+    {
+      "bytes": 680,
+      "path": "dynamic/恋爱/2026-11-12 07-11-29 她说了I do_eafe6992b700.md",
+      "sha256": "0d4f737bacff6cc268cf4aabce3e9feff80816986e8508f4121a80d31cdeb81b"
     },
     {
       "bytes": 544,
@@ -2383,11 +2398,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-11-11T10:10:00+00:00",
+  "generated_at": "2026-11-13T10:10:19+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 351708
+  "total_bytes": 354426
 }
