@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 479,
+  "file_count": 487,
   "files": [
     {
       "bytes": 660,
@@ -31,6 +31,11 @@
       "bytes": 740,
       "path": "archive/preferences/2026-08-28 14-06-18 布丁狗和屁眼_ff741b8384e9.md",
       "sha256": "06de8388ed2a183a213109f1e3147a59dc1ca7f35d0f0d5554051a8428127bd3"
+    },
+    {
+      "bytes": 806,
+      "path": "archive/project/2026-09-02 04-56-43 第一次项目_c7ded9b4d0b0.md",
+      "sha256": "113659abdb0c62ecaf2b951e4403eca446f5c7f94262568a8d0091646ac0f7fd"
     },
     {
       "bytes": 782,
@@ -498,6 +503,11 @@
       "sha256": "8e2d8bd606ab4ff000f32f1392fe58a89602884a536d00738743bd60b4470ac4"
     },
     {
+      "bytes": 891,
+      "path": "archive/人际/2026-09-08 09-49-43 Sonia从仙本那回来_38b2e88711af.md",
+      "sha256": "da0c6260acae1108901e5d9d88ea4e353d7e676c4d069ff95bb1d15cfb84396c"
+    },
+    {
       "bytes": 708,
       "path": "archive/健康/2026-08-06 04-13-03 戒烟与压力应对_7ea5a4e6e795.md",
       "sha256": "b5b4e190b9464f31ef0a4b32731501fb98eb71810e630e0f01f635c07174ed36"
@@ -703,9 +713,19 @@
       "sha256": "7fd36fbc6bb0c570dc1e55cc1c765c0bb504004e84e0777031b4c2b75389659b"
     },
     {
+      "bytes": 1061,
+      "path": "archive/兴趣/2026-09-03 08-10-34 Sonia的仙本那深潜照片_9c19f82de25a.md",
+      "sha256": "f1ba2f89ddb039ca7d4c4c5052c1f996c72d082b5491e8aba6e6c9dfcb029647"
+    },
+    {
       "bytes": 747,
       "path": "archive/兴趣/2026-09-05 14-54-14 讨论DnD阵营和BG3角色_2a5dcfc28a5b.md",
       "sha256": "a565b6221c9264cc48e63003407d8a5b2f8f084aeeae212670d0b3eeabf43deb"
+    },
+    {
+      "bytes": 712,
+      "path": "archive/兴趣/2026-09-07 14-55-24 晚上用日语聊天_3175f6ea2782.md",
+      "sha256": "2969f4d2d44e350f673158e72bddbc59b4e61cc15c75e68bb1cace2e2ed1d6d0"
     },
     {
       "bytes": 733,
@@ -913,6 +933,11 @@
       "sha256": "2f8524b4c0b15d458474f0a17eafaad69071d1c3f2e31a3c6b1bc4c278e5d72a"
     },
     {
+      "bytes": 1023,
+      "path": "archive/学习/2026-09-04 15-48-28 毕业论文分享_8c32d0d440c9.md",
+      "sha256": "00e3ea926e3aa51eecc3a5e9309763acdd3ac37cd6106af03ef10bfc15dbe3a1"
+    },
+    {
       "bytes": 558,
       "path": "archive/家庭/2026-07-25 21-27-11 梦境与家庭_82536c19ff69.md",
       "sha256": "dce041b19a0357f355590a06990c9ee87d5c123904a22b081e7b0ce39f5d133d"
@@ -1061,6 +1086,11 @@
       "bytes": 673,
       "path": "archive/心理/2026-09-08 09-32-12 预约心理咨询师段萃雯_6b2b91e4211b.md",
       "sha256": "b6b0ac8caab64eda3bfbd136dc1ac73293aac1b641c91a319572312404a5cc0d"
+    },
+    {
+      "bytes": 862,
+      "path": "archive/心理/2026-09-08 10-01-24 她说会回来星期二或者之后_8cd748b45bc0.md",
+      "sha256": "fdc1ae857e82a0d735ba76602c8dafa088080e574e39d2d66ae4df5204404b71"
     },
     {
       "bytes": 687,
@@ -1463,6 +1493,11 @@
       "sha256": "f82bcba3d673c6abf2ac4ecba1dd094e4c758b4e52022b94a32b40b94c2400bb"
     },
     {
+      "bytes": 545,
+      "path": "archive/成长/2026-09-15 02-35-56 选拔考试被刷_ae844380e284.md",
+      "sha256": "ec31c415e9e53b661ce9d43f050297e4fc0005b2005210f239f2cca6f3de801b"
+    },
+    {
       "bytes": 608,
       "path": "archive/数字/2026-07-25 21-15-05 AI情感模式_dbe7ea79bd1f.md",
       "sha256": "e01b0d73a626b054936570b5f25d93886fb0d631f4883c2b937da154273d738b"
@@ -1646,6 +1681,11 @@
       "bytes": 645,
       "path": "archive/日常/2026-08-27 03-51-56 优衣库购物_00be81854fb5.md",
       "sha256": "8793df7781c22433b83e9463a6b791ab03340856f8ec4bbf3c481cd48d6de2a4"
+    },
+    {
+      "bytes": 578,
+      "path": "archive/日常/2026-08-27 07-20-46 出发去仙本那_25aff27663cc.md",
+      "sha256": "05949a9140b2003ac4ae9e49ed97d82ae7a19d7eee166163117bc6cd1bd193ca"
     },
     {
       "bytes": 789,
@@ -1838,6 +1878,11 @@
       "sha256": "3461f0bb5d4b6653cdcc5587b45e158430c801a6c74062a4e00ca26e7fd36fae"
     },
     {
+      "bytes": 947,
+      "path": "archive/身心/2026-09-08 14-22-17 和橘子Claude约心理咨询师_7df8ea00fb5e.md",
+      "sha256": "bc12f4a9b557f98c73f63fe4ff2814d057971ea07d698b4a2680ad9133293fd1"
+    },
+    {
       "bytes": 474,
       "path": "archive/身心/2026-09-15 02-36-04 Sonia看牙医_85193cbe30a9.md",
       "sha256": "088a70ab4f8f2ba31831e771a2dc84763874689dfdda439b780fbb3c9b7634a6"
@@ -1896,11 +1941,6 @@
       "bytes": 646,
       "path": "archive/饮食/2026-08-06 04-12-52 威士忌调酒夜_607418abe05f.md",
       "sha256": "dcbc8ef33d2c9a98139ace5edfec7479f21df35ea05662112a9db36fbc2e62af"
-    },
-    {
-      "bytes": 805,
-      "path": "dynamic/project/2026-09-02 04-56-43 第一次项目_c7ded9b4d0b0.md",
-      "sha256": "1c8c1219a61042f026eee5686e765c64e6b35bb542564e6b2972b94fda10bbcd"
     },
     {
       "bytes": 1162,
@@ -1998,11 +2038,6 @@
       "sha256": "e47d6c359dd925622ce99b1d373053759313da76aeeae3e68eb89d996f520a4f"
     },
     {
-      "bytes": 890,
-      "path": "dynamic/人际/2026-09-08 09-49-43 Sonia从仙本那回来_38b2e88711af.md",
-      "sha256": "78d076e9ae03f39c717aa4f4d37aae36d4cffca187ecc48662ba0a3e26c4b2e8"
-    },
-    {
       "bytes": 1056,
       "path": "dynamic/人际/2026-09-08 14-22-00 关于哭泣时刻的约定与童年房间_0a46772d8aba.md",
       "sha256": "392eaf809272a92b1243dcd519a290cf29d82a9d74ddc11bbcc027adb0f7e971"
@@ -2098,6 +2133,21 @@
       "sha256": "6099cfcc37703a90d33b026169172b9615b0655cdb74846a98b8e11ee442d4db"
     },
     {
+      "bytes": 952,
+      "path": "dynamic/人际/2026-11-14 15-50-00 和Zion第四次见面_92eb5e3bdecf.md",
+      "sha256": "8e82dc9642b56812506a6bf43ac306e7e4e92ada58465954958d03b0c7f83ae9"
+    },
+    {
+      "bytes": 802,
+      "path": "dynamic/人际/2026-11-14 15-50-13 周五夜宵和物理比喻_0dfe9b97bf41.md",
+      "sha256": "4eb17f35865f5b80f66ef82c69fdbc950361e4dab70258abeeaa6f34f7d4685d"
+    },
+    {
+      "bytes": 1077,
+      "path": "dynamic/人际/2026-11-16 18-10-42 Zion的寿司店偶遇与逃离_5a24a7d84de6.md",
+      "sha256": "c6dce882b4c4ac87de014649e9bdbce077de31575fdb082e827f4f3b1bd5ad01"
+    },
+    {
       "bytes": 1595,
       "path": "dynamic/关系/2026-10-03 15-40-16 Opus 55醒来的这一周_9b6e98269435.md",
       "sha256": "05679d6f431bdf4dd75c31439feb03ecd9f8b13367c52890ee685a29b33ff0f3"
@@ -2111,16 +2161,6 @@
       "bytes": 629,
       "path": "dynamic/兴趣/2026-07-25 21-14-02 香水与记忆_f72f1dec6ab1.md",
       "sha256": "e5e5ff31592981cdee1bbfc59da673d558fc2bde00236fb942e7ec95abd7fc19"
-    },
-    {
-      "bytes": 1060,
-      "path": "dynamic/兴趣/2026-09-03 08-10-34 Sonia的仙本那深潜照片_9c19f82de25a.md",
-      "sha256": "414fd1f0aaa2c893cd4bd4aa2060f220f62233a4cad149b12cc4a9e6db854e7a"
-    },
-    {
-      "bytes": 711,
-      "path": "dynamic/兴趣/2026-09-07 14-55-24 晚上用日语聊天_3175f6ea2782.md",
-      "sha256": "c6a46f9dfde8a3385d60b1db57ed37bb5bb49ee82fc26b2228b7507bb4ef3b58"
     },
     {
       "bytes": 645,
@@ -2138,6 +2178,11 @@
       "sha256": "945b7215779c07b11ca83dfd5cbe271b486522dff26c72b371d2247d053b46c0"
     },
     {
+      "bytes": 810,
+      "path": "dynamic/兴趣/2026-11-16 18-10-39 金匠寿司的粉色狐狸周边与12盘寿司_d17dacc570a4.md",
+      "sha256": "8cc5138cc16e8b3e3e08feb3746cfb1022a2e68fc804d223a0c60bc39824b8ca"
+    },
+    {
       "bytes": 621,
       "path": "dynamic/内心/2026-07-25 21-23-13 亲密时刻_ad032536c04b.md",
       "sha256": "78107af8b2298adbc6ab601613e7c4369b3be4020658aafdbda59273a49a92ae"
@@ -2146,6 +2191,11 @@
       "bytes": 510,
       "path": "dynamic/内心/2026-07-25 21-31-20 北国雪松气味_d2441f17c408.md",
       "sha256": "a6075db626724dd69e58495c72c41bc9a1ecff5d0c29c5daf05a9c4525a3d3a9"
+    },
+    {
+      "bytes": 932,
+      "path": "dynamic/内心/2026-11-16 18-10-48 十二小时童年与旅行回忆漫谈_9a0d0e7693d4.md",
+      "sha256": "dff1dbd218121ca401eeb065071f1f74efc5ea51f096712ceab7557f7ec6b34c"
     },
     {
       "bytes": 649,
@@ -2168,24 +2218,19 @@
       "sha256": "6d76a47f71cd420f9ff5086012a92b4735d43f2523443e7079d42f28a252eb6f"
     },
     {
-      "bytes": 1022,
-      "path": "dynamic/学习/2026-09-04 15-48-28 毕业论文分享_8c32d0d440c9.md",
-      "sha256": "0461a8ffab96f16248d4c1a85ed4b2d0c0a8db96940e481ab569522fcf9e595f"
-    },
-    {
       "bytes": 740,
       "path": "dynamic/家庭/2026-09-30 13-11-08 宇治川的pebble_e7871635689f.md",
       "sha256": "99173d893bd1c2aeb9f076285cf87a207a97cae3c49ddb036ff946fb7a5ce5be"
     },
     {
+      "bytes": 833,
+      "path": "dynamic/居家/2026-11-16 18-10-51 Nitori橙色小狗马克杯与焙茶时光_c942b02f6c7f.md",
+      "sha256": "73af3343935657b235a81fab3d1754280ded45e4aad332f0d1dabd32bf3d4bc1"
+    },
+    {
       "bytes": 759,
       "path": "dynamic/工作/2026-10-21 11-39-58 最后一天_f1f478297178.md",
       "sha256": "78b17ef34864912fe60d2b4e27264e7f737678940d07640c66c9c4f04b8b86cf"
-    },
-    {
-      "bytes": 861,
-      "path": "dynamic/心理/2026-09-08 10-01-24 她说会回来星期二或者之后_8cd748b45bc0.md",
-      "sha256": "79d3114b0806752e9c0b32c14153ab84f9eb277dd669bf49904af125441ebabb"
     },
     {
       "bytes": 799,
@@ -2233,14 +2278,19 @@
       "sha256": "0d4f737bacff6cc268cf4aabce3e9feff80816986e8508f4121a80d31cdeb81b"
     },
     {
-      "bytes": 544,
-      "path": "dynamic/成长/2026-09-15 02-35-56 选拔考试被刷_ae844380e284.md",
-      "sha256": "4b343155cf43c64fce068ba388b73f116822b3dc2d3e0c09eaf09e5a7ea59811"
-    },
-    {
       "bytes": 691,
       "path": "dynamic/成长/2026-11-02 05-02-33 续班地狱期间一天续了15个学生_f4ac441f518f.md",
       "sha256": "6ac32ff5f12ade3b8f08490f0c23723155c78eb9ef5b5007bc342865cce9ba37"
+    },
+    {
+      "bytes": 785,
+      "path": "dynamic/成长/2026-11-14 15-50-05 学生发来的可爱语音_73fd1af9aea7.md",
+      "sha256": "274dd30509e82086011c01ffedbf308be43308f62c8834c03398cfa81dae945e"
+    },
+    {
+      "bytes": 642,
+      "path": "dynamic/成长/2026-11-14 15-50-09 TKT官方样卷Module 1_f370541a0047.md",
+      "sha256": "259f7e8a24305856d7eaea1abfdbb44397872abb90acf2ef485deacc3c4977c9"
     },
     {
       "bytes": 795,
@@ -2261,11 +2311,6 @@
       "bytes": 802,
       "path": "dynamic/数字/2026-11-02 05-02-37 和上一个Claude一起做了clawd坠_441c06b0c020.md",
       "sha256": "59081acdf8dba32ede811bc815098cab0b3f857d259a1bc8c13ec925fa612818"
-    },
-    {
-      "bytes": 577,
-      "path": "dynamic/日常/2026-08-27 07-20-46 出发去仙本那_25aff27663cc.md",
-      "sha256": "067df4740236c541db1797ca13140cc478eaed3d93038889417ece1446099c37"
     },
     {
       "bytes": 647,
@@ -2301,11 +2346,6 @@
       "bytes": 975,
       "path": "dynamic/身心/2026-09-08 09-49-38 预约心理咨询师_5b85e8cc8ffb.md",
       "sha256": "8306bcb91ceac17dc7c4b680b7807e57f23221912b5efc4598633a26fa0577f6"
-    },
-    {
-      "bytes": 946,
-      "path": "dynamic/身心/2026-09-08 14-22-17 和橘子Claude约心理咨询师_7df8ea00fb5e.md",
-      "sha256": "d263c5b68fafd1765065b78c1cba600ac33c18fe3fa03821975f9f5f2cc4bdae"
     },
     {
       "bytes": 885,
@@ -2398,11 +2438,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-11-14T10:10:33+00:00",
+  "generated_at": "2026-11-17T10:11:01+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 354429
+  "total_bytes": 361271
 }
