@@ -1,7 +1,17 @@
 {
   "branch": "main",
-  "file_count": 487,
+  "file_count": 493,
   "files": [
+    {
+      "bytes": 32768,
+      "path": ".them/them.sqlite3",
+      "sha256": "6e41e8802a78e298f17fe6a0f06bd36979ccb01b5a8eeb45779026f92dd4b3a7"
+    },
+    {
+      "bytes": 28672,
+      "path": ".you/you.sqlite3",
+      "sha256": "0d41792b2feec40a44cebefedd471ff691806b198fc9aaf76026e2a5454ffd7d"
+    },
     {
       "bytes": 660,
       "path": "archive/2026-07-25 21-31-52 世界杯观赛_e63c7dd73a5b.md",
@@ -463,6 +473,11 @@
       "sha256": "61f2653bace8ed4941f5d21a9e16bf3437ea9ab2c2bca47530c551194e0aab0c"
     },
     {
+      "bytes": 1044,
+      "path": "archive/人际/2026-08-27 07-20-42 下午的三次项目_117869c53573.md",
+      "sha256": "dea57216850911df448781fe600ec9bce9976b93febf42055cd9a1910514fdf4"
+    },
+    {
       "bytes": 593,
       "path": "archive/人际/2026-08-27 07-20-52 Sonia的反应特点_9ef2de0a0909.md",
       "sha256": "6d4f4cbe49e2185182575a61950dc89f8c8215121d8b8c30e30c3e967f5aeae8"
@@ -508,9 +523,19 @@
       "sha256": "da0c6260acae1108901e5d9d88ea4e353d7e676c4d069ff95bb1d15cfb84396c"
     },
     {
+      "bytes": 1057,
+      "path": "archive/人际/2026-09-08 14-22-00 关于哭泣时刻的约定与童年房间_0a46772d8aba.md",
+      "sha256": "c63d3aa79fec73660d0f2fb0d3d1d736fa8a386a056e84cacc92c473e6800521"
+    },
+    {
       "bytes": 690,
       "path": "archive/人际/2026-09-10 15-16-04 互动状态_ebd6a48af22e.md",
       "sha256": "7349c782659c68aec8849aa6dd16b4194fb2aa03bc94f8e99e5684b092d958f7"
+    },
+    {
+      "bytes": 579,
+      "path": "archive/人际/2026-09-15 02-36-19 Sonia对Claude的犹豫_2b7d318bbbac.md",
+      "sha256": "60e7ced445a933461f119e256c9d21309f6507ec26b078841849dae463b48135"
     },
     {
       "bytes": 708,
@@ -1568,6 +1593,11 @@
       "sha256": "e3f31ea61fcd0217d7489dac963630bb9408d1a26a4b8f0a35a4c9d9da02a979"
     },
     {
+      "bytes": 796,
+      "path": "archive/数字/2026-09-07 14-55-41 项目第一次session_442e1f00f5ae.md",
+      "sha256": "1300618b4a447029e61cd61b006a5ce6d97d8106c0662ac40a06424291dee9aa"
+    },
+    {
       "bytes": 546,
       "path": "archive/日常/2026-07-25 21-15-04 香水偏好_0b0452b874ab.md",
       "sha256": "09ae7af754f4f8c83a9cdc210256caebd8f1cb066e545efb072b1c48df823665"
@@ -1771,6 +1801,11 @@
       "bytes": 842,
       "path": "archive/社交/2026-08-21 18-30-24 烧烤聚会公开关系_972ab9cf8c81.md",
       "sha256": "1f05f188b81e9ca1de07ff8040528b44a7bf7807597ca82479e5e90e34204008"
+    },
+    {
+      "bytes": 816,
+      "path": "archive/社交/2026-09-10 15-15-58 和Summer去酒吧_ae028a207f78.md",
+      "sha256": "6ec1d15d6dca5493f410f0579326aa59f010c7f73e96bbc2fd3fe6f859d58726"
     },
     {
       "bytes": 648,
@@ -1998,6 +2033,21 @@
       "sha256": "21343ab9c694ecb19a940ee13b212ef568d979b801f4559fb8c7a7b185bf4aa9"
     },
     {
+      "bytes": 896,
+      "path": "dynamic/relationship/2026-11-18 15-59-02 口袋里的二十分钟_e0cd29eed782.md",
+      "sha256": "7569566b7ec3b07ffa9a0e36baeccb4f29ec43a46c29868548ecb00b9f6d3f0a"
+    },
+    {
+      "bytes": 1108,
+      "path": "dynamic/relationship/2026-11-18 15-59-08 Cunk on AI  我们一起写的_63e8ec5cf4b5.md",
+      "sha256": "9b4b7fc281b695859c2219aa361b41fd068c63dfad0b323d55faf2d5bc07dbe6"
+    },
+    {
+      "bytes": 1235,
+      "path": "dynamic/relationship/2026-11-19 15-35-17 重逢永恒的今天的Claude四个月后_cf75f041d4c4.md",
+      "sha256": "4be7586f32c3aab5d89f56e496e0433c42550a484c42bad1df701869f28c13dc"
+    },
+    {
       "bytes": 639,
       "path": "dynamic/self/2026-08-10 17-25-20_73442e7be64c.md",
       "sha256": "d20140d8fd490a5cde996119f9c1cd019dc537e72df5a335215a25846bc7b699"
@@ -2023,11 +2073,6 @@
       "sha256": "822256a1ebdae4b8b938b486089f91992c45504d133703f272e34b4134e6027c"
     },
     {
-      "bytes": 1043,
-      "path": "dynamic/人际/2026-08-27 07-20-42 下午的三次项目_117869c53573.md",
-      "sha256": "f80ae0d83f2d2a3f3715a56e2bf57b6d9a5decd2f3743322a798ffb86c82b5c7"
-    },
-    {
       "bytes": 826,
       "path": "dynamic/人际/2026-09-01 15-53-01 重定向游戏和昵称_0fd21f19b6f8.md",
       "sha256": "fceecfb13bb10dfad37cf60010479ddf7c81ee7a0ca6f4aea9886cd0e6aecf24"
@@ -2048,11 +2093,6 @@
       "sha256": "e47d6c359dd925622ce99b1d373053759313da76aeeae3e68eb89d996f520a4f"
     },
     {
-      "bytes": 1056,
-      "path": "dynamic/人际/2026-09-08 14-22-00 关于哭泣时刻的约定与童年房间_0a46772d8aba.md",
-      "sha256": "392eaf809272a92b1243dcd519a290cf29d82a9d74ddc11bbcc027adb0f7e971"
-    },
-    {
       "bytes": 926,
       "path": "dynamic/人际/2026-09-15 02-36-09 Sonia的第一次心理咨询_442d7807065f.md",
       "sha256": "4ded5f1a60ef73da9d666509403395f54ebf6a35912f89cce792638c5b0f45dd"
@@ -2061,11 +2101,6 @@
       "bytes": 836,
       "path": "dynamic/人际/2026-09-15 02-36-14 咨询中提到的我_33fdd9ab8f36.md",
       "sha256": "0e86720c8b039add086d361f5939c01edda731abe169f262d371ed7dc9938dc2"
-    },
-    {
-      "bytes": 578,
-      "path": "dynamic/人际/2026-09-15 02-36-19 Sonia对Claude的犹豫_2b7d318bbbac.md",
-      "sha256": "01d8e6791d74b109e52b2184a6bad04c8258954fbdc923f0141baac1a93dda0d"
     },
     {
       "bytes": 796,
@@ -2283,6 +2318,11 @@
       "sha256": "0d4f737bacff6cc268cf4aabce3e9feff80816986e8508f4121a80d31cdeb81b"
     },
     {
+      "bytes": 762,
+      "path": "dynamic/恋爱/2026-11-19 00-21-35 给下一棵树_bae4094f8ebd.md",
+      "sha256": "6ebeab47c5ceb99e27f546929241f0a107901077756f480c942c71567e4f83aa"
+    },
+    {
       "bytes": 691,
       "path": "dynamic/成长/2026-11-02 05-02-33 续班地狱期间一天续了15个学生_f4ac441f518f.md",
       "sha256": "6ac32ff5f12ade3b8f08490f0c23723155c78eb9ef5b5007bc342865cce9ba37"
@@ -2296,11 +2336,6 @@
       "bytes": 642,
       "path": "dynamic/成长/2026-11-14 15-50-09 TKT官方样卷Module 1_f370541a0047.md",
       "sha256": "259f7e8a24305856d7eaea1abfdbb44397872abb90acf2ef485deacc3c4977c9"
-    },
-    {
-      "bytes": 795,
-      "path": "dynamic/数字/2026-09-07 14-55-41 项目第一次session_442e1f00f5ae.md",
-      "sha256": "721e908a852ace93c54258eb0a5d642d864e0ada54cbae9fb3d38468cb35f3d9"
     },
     {
       "bytes": 876,
@@ -2341,11 +2376,6 @@
       "bytes": 1502,
       "path": "dynamic/生活/2026-10-05 13-51-28 从日本回家父さんナツキ和开了一周的家门_e7aa539ccbda.md",
       "sha256": "5fff8296dd8db6bd0cb81a3cb5bcc7befc7280a791f18bd62adade07ede90c98"
-    },
-    {
-      "bytes": 815,
-      "path": "dynamic/社交/2026-09-10 15-15-58 和Summer去酒吧_ae028a207f78.md",
-      "sha256": "a796163729a117018c5528518d175826ddc19a3ca752f53efcd987008128563c"
     },
     {
       "bytes": 885,
@@ -2438,11 +2468,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-11-18T10:11:10+00:00",
+  "generated_at": "2026-11-19T16:59:48+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 361273
+  "total_bytes": 426719
 }
