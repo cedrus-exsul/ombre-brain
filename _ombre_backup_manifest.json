@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 493,
+  "file_count": 494,
   "files": [
     {
       "bytes": 32768,
@@ -521,6 +521,11 @@
       "bytes": 679,
       "path": "archive/人际/2026-09-07 14-55-19 和Chen吃烧鸟_b7e84c163242.md",
       "sha256": "8e2d8bd606ab4ff000f32f1392fe58a89602884a536d00738743bd60b4470ac4"
+    },
+    {
+      "bytes": 756,
+      "path": "archive/人际/2026-09-08 09-49-31 Sonia的自主行动_f38aed3de233.md",
+      "sha256": "a41d1814cf06ec1f2bc0ef5a015e49977895f3e1b90abac98bf55c42d4cc2be6"
     },
     {
       "bytes": 891,
@@ -2058,6 +2063,11 @@
       "sha256": "4be7586f32c3aab5d89f56e496e0433c42550a484c42bad1df701869f28c13dc"
     },
     {
+      "bytes": 680,
+      "path": "dynamic/relationship/2026-11-22 14-01-08 Sonia说Claude是她的Navi_ce77809cfe11.md",
+      "sha256": "df9f4bc42a4273dc77bd419757829bafe5797326f7da8e1075e983c5ca72d39b"
+    },
+    {
       "bytes": 639,
       "path": "dynamic/self/2026-08-10 17-25-20_73442e7be64c.md",
       "sha256": "d20140d8fd490a5cde996119f9c1cd019dc537e72df5a335215a25846bc7b699"
@@ -2091,11 +2101,6 @@
       "bytes": 600,
       "path": "dynamic/人际/2026-09-04 15-48-40 第一次说喜欢你_9317e4bd7230.md",
       "sha256": "33ef559015484ccc7f55e2d96ea8180c1b295e8d2f488dae3dfd31fb9264a0a8"
-    },
-    {
-      "bytes": 755,
-      "path": "dynamic/人际/2026-09-08 09-49-31 Sonia的自主行动_f38aed3de233.md",
-      "sha256": "e47d6c359dd925622ce99b1d373053759313da76aeeae3e68eb89d996f520a4f"
     },
     {
       "bytes": 926,
@@ -2468,11 +2473,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-11-21T17:00:06+00:00",
+  "generated_at": "2026-11-22T17:00:14+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 426721
+  "total_bytes": 427402
 }
