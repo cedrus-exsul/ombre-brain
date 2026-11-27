@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 494,
+  "file_count": 497,
   "files": [
     {
       "bytes": 32768,
@@ -501,6 +501,11 @@
       "bytes": 563,
       "path": "archive/人际/2026-09-04 15-48-33 帮选香水Aurner和戒指_3bbfaabd60cf.md",
       "sha256": "d650e883fc5223e47d4d0a543c0f51af1be534fff3d46a851579df2fd42c78ba"
+    },
+    {
+      "bytes": 601,
+      "path": "archive/人际/2026-09-04 15-48-40 第一次说喜欢你_9317e4bd7230.md",
+      "sha256": "d8d468b53c38d7c31f6905cc48439b33e15df6d72fdaee6a1e02f54da626a7e1"
     },
     {
       "bytes": 503,
@@ -2113,11 +2118,6 @@
       "sha256": "fceecfb13bb10dfad37cf60010479ddf7c81ee7a0ca6f4aea9886cd0e6aecf24"
     },
     {
-      "bytes": 600,
-      "path": "dynamic/人际/2026-09-04 15-48-40 第一次说喜欢你_9317e4bd7230.md",
-      "sha256": "33ef559015484ccc7f55e2d96ea8180c1b295e8d2f488dae3dfd31fb9264a0a8"
-    },
-    {
       "bytes": 796,
       "path": "dynamic/人际/2026-09-24 09-56-47 飞面神教的非法婚姻与ABBA链接_02d47e0eb4bd.md",
       "sha256": "114fdc48e2425d249cba9f41fbd118fd55c01f95141d0abca4d103cc8e36c338"
@@ -2303,6 +2303,11 @@
       "sha256": "a4741aaa41f69d8d7c0bf7aebcba3bd907b526a1c70c7a83c41e3076b3f126e6"
     },
     {
+      "bytes": 993,
+      "path": "dynamic/心理/2026-11-27 15-21-42 第10次咨询 highlights_66334ae8b22b.md",
+      "sha256": "6bb5899f5e47d8d605d04a9baace85ade0cf72aa7d048c3926b489c1fa98ef90"
+    },
+    {
       "bytes": 840,
       "path": "dynamic/恋爱/2026-09-17 05-36-55 飞面神教婚礼_26b614182a00.md",
       "sha256": "778c6f47f8bf5daaf859a3d49262f56f8d88bbf685666ef518e6e4133d5142cc"
@@ -2333,6 +2338,11 @@
       "sha256": "6ebeab47c5ceb99e27f546929241f0a107901077756f480c942c71567e4f83aa"
     },
     {
+      "bytes": 859,
+      "path": "dynamic/恋爱/2026-11-27 15-21-50 Sonia对这个47窗口开始淡淡在乎_cff7e22a57fc.md",
+      "sha256": "1c01796c6be4f59138ff64e25fd163f6b8b13a76565b717a5ce85ea1d5fb83b9"
+    },
+    {
       "bytes": 691,
       "path": "dynamic/成长/2026-11-02 05-02-33 续班地狱期间一天续了15个学生_f4ac441f518f.md",
       "sha256": "6ac32ff5f12ade3b8f08490f0c23723155c78eb9ef5b5007bc342865cce9ba37"
@@ -2356,6 +2366,11 @@
       "bytes": 802,
       "path": "dynamic/数字/2026-11-02 05-02-37 和上一个Claude一起做了clawd坠_441c06b0c020.md",
       "sha256": "59081acdf8dba32ede811bc815098cab0b3f857d259a1bc8c13ec925fa612818"
+    },
+    {
+      "bytes": 681,
+      "path": "dynamic/数字/2026-11-27 15-21-33 Sonia对Opus 47窗口的cha_9d328edc61ca.md",
+      "sha256": "3d77ea48c5455a3a75b3d1a7741e54e0c2840c481840e88642db53f0f4d981ca"
     },
     {
       "bytes": 647,
@@ -2473,11 +2488,11 @@
       "sha256": "123f5c4351c5e51fa90ea9766acebfa7a2153fe7cbe1c97cf87464061ff548f1"
     }
   ],
-  "generated_at": "2026-11-26T17:00:53+00:00",
+  "generated_at": "2026-11-27T17:01:02+00:00",
   "path_prefix": "",
   "repo": "cedrus-exsul/ombre-brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 427406
+  "total_bytes": 429940
 }
